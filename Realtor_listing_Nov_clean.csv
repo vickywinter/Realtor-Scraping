@@ -1,0 +1,1409 @@
+address,area_ft,bath_full,bath_half,beds,built_year,city,days_on_market,lot_ft,price_ft,property_type,school1,school2,school3,sold_date,sold_price,state,zip_code
+XXX1,"1,908",2,1,4,1968,San Jose,1,"7,200",561,Single Family Home,4,8,6,25-Aug-18,1070000,CA,95123
+XXX2,"1,275",2,,2,2008,San Jose,1,898,847,Condo/Townhome/Row Home/Co-Op,4,3,7,7-Aug-18,1080000,CA,95126
+"994 Orchid Way,","1,220",2,,3,1962,San Jose,28,"5,992","1,123",Single Family Home,8,8,7,6-Jul-18,1370000,CA,95117
+"991 Jackson St,",681,1,,2,1910,San Jose,45,"4,185",984,Single Family Home,4,5,3,5-Aug-18,670000,CA,95112
+"990 Kiser Dr,","1,470",2,1,3,1985,San Jose,37,"2,500",789,Single Family Home,10,8,10,16-Aug-18,1160000,CA,95120
+"986 Katherine Ct,","1,048",2,,2,1918,San Jose,39,"4,264","1,126",Single Family Home,4,3,7,13-Sep-18,1180000,CA,95126
+"98 Park Sharon Dr,","2,084",2,,4,1977,San Jose,,"7,200",550,Single Family Home,6,4,8,5-Nov-18,1147000,CA,95136
+"971 Brookwood Ave,",902,2,,2,1930,San Jose,36,"3,960",831,Single Family Home,3,NR,4,31-Jul-18,750000,CA,95116
+"969 Bellhurst Ave,",986,2,,2,1970,San Jose,,784,467,Condo/Townhome/Row Home/Co-Op,5,2,5,12-Jun-18,460000,CA,95122
+"968 Desmet Ln,","2,377",3,,5,2000,San Jose,43,"3,294",551,Single Family Home,5,5,NR,7-Sep-18,1310000,CA,95125
+"967 Costen Ct,","1,431",3,,3,1999,San Jose,,"1,431",611,Condo/Townhome/Row Home/Co-Op,5,5,NR,6-Jul-18,875000,CA,95125
+"967 Arnold Way,","2,028",2,,4,1948,San Jose,,"9,638",727,Single Family Home,5,5,5,15-Jun-18,1475000,CA,95128
+"964-966 Zarick Dr,","2,366",,,5,1976,San Jose,36,,676,Multi-Family Home,8,8,7,8-Aug-18,1600000,CA,95129
+"964 N 2nd St,","1,932",,,,1950,San Jose,11,"6,771",621,Multi-Family Home,3,4,1,30-Jul-18,1200000,CA,95112
+"963 College Dr,","2,002",,,4,1958,San Jose,18,"8,030",699,Multi-Family Home,5,5,6,21-Aug-18,1400000,CA,95128
+"958 Cadet Pl,","2,124",2,1,4,1976,San Jose,42,"6,000",653,Single Family Home,6,6,9,6-Jul-18,1388000,CA,95133
+"950 Sapphire Ct,","1,572",2,,3,1970,San Jose,41,"6,527",593,Single Family Home,6,5,NR,17-Jul-18,932000,CA,95136
+"950 S Baywood Ave,","1,910",2,,3,1954,San Jose,45,"8,784",746,Single Family Home,6,5,6,31-Aug-18,1425000,CA,95128
+"95 Hobson St Apt 9B,",726,1,,1,1986,San Jose,37,"1,470",678,Condo/Townhome/Row Home/Co-Op,3,3,7,16-Aug-18,492000,CA,95110
+"945 Louise Ave,","2,222",2,,3,1951,San Jose,,"8,052",860,Single Family Home,7,6,6,17-Oct-18,1910000,CA,95125
+"944 Alta Mar Ter,","1,127",2,1,2,2006,San Jose,1,"1,112",665,Condo/Townhome/Row Home/Co-Op,4,6,7,19-Nov-18,750000,CA,95126
+"941 Sunbonnet Loop,","2,200",3,,5,2000,San Jose,41,"3,010",625,Single Family Home,5,5,9,2-Aug-18,1375000,CA,95125
+"941 Franquette Ave # A,","2,920",3,,4,2012,San Jose,63,0.52,850,Single Family Home,9,6,6,18-Jun-18,2481000,CA,95125
+"925 The Alameda Unit 119,","1,068",2,,1,2006,San Jose,52,"1,066",768,Condo/Townhome/Row Home/Co-Op,4,NR,7,5-Sep-18,820000,CA,95126
+"924 Harliss Ave,","1,152",1,,2,1925,San Jose,44,"5,600",664,Single Family Home,2,6,6,13-Sep-18,765000,CA,95110
+"922 Chapman St,","1,529",2,,3,1920,San Jose,37,"7,840",916,Single Family Home,4,3,7,22-Jun-18,1400000,CA,95126
+"921 Toyon Ave,","1,239",2,,3,1955,San Jose,35,"6,630",694,Single Family Home,3,6,10,8-Aug-18,860000,CA,95127
+"916 Lanewood Ct,","1,772",2,,3,1969,San Jose,49,"8,000",739,Single Family Home,5,6,6,13-Sep-18,1310000,CA,95125
+"915 Chabrant Way,",823,1,,2,1940,San Jose,31,"4,214","1,124",Single Family Home,7,6,6,22-Jun-18,925000,CA,95125
+"915 Cabernet Vineyards Ct,","1,549",2,1,2,1990,San Jose,38,"1,033",788,Condo/Townhome/Row Home/Co-Op,8,8,7,21-Sep-18,1220000,CA,95117
+"91 Cedar Ln,","1,215",1,,3,1947,San Jose,,"8,100",241,Single Family Home,NR,4,5,12-Jun-18,293000,CA,95127
+"905 Cape Jessup Dr,","2,084",2,,4,1976,San Jose,40,"6,000",614,Single Family Home,6,6,9,21-Sep-18,1280000,CA,95133
+"900 Golden Wheel Park Dr Spc 217,","1,440",2,,4,1981,San Jose,86,,181,Mfd/Mobile Home,6,1,NR,12-Jul-18,260000,CA,95112
+"900 Golden Wheel Park Dr Spc 197,","1,080",2,,2,1982,San Jose,50,,194,Mfd/Mobile Home,6,1,NR,25-Jul-18,210000,CA,95112
+"899 Salt Lake Dr,","1,904",2,1,4,1985,San Jose,58,"3,500",596,Single Family Home,3,6,NR,15-Jun-18,1135000,CA,95133
+"896 Gilchrist Dr Apt 2,",903,1,,2,1971,San Jose,,"1,500",509,Condo/Townhome/Row Home/Co-Op,7,6,9,10-Jul-18,460000,CA,95133
+"896 Dogwood Ct,","1,354",2,,3,1956,San Jose,,"8,024",997,Single Family Home,NR,5,6,3-Aug-18,1350000,CA,95128
+"889 Monarch Cir,","1,257",2,,2,1999,San Jose,14,"1,257",660,Condo/Townhome/Row Home/Co-Op,7,7,9,29-Jun-18,830000,CA,95138
+"889 Canfield Ct,","4,631",,,8,1979,San Jose,49,0.24,313,Multi-Family Home,6,5,NR,13-Jun-18,1450000,CA,95136
+"888 Ironwood Dr,","1,270",2,,3,1960,San Jose,35,"6,000",858,Single Family Home,5,6,6,27-Jul-18,1090000,CA,95125
+"8873 Wine Valley Cir,","2,032",2,,3,1997,San Jose,74,"5,800",477,Single Family Home,9,9,10,24-Aug-18,970000,CA,95135
+"881 Kozera Dr,","1,765",2,,3,1973,San Jose,52,"6,200",652,Single Family Home,6,5,NR,31-Aug-18,1150000,CA,95136
+"88 E San Fernando St Unit 906,",673,1,,1,2008,San Jose,,279,892,Condo/Townhome/Row Home/Co-Op,3,NR,7,9-Nov-18,600000,CA,95113
+"88 E San Fernando St Unit 807,",830,1,,1,2008,San Jose,1,279,898,Condo/Townhome/Row Home/Co-Op,3,NR,7,20-Jul-18,745000,CA,95113
+"88 E San Fernando St Unit 2003,","1,347",2,1,2,2008,San Jose,157,279,891,Condo/Townhome/Row Home/Co-Op,3,5,7,9-Jul-18,1200000,CA,95113
+"88 Donna Adelle Ct,","2,234",2,1,4,2005,San Jose,34,"7,477",584,Single Family Home,4,4,NR,13-Jun-18,1305000,CA,95127
+"879 Furlong Dr,","1,331",2,,3,1971,San Jose,43,"6,254",826,Single Family Home,4,6,NR,25-Jul-18,1100000,CA,95123
+"879 Corte De Plata,","1,507",2,,3,1975,San Jose,37,"5,280",591,Single Family Home,6,5,NR,23-Jul-18,890000,CA,95136
+"878 Le Compte Pl,","1,176",2,,3,1977,San Jose,46,"6,000",765,Single Family Home,5,3,5,9-Jul-18,900000,CA,95122
+"876 White Moonstone Loop,","2,258",3,1,4,2015,San Jose,1,"1,507",456,Condo/Townhome/Row Home/Co-Op,8,7,6,17-Jul-18,1030000,CA,95123
+"874 Morse St,","2,606",3,,5,1915,San Jose,35,"7,772",691,Single Family Home,4,3,7,16-Aug-18,1800000,CA,95126
+"874 Font Ter,","1,335",2,1,2,2007,San Jose,44,"1,851",689,Condo/Townhome/Row Home/Co-Op,2,7,7,6-Sep-18,920000,CA,95126
+"872 White Moonstone Loop,","1,901",3,1,3,2014,San Jose,52,"1,959",484,Condo/Townhome/Row Home/Co-Op,8,7,5,15-Jun-18,920000,CA,95123
+"87 Eastwood Ct,","1,530",,,,1956,San Jose,35,"5,942",635,Multi-Family Home,3,NR,NR,10-Jul-18,972000,CA,95116
+"868 S 2nd St,","1,632",1,,3,1904,San Jose,80,"5,125",386,Single Family Home,4,2,7,28-Aug-18,630000,CA,95112
+"865 Basking Ln,","1,512",3,,2,1999,San Jose,35,"1,512",562,Condo/Townhome/Row Home/Co-Op,7,7,8,17-Aug-18,850000,CA,95138
+"8636 Solera Dr,","1,690",2,,2,1993,San Jose,87,"1,650",541,Condo/Townhome/Row Home/Co-Op,9,9,10,6-Sep-18,915000,CA,95135
+"86 Little Bear Way,","1,452",2,1,3,1985,San Jose,45,"1,272",528,Condo/Townhome/Row Home/Co-Op,6,4,8,20-Jul-18,767000,CA,95136
+"856 Bucks Lake Ct,",734,1,,1,1995,San Jose,12,870,775,Condo/Townhome/Row Home/Co-Op,4,6,NR,15-Jun-18,568750,CA,95123
+"854 N 19th St,","1,377",1,,3,1934,San Jose,,"6,375",363,Single Family Home,3,NR,3,19-Oct-18,500000,CA,95112
+"853 Windsor Hills Cir,","1,890",3,,4,1997,San Jose,61,"3,307",625,Single Family Home,4,6,8,14-Sep-18,1182000,CA,95123
+"85-87 Eastwood Ct,","1,530",,,4,1956,San Jose,34,,635,Multi-Family Home,3,NR,NR,10-Jul-18,972000,CA,95116
+"849 Eden Ave,","1,673",2,,4,1956,San Jose,42,"8,280",867,Single Family Home,6,5,5,22-Jun-18,1450000,CA,95117
+"8487 Grenache Ct,","1,497",2,,2,1978,San Jose,,"2,660",458,Condo/Townhome/Row Home/Co-Op,9,9,10,10-Oct-18,685000,CA,95135
+"846 Gilchrist Walkway Walk Unit 4,",810,1,,2,1971,San Jose,91,,556,Condo/Townhome/Row Home/Co-Op,7,6,1,22-Jun-18,450000,CA,95133
+"846 Gilchrist Dr # 4,",810,1,,2,1971,San Jose,49,"1,500",556,Condo/Townhome/Row Home/Co-Op,7,6,9,26-Jun-18,450000,CA,95133
+"845 Seabury Dr,","2,039",2,1,4,1968,San Jose,37,"6,000",539,Single Family Home,6,5,NR,6-Jul-18,1100000,CA,95136
+"845 Promenade Ct,","2,535",3,,4,1997,San Jose,45,"4,080",560,Single Family Home,7,7,8,24-Jul-18,1420000,CA,95138
+"845 Minnesota Ave,","1,284",1,,2,1934,San Jose,23,"4,600",888,Single Family Home,7,6,6,4-Aug-18,1140000,CA,95125
+"845 E Taylor St,","1,012",1,,3,1912,San Jose,45,"5,535",860,Single Family Home,4,5,NR,12-Jul-18,870000,CA,95112
+"8437 Chenin Blanc Ln,","1,803",2,,2,1978,San Jose,26,"3,360",499,Condo/Townhome/Row Home/Co-Op,9,9,10,14-Jun-18,900000,CA,95135
+"843 Georgetown Pl # 905,","1,584",3,,3,2002,San Jose,64,814,811,Condo/Townhome/Row Home/Co-Op,4,NR,7,11-Sep-18,1285000,CA,95126
+"84 Rosebay Ct,","1,247",3,,3,1989,San Jose,49,"1,482",24,Condo/Townhome/Row Home/Co-Op,5,4,4,2-Oct-18,30273,CA,95127
+"84 N White Rd,",924,1,,2,1927,San Jose,57,"7,500",756,Single Family Home,5,4,5,27-Jul-18,698888,CA,95127
+"84 N Cragmont Ave,","1,724",2,,3,1948,San Jose,48,"7,670",519,Single Family Home,5,4,NR,12-Sep-18,895000,CA,95127
+"838 Salt Lake Dr,","2,725",3,,4,1985,San Jose,58,"6,100",506,Single Family Home,3,6,NR,11-Jun-18,1380000,CA,95133
+"838 Coyote Rd,",992,2,,2,1985,San Jose,37,"2,700",565,Condo/Townhome/Row Home/Co-Op,2,4,6,13-Jul-18,560000,CA,95111
+"837 Wyman Way Apt 4,",798,1,,2,1971,San Jose,42,"1,500",576,Condo/Townhome/Row Home/Co-Op,7,6,9,18-Jul-18,460000,CA,95133
+"8352 Charbono Ct,","1,370",2,,2,1978,San Jose,38,"2,960",503,Condo/Townhome/Row Home/Co-Op,9,9,10,26-Jun-18,689000,CA,95135
+"830 Salt Lake Dr,","2,662",3,,5,1984,San Jose,82,"6,000",488,Single Family Home,3,6,1,28-Aug-18,1300000,CA,95133
+"829 Nevada Ave,","1,411",1,,3,1936,San Jose,11,"5,600","1,070",Single Family Home,7,6,6,20-Aug-18,1510000,CA,95125
+"818 Goodwin Ave,","1,123",2,,3,1954,San Jose,37,"5,720","1,158",Single Family Home,5,5,6,23-Aug-18,1300000,CA,95128
+"811 S Clover Ave,","1,956",2,1,4,1954,San Jose,35,"7,918",792,Single Family Home,6,5,6,21-Sep-18,1550000,CA,95128
+"81 Cottage Grove Ave,",905,1,,2,1925,San Jose,41,"3,680",725,Single Family Home,8,6,6,13-Jun-18,656000,CA,95110
+"809 Auzerais Ave Unit 440,","1,274",2,,2,2008,San Jose,79,620,683,Condo/Townhome/Row Home/Co-Op,2,7,7,27-Aug-18,870000,CA,95126
+"809 Auzerais Ave Unit 317,",824,1,1,1,2008,San Jose,32,620,850,Condo/Townhome/Row Home/Co-Op,2,7,7,12-Sep-18,700000,CA,95126
+"809 Auzerais Ave Unit 308,","1,118",2,,2,2008,San Jose,35,620,798,Condo/Townhome/Row Home/Co-Op,2,7,7,13-Jul-18,892000,CA,95126
+"809 Auzerais Ave Unit 156,",824,1,,1,2008,San Jose,,620,843,Condo/Townhome/Row Home/Co-Op,2,7,7,25-Sep-18,695000,CA,95126
+"806 Font Ter,","1,343",2,1,2,2007,San Jose,32,"1,561",707,Condo/Townhome/Row Home/Co-Op,2,7,7,13-Aug-18,950000,CA,95126
+"804 Pitkin Loop,","2,654",3,,5,1999,San Jose,43,"3,600",528,Single Family Home,5,5,NR,21-Sep-18,1400000,CA,95125
+"8016 Pinot Noir Ct,",731,1,,1,1974,San Jose,42,900,561,Condo/Townhome/Row Home/Co-Op,9,9,10,13-Aug-18,410000,CA,95135
+"801 S Winchester Blvd Apt 5105,","1,178",2,,3,2005,San Jose,123,892,848,Condo/Townhome/Row Home/Co-Op,6,5,6,23-Jul-18,999000,CA,95128
+"801 S Winchester Blvd Apt 3401,","1,178",2,,3,2005,San Jose,51,892,874,Condo/Townhome/Row Home/Co-Op,6,5,5,19-Jul-18,1030000,CA,95128
+"801 S Winchester Blvd Apt 2202,",986,2,,2,2005,San Jose,37,892,"1,077",Condo/Townhome/Row Home/Co-Op,6,5,5,15-Jun-18,1061800,CA,95128
+"80 Manning Ave,","2,920",5,,10,1946,San Jose,35,,342,Multi-Family Home,5,4,5,29-Jun-18,1000000,CA,95127
+"797 S 12th St,","1,107",1,1,2,1916,San Jose,39,"5,069",736,Single Family Home,3,NR,4,20-Aug-18,815000,CA,95112
+"790 Glenside Dr,","2,124",2,1,4,1971,San Jose,43,"6,240",541,Single Family Home,4,6,NR,7-Aug-18,1150000,CA,95123
+"79 Castlebridge Dr,",456,1,,1,1983,San Jose,42,"1,875",768,Condo/Townhome/Row Home/Co-Op,4,2,NR,21-Sep-18,350000,CA,95116
+"783 Sweetwater Way,",850,1,,2,1972,San Jose,1,"1,540",600,Condo/Townhome/Row Home/Co-Op,7,6,9,23-Jul-18,510000,CA,95133
+"782 Luna Park Dr,","1,391",3,,3,2009,San Jose,,"1,525",755,Condo/Townhome/Row Home/Co-Op,3,3,1,23-Jul-18,1050000,CA,95112
+"782 Calero Ave,","1,514",2,,3,1969,San Jose,57,"6,000",651,Single Family Home,4,6,NR,24-Aug-18,985000,CA,95123
+"7810 Prestwick Cir,","1,490",2,,2,1969,San Jose,35,435,455,Condo/Townhome/Row Home/Co-Op,9,9,10,9-Jul-18,678000,CA,95135
+"781 Bend Ave,","1,937",2,1,3,1967,San Jose,49,"6,262",531,Single Family Home,6,5,NR,6-Sep-18,1029000,CA,95136
+"780 Gateview Dr,","1,436",2,,5,1976,San Jose,28,"6,000",634,Single Family Home,7,6,9,20-Sep-18,910000,CA,95133
+"78 Southport Ct,","1,474",2,,4,1981,San Jose,49,"5,600",604,Single Family Home,7,7,8,17-Aug-18,890000,CA,95138
+"7779 Beltane Dr,","1,265",2,,2,1992,San Jose,47,435,514,Condo/Townhome/Row Home/Co-Op,9,9,10,18-Jul-18,650000,CA,95135
+"776 Minnesota Ave,","1,768",2,,3,1938,San Jose,,"5,550",860,Single Family Home,8,6,6,11-Sep-18,1520000,CA,95125
+"7753 Beltane Dr,","1,804",2,,2,1989,San Jose,31,435,443,Condo/Townhome/Row Home/Co-Op,9,9,10,18-Jun-18,800000,CA,95135
+"765 Bonita Pl,","1,231",2,1,3,2005,San Jose,37,700,561,Condo/Townhome/Row Home/Co-Op,3,2,4,13-Jul-18,690000,CA,95116
+"7636 Buckhaven Dr,","1,751",2,1,2,1988,San Jose,40,"2,400",483,Condo/Townhome/Row Home/Co-Op,9,9,10,31-Jul-18,845000,CA,95135
+"754 Pearlwood Way,","1,512",2,,3,1974,San Jose,60,"6,000",638,Single Family Home,4,6,5,17-Aug-18,965000,CA,95123
+"752 Delmas Ave,","1,271",2,,3,1914,San Jose,29,"5,382",854,Single Family Home,2,7,7,15-Jun-18,1086000,CA,95125
+"750 Pronto Dr,","1,846",2,,4,1972,San Jose,1,"6,090",446,Single Family Home,4,6,5,5-Sep-18,823000,CA,95123
+"745 N Monroe St,","1,512",2,,4,1950,San Jose,79,"7,007",898,Single Family Home,4,4,7,31-Jul-18,1358000,CA,95128
+"742 Northrup St Apt 644,","1,002",2,,2,1991,San Jose,30,"2,298",763,Condo/Townhome/Row Home/Co-Op,7,6,6,20-Jul-18,765000,CA,95126
+"741 Batista Dr,","1,938",4,,2,2005,San Jose,,956,515,Condo/Townhome/Row Home/Co-Op,7,NR,NR,4-Oct-18,997375,CA,95136
+"738 Pinto Dr,","1,647",,,4,1969,San Jose,53,"6,461",577,Multi-Family Home,3,6,5,16-Jul-18,950000,CA,95111
+"737 Los Huecos Dr,","1,530",2,,4,1968,San Jose,,"6,100",648,Single Family Home,4,6,NR,6-Nov-18,992000,CA,95123
+"733 Creekfield Dr,","1,576",3,,4,1983,San Jose,126,"3,200",571,Single Family Home,5,5,NR,20-Jul-18,900000,CA,95136
+"732 N 16th St,",816,1,,2,1949,San Jose,53,"5,500","1,040",Single Family Home,3,5,3,28-Sep-18,849000,CA,95112
+"7318 Alexis Manor Pl,","2,723",3,,5,1999,San Jose,35,"7,083",716,Single Family Home,10,8,10,27-Jun-18,1950000,CA,95120
+"7313 Pawtucket Way,","1,350",2,,3,1972,San Jose,34,"6,050",704,Single Family Home,6,6,8,5-Jul-18,950000,CA,95139
+"7309 Via Piedra,","1,837",2,,3,1984,San Jose,39,435.6,501,Condo/Townhome/Row Home/Co-Op,6,9,10,18-Sep-18,920000,CA,95135
+"7307 Via Granja,","1,781",2,,2,1984,San Jose,29,436,505,Condo/Townhome/Row Home/Co-Op,6,9,10,20-Jul-18,900000,CA,95135
+"730 Ardis Ave,","1,196",1,1,3,1955,San Jose,42,"9,360","1,020",Single Family Home,6,5,6,17-Aug-18,1220000,CA,95117
+"730 Arbor Dr,","1,004",1,,3,1950,San Jose,40,"5,643","1,145",Single Family Home,9,6,6,6-Aug-18,1150000,CA,95125
+"727 Albanese Cir,","1,726",2,,4,1977,San Jose,,"6,000",539,Single Family Home,6,7,2,28-Sep-18,930000,CA,95111
+"7260 Clear Vista Ct,","2,179",2,1,4,2006,San Jose,35,"3,920",555,Single Family Home,7,7,8,7-Sep-18,1210000,CA,95138
+"7255 Martwood Way,","1,538",2,1,3,1985,San Jose,41,"4,394",839,Single Family Home,10,8,10,30-Jul-18,1290000,CA,95120
+"724 Adeline Ave,","1,750",2,1,3,2005,San Jose,43,748,618,Condo/Townhome/Row Home/Co-Op,7,9,NR,1-Aug-18,1081000,CA,95136
+"719 Star Jasmine Ct,","1,509",2,1,3,1997,San Jose,36,912,724,Condo/Townhome/Row Home/Co-Op,6,1,NR,17-Aug-18,1092000,CA,95131
+"7183 Indian Valley Ct,","1,452",3,,4,1972,San Jose,129,"1,560",481,Condo/Townhome/Row Home/Co-Op,6,6,8,13-Sep-18,699000,CA,95139
+"718 Millich Dr Unit A,","1,018",2,,2,1964,San Jose,,"1,196",982,Condo/Townhome/Row Home/Co-Op,4,4,7,26-Jul-18,1000000,CA,95117
+"7156 Calero Hills Ct,","1,674",3,,3,1976,San Jose,65,"2,059",448,Condo/Townhome/Row Home/Co-Op,6,6,8,12-Sep-18,750000,CA,95139
+"7150 Rainbow Dr Apt 21,","1,050",1,1,2,1964,San Jose,41,435,905,Condo/Townhome/Row Home/Co-Op,9,9,10,29-Aug-18,950000,CA,95129
+"7148 Via Maria,","1,220",2,,2,1968,San Jose,29,"6,120",754,Single Family Home,6,6,8,5-Jul-18,920000,CA,95139
+"712 Concord Ave,","2,956",,,7,1959,San Jose,53,"6,953",443,Multi-Family Home,5,5,5,9-Jul-18,1310000,CA,95128
+"711 Mill Stream Dr,","1,560",2,,2,1977,San Jose,41,,114,Mfd/Mobile Home,3,6,6,24-Aug-18,178000,CA,95125
+"7106 Clarendon St,","1,542",2,1,3,1979,San Jose,42,720,947,Condo/Townhome/Row Home/Co-Op,9,9,10,14-Jun-18,1460000,CA,95129
+"710 N 19th St,","1,417",2,,3,1956,San Jose,75,"5,850",600,Single Family Home,4,5,3,31-Aug-18,850000,CA,95112
+"710 E San Fernando St,","2,062",,,4,1920,San Jose,38,"4,420",606,Multi-Family Home,3,2,NR,29-Jun-18,1250000,CA,95112
+"708 Messina Gardens Ln,","1,774",4,,4,2009,San Jose,34,"1,774",603,Condo/Townhome/Row Home/Co-Op,7,6,1,15-Aug-18,1070000,CA,95133
+"708 Grandview Ter,","1,522",3,,3,2009,San Jose,85,972,598,Condo/Townhome/Row Home/Co-Op,3,6,1,14-Sep-18,910000,CA,95133
+"7055 Windward Ct,","3,153",3,,5,1997,San Jose,,0.39,603,Single Family Home,9,9,10,17-Oct-18,1900000,CA,95135
+"7024 Hollow Lake Way,","3,292",3,1,5,1999,San Jose,35,0.34,729,Single Family Home,9,8,10,5-Jul-18,2400000,CA,95120
+"702 Avenue One,","2,205",3,1,4,2016,San Jose,29,"1,438",483,Condo/Townhome/Row Home/Co-Op,8,7,6,15-Aug-18,1065000,CA,95123
+"7019 Elwood Rd,","3,173",3,1,4,1972,San Jose,40,0.31,764,Single Family Home,9,8,10,17-Sep-18,2425000,CA,95120
+"7006 Silver Star Ct,","1,984",2,1,3,1994,San Jose,28,"1,218",638,Condo/Townhome/Row Home/Co-Op,9,8,10,23-Jul-18,1265000,CA,95120
+"7005 Polvadero Dr,","1,120",1,1,3,1971,San Jose,50,"6,600",799,Single Family Home,5,7,8,31-Aug-18,895000,CA,95119
+"700 Continental Dr,","1,260",2,,3,1958,San Jose,76,"5,000",540,Single Family Home,4,4,6,18-Sep-18,680000,CA,95111
+"6998 Sessions Dr,","1,824",2,,3,1980,San Jose,79,"6,600",548,Single Family Home,6,7,8,3-Aug-18,998888,CA,95119
+"6993 Rodling Dr,","1,093",3,,2,1992,San Jose,61,550,594,Condo/Townhome/Row Home/Co-Op,6,6,8,14-Sep-18,649000,CA,95138
+"6993 Rodling Dr Unit E,","1,093",2,1,2,1992,San Jose,44,,594,Condo/Townhome/Row Home/Co-Op,6,6,8,14-Sep-18,649000,CA,95138
+"6985 Rodling Dr,","1,093",3,,2,1992,San Jose,91,513,587,Condo/Townhome/Row Home/Co-Op,6,6,8,15-Aug-18,642000,CA,95138
+"6984 Polvadero Dr,","1,508",2,1,3,1970,San Jose,51,"6,000",580,Single Family Home,5,7,8,21-Jun-18,875000,CA,95119
+"698 Morse St,","2,642",2,1,4,1985,San Jose,49,"7,007",681,Single Family Home,4,3,7,15-Jun-18,1800000,CA,95126
+"6974 El Marcero Ct,","1,014",1,,2,1970,San Jose,62,"7,000",809,Single Family Home,5,7,8,29-Aug-18,820000,CA,95119
+"6971 Rodling Dr Unit C,","1,129",2,1,3,1992,San Jose,35,435,540,Condo/Townhome/Row Home/Co-Op,6,6,8,1-Aug-18,610000,CA,95138
+"6971 Claywood Way,","2,310",3,,4,1980,San Jose,47,"8,100",736,Single Family Home,10,8,10,28-Sep-18,1700000,CA,95120
+"697 Cree Dr,","1,372",2,,3,1968,San Jose,39,"6,496",867,Single Family Home,7,8,NR,15-Jun-18,1190000,CA,95123
+"6965 Rodling Dr Unit B,","1,093",3,,2,1992,San Jose,,435,587,Condo/Townhome/Row Home/Co-Op,6,6,8,1-Nov-18,642000,CA,95138
+"6958 Grandwood Way,","2,760",3,,4,1980,San Jose,45,"8,100",679,Single Family Home,10,8,10,11-Jun-18,1875000,CA,95120
+"694 Bold Ct,","1,431",2,,3,1962,San Jose,20,0.3,559,Single Family Home,2,4,8,25-Oct-18,800000,CA,95111
+"694 Albanese Cir,","1,484",2,,4,1977,San Jose,,"6,000",573,Single Family Home,6,7,2,29-Oct-18,850000,CA,95111
+"693 Azule Ave,","1,345",2,,4,1966,San Jose,61,"5,928",814,Single Family Home,6,8,NR,18-Sep-18,1095000,CA,95123
+"6924 Lenwood Way,","1,540",2,,3,1972,San Jose,31,0.24,"1,061",Single Family Home,9,8,10,15-Jun-18,1633500,CA,95120
+"6917 Rodling Dr Unit A,","1,377",3,,3,1992,San Jose,,435,548,Condo/Townhome/Row Home/Co-Op,6,6,8,14-Sep-18,755000,CA,95138
+"686 Whitewater Ct,","1,040",2,,2,1984,San Jose,69,"1,238",625,Condo/Townhome/Row Home/Co-Op,7,6,1,12-Jun-18,650000,CA,95133
+"6854 Burnside Dr,","2,240",3,,4,1972,San Jose,23,"8,050",714,Single Family Home,10,8,10,29-Jun-18,1600000,CA,95120
+"685 Locust St,","1,266",1,,3,1908,San Jose,30,"6,070",648,Single Family Home,2,7,7,20-Jul-18,820000,CA,95110
+"683 Choctaw Ct,","1,440",2,,3,1972,San Jose,,"7,000",729,Single Family Home,7,8,NR,8-Nov-18,1050000,CA,95123
+"6820 Moselle Dr,","1,324",2,,3,1970,San Jose,32,"6,000",748,Single Family Home,5,7,8,20-Jul-18,990000,CA,95119
+"681 S 13th St,","1,556",2,,3,1957,San Jose,38,"7,230",707,Single Family Home,3,NR,4,23-Oct-18,1100000,CA,95112
+"680 Lanfair Dr,",912,2,,2,1988,San Jose,40,435,554,Condo/Townhome/Row Home/Co-Op,7,5,NR,1-Nov-18,505000,CA,95136
+"68 Cedar Ln,",980,1,,2,1948,San Jose,29,"8,775",765,Single Family Home,4,4,4,31-Aug-18,750000,CA,95127
+"6751 Positano Ln,","2,360",2,1,3,1997,San Jose,84,"3,750",561,Single Family Home,7,7,8,30-Aug-18,1325000,CA,95138
+"6747 Mount Pakron Dr,","2,080",3,,4,1969,San Jose,30,"7,995",841,Single Family Home,10,8,10,14-Jun-18,1750000,CA,95120
+"674 Lanfair Dr,",648,1,,1,1988,San Jose,63,435,627,Condo/Townhome/Row Home/Co-Op,7,5,NR,3-Aug-18,406000,CA,95136
+"671 Bundy Ave,","1,727",2,1,3,1955,San Jose,67,"8,250",695,Single Family Home,6,5,6,17-Sep-18,1200000,CA,95117
+"6641 Mount Wellington Dr,","2,634",3,,5,1967,San Jose,34,"7,866",689,Single Family Home,9,8,10,21-Aug-18,1815000,CA,95120
+"6637 Hampton Dr,","2,593",3,,5,1964,San Jose,,0.31,694,Single Family Home,9,6,10,2-Oct-18,1800000,CA,95120
+"6635 Catamaran St,","2,010",2,,4,1972,San Jose,59,"6,000",585,Single Family Home,5,7,8,11-Jun-18,1175000,CA,95119
+"663 N Capitol Ave,","1,504",2,1,2,2005,San Jose,28,"1,180",568,Condo/Townhome/Row Home/Co-Op,7,6,1,14-Jun-18,855000,CA,95133
+"6598 Crystal Springs Dr,","2,481",2,1,4,1966,San Jose,45,0.31,775,Single Family Home,9,6,10,15-Jun-18,1922000,CA,95120
+"6587 Jeremie Dr,","2,220",2,1,4,1967,San Jose,36,"8,040",856,Single Family Home,9,6,10,13-Jul-18,1900000,CA,95120
+"6569 Crown Blvd,","3,662",,,6,1973,San Jose,21,0.29,498,Multi-Family Home,9,6,10,1-Aug-18,1825000,CA,95120
+"6562 Graystone Meadow Cir,","2,955",3,1,5,1995,San Jose,37,0.32,778,Single Family Home,10,8,10,26-Jul-18,2300000,CA,95120
+"6543 Gravina Loop,","2,579",2,1,4,2010,San Jose,44,"4,846",504,Single Family Home,7,7,9,19-Jul-18,1300000,CA,95138
+"6540 Pajaro Way,","2,110",2,,4,1962,San Jose,50,0.24,773,Single Family Home,9,6,10,6-Jul-18,1630000,CA,95120
+"6538 Hampton Dr,","1,908",2,,4,1962,San Jose,34,0.25,804,Single Family Home,9,6,10,25-Jul-18,1534237,CA,95120
+"6513 Lovely Creek Ct,","2,933",3,,4,1998,San Jose,99,"7,797",498,Single Family Home,6,7,8,30-Aug-18,1459888,CA,95123
+"651 Genine Dr,","1,030",1,,3,1949,San Jose,42,"5,200",817,Single Family Home,8,4,1,26-Jul-18,841000,CA,95127
+"65 N King Rd,",864,1,,4,1940,San Jose,17,0.23,781,Multi-Family Home,3,NR,NR,30-Jul-18,675000,CA,95116
+"6495 Applegate Ct,","1,408",2,,4,1970,San Jose,,"6,725",668,Single Family Home,8,7,8,28-Sep-18,940200,CA,95119
+"649 Yolo Ct # 502,",648,1,,1,1988,San Jose,41,435,617,Condo/Townhome/Row Home/Co-Op,7,5,NR,10-Oct-18,400000,CA,95136
+"649 Sinclair Dr,","1,760",,,6,1961,San Jose,42,"6,000",595,Multi-Family Home,3,2,NR,18-Sep-18,1048000,CA,95116
+"647 Modern Ice Dr,","1,224",2,,3,2007,San Jose,51,"1,224",694,Condo/Townhome/Row Home/Co-Op,3,3,1,20-Sep-18,850000,CA,95112
+"6452 Oberlin Way,","1,722",2,1,4,1985,San Jose,83,"4,000",581,Single Family Home,8,7,8,8-Aug-18,1000000,CA,95123
+"6440 Purple Hills Dr,","2,563",3,,5,1972,San Jose,,"6,000",458,Single Family Home,8,7,8,25-Oct-18,1175000,CA,95119
+"6427 Trinidad Dr,","1,867",2,,4,1976,San Jose,48,"8,000",841,Single Family Home,9,6,10,31-Jul-18,1570000,CA,95120
+"6420 Berwickshire Way,","2,651",3,,4,1972,San Jose,61,"8,000",547,Single Family Home,9,6,8,14-Sep-18,1450000,CA,95120
+"642 Oldham Way,","1,440",,,,1961,San Jose,,"6,240",608,Multi-Family Home,6,6,6,17-Oct-18,875000,CA,95111
+"640 Gridley St,",900,1,,3,1963,San Jose,41,"5,000",811,Single Family Home,8,4,NR,31-Jul-18,730000,CA,95127
+"6398 Menlo Dr,","1,630",3,,4,1963,San Jose,42,"6,105",902,Single Family Home,9,8,10,14-Sep-18,1470000,CA,95120
+"638 Marble Arch Ave,","1,057",2,1,2,2000,San Jose,27,"1,057",825,Condo/Townhome/Row Home/Co-Op,7,9,NR,26-Jun-18,872000,CA,95136
+"636 Teatree Ct,",658,1,,1,1988,San Jose,50,"1,390",821,Condo/Townhome/Row Home/Co-Op,5,5,6,31-Aug-18,540000,CA,95128
+"6358 Pismo Ct,","2,386",2,1,4,1976,San Jose,40,"7,546",549,Single Family Home,6,8,8,7-Aug-18,1310000,CA,95123
+"6355 Felder Dr,","1,833",2,,4,1969,San Jose,,"5,544",529,Single Family Home,6,7,8,20-Jun-18,970000,CA,95123
+"6352 Running Springs Rd,","3,308",3,,4,1996,San Jose,39,0.37,665,Single Family Home,9,9,10,17-Jul-18,2200000,CA,95135
+"6352 Firefly Dr,","1,657",2,,4,1972,San Jose,39,"6,000",806,Single Family Home,9,6,8,22-Jun-18,1335000,CA,95120
+"6340 Mountford Dr,","1,475",2,,4,1969,San Jose,,"6,903",610,Single Family Home,6,7,8,7-Aug-18,900000,CA,95123
+"6340 Farm Hill Way,","1,125",2,,3,1961,San Jose,36,"8,175",947,Single Family Home,9,6,10,20-Jul-18,1065000,CA,95120
+"634 Marble Arch Ave,","1,894",3,,3,2000,San Jose,83,,554,Condo/Townhome/Row Home/Co-Op,7,NR,NR,18-Jul-18,1050000,CA,95136
+"634 Marble Arch Ave # 1023,","1,894",3,,3,2000,San Jose,23,"1,894",554,Condo/Townhome/Row Home/Co-Op,,,,18-Jul-18,1050000,CA,95136
+"6315 Cessna Ct,","2,273",3,,4,1976,San Jose,49,"7,900",561,Single Family Home,6,8,8,26-Sep-18,1275000,CA,95123
+"6312 Whaley Dr,","1,340",2,,2,1974,San Jose,71,"2,400",511,Condo/Townhome/Row Home/Co-Op,9,9,10,29-Jun-18,685000,CA,95135
+"6308 Felder Dr,","2,186",2,1,4,1968,San Jose,38,"5,500",503,Single Family Home,6,7,8,2-Aug-18,1100000,CA,95123
+"630 Cedarville Ln,","1,522",3,,3,2012,San Jose,50,"1,522",673,Condo/Townhome/Row Home/Co-Op,7,6,1,6-Jul-18,1025000,CA,95133
+"63 Southgate Ct,","2,455",2,1,5,1981,San Jose,53,"5,600",448,Single Family Home,6,7,9,23-Jul-18,1100000,CA,95138
+"6292 Culvert Dr,","1,826",2,,4,1967,San Jose,,"6,120",739,Single Family Home,6,8,8,26-Sep-18,1350000,CA,95123
+"6288 Ceanothus Ln,","1,293",2,1,2,1996,San Jose,24,"1,000",603,Condo/Townhome/Row Home/Co-Op,8,7,6,16-Aug-18,780000,CA,95119
+"6284 Snell Ave,","1,734",2,,3,1967,San Jose,26,"6,600",571,Single Family Home,6,8,8,13-Sep-18,990000,CA,95123
+"6284 Mountford Dr,","1,475",2,,4,1969,San Jose,41,"5,500",746,Single Family Home,6,7,8,10-Oct-18,1100000,CA,95123
+"6277 Ginashell Cir,","2,039",3,,4,1996,San Jose,31,"4,000",638,Single Family Home,8,7,6,20-Sep-18,1300000,CA,95119
+"6276 Ginashell Cir,","2,039",3,,4,1996,San Jose,,"4,000",638,Single Family Home,8,7,5,12-Jun-18,1300000,CA,95119
+"6271 Hopi Cir,","1,738",2,,4,1968,San Jose,43,"5,974",673,Single Family Home,7,8,NR,29-Jun-18,1170000,CA,95123
+"6268 Sager Way,","1,409",2,,3,1968,San Jose,31,"6,120",795,Single Family Home,7,8,NR,20-Jul-18,1120000,CA,95123
+"6261 Solano Dr,","2,181",2,1,5,1970,San Jose,97,"6,000",587,Single Family Home,8,7,8,30-Jul-18,1280000,CA,95119
+"6255 Blauer Ct,","1,357",2,,2,1977,San Jose,28,"2,964",534,Condo/Townhome/Row Home/Co-Op,6,9,10,12-Jul-18,725000,CA,95135
+"6254 Firefly Dr,","2,096",3,,5,1972,San Jose,65,"8,034",749,Single Family Home,9,6,8,23-Aug-18,1570000,CA,95120
+"6244 Rainbow Dr,","1,416",2,,4,1960,San Jose,42,"6,180","1,624",Single Family Home,9,9,10,13-Jun-18,2300000,CA,95129
+"6234 Solomon Ct,","2,017",2,,3,1968,San Jose,,"5,985",350,Single Family Home,6,7,8,24-Oct-18,705500,CA,95123
+"622 Berryessa Rd,","1,778",1,,4,1920,San Jose,64,"5,408",548,Single Family Home,3,3,1,11-Sep-18,975000,CA,95112
+"6219 Radiant Dr,","1,649",2,,3,1967,San Jose,35,"6,120",667,Single Family Home,6,8,8,14-Aug-18,1100000,CA,95123
+"6215 Sunstone Dr,","1,901",3,1,3,2015,San Jose,73,"1,332",487,Condo/Townhome/Row Home/Co-Op,8,7,6,17-Sep-18,925000,CA,95123
+"621 Heatherkirk Ct,","1,794",2,,4,1976,San Jose,39,"6,700",658,Single Family Home,7,8,NR,21-Aug-18,1180000,CA,95123
+"6209 Tracel Dr,","2,264",3,,4,1969,San Jose,36,"6,489","1,051",Single Family Home,9,9,10,25-Sep-18,2380000,CA,95129
+"6174 Paseo Pueblo Dr,","1,770",2,,4,1969,San Jose,,"8,295",839,Single Family Home,9,6,8,28-Sep-18,1485000,CA,95120
+"616 Devlin Ct,",720,1,,1,1985,San Jose,43,877,706,Condo/Townhome/Row Home/Co-Op,7,6,1,28-Jun-18,508000,CA,95133
+"616 Boardwalk,","1,224",2,,3,2007,San Jose,32,"1,224",734,Condo/Townhome/Row Home/Co-Op,3,4,1,3-Jul-18,898000,CA,95112
+"6154 Calle Esperanza,","2,013",2,1,4,1972,San Jose,45,"7,920",733,Single Family Home,9,6,8,23-Aug-18,1475000,CA,95120
+"615 Lanfair Dr,","1,603",2,,4,1969,San Jose,50,"6,600",490,Single Family Home,7,5,NR,15-Jun-18,785000,CA,95136
+"6137 Yeadon Way,","2,039",3,,4,1996,San Jose,42,"4,000",667,Single Family Home,8,7,5,14-Jun-18,1360000,CA,95119
+"6130 Monterey Rd Spc 64,","1,732",2,,3,1999,San Jose,78,,185,Mfd/Mobile Home,7,7,8,19-Sep-18,320000,CA,95138
+"6130 Monterey Rd Spc 316,","1,586",2,,3,1995,San Jose,35,,167,Mfd/Mobile Home,7,7,8,14-Sep-18,265000,CA,95138
+"6130 Monterey Rd Spc 219,","1,512",2,,3,1977,San Jose,55,,120,Mfd/Mobile Home,7,7,9,25-Jul-18,182000,CA,95138
+"6130 Monterey Rd Spc 206,","1,585",2,,3,2000,San Jose,77,,189,Mfd/Mobile Home,7,7,9,30-Jul-18,299900,CA,95138
+"6130 Monterey Hwy,","1,960",2,,3,2000,San Jose,46,,189,Mfd/Mobile Home,7,7,9,12-Jun-18,370000,CA,95138
+"6130 Monterey Hwy Spc 94,","1,650",2,,3,2000,San Jose,87,,180,Mfd/Mobile Home,7,7,9,30-Jul-18,297500,CA,95138
+"6130 Monterey Hwy Spc 256,","1,440",2,,3,1973,San Jose,28,,128,Mfd/Mobile Home,7,7,8,10-Sep-18,184950,CA,95138
+"612 Cayuga Dr,","1,565",2,,3,1968,San Jose,30,"7,500",740,Single Family Home,7,8,NR,15-Jun-18,1157500,CA,95123
+"612 Calpella Dr,","1,330",2,,3,1974,San Jose,33,"6,000",835,Single Family Home,7,5,5,18-Jul-18,1111000,CA,95136
+"6117 Yeadon Way,","1,680",2,1,4,1996,San Jose,30,"4,000",690,Single Family Home,8,7,5,6-Jul-18,1160000,CA,95119
+"6108 Ute Dr,","1,223",2,,3,1968,San Jose,41,"6,000",785,Single Family Home,7,8,NR,18-Jun-18,960000,CA,95123
+"610 N 21st St,","1,154",2,,3,1920,San Jose,80,"8,225",685,Single Family Home,4,5,3,19-Sep-18,790000,CA,95112
+"6091 Calle De Amor,","1,490",2,1,2,1977,San Jose,48,"2,300",644,Condo/Townhome/Row Home/Co-Op,9,8,9,11-Jun-18,960000,CA,95124
+"6082 Almaden Expy,","1,800",2,,3,1965,San Jose,,1.92,800,Single Family Home,9,6,10,26-Jul-18,1440000,CA,95120
+"6069 Chesbro Ave,","1,848",3,,4,1966,San Jose,43,"6,464",568,Single Family Home,4,6,NR,21-Aug-18,1050000,CA,95123
+"6052 Burchell Ave,","2,578",3,,4,1964,San Jose,41,"8,880",465,Single Family Home,9,6,8,10-Oct-18,1200000,CA,95120
+"6051 Paso Los Cerritos,","1,997",2,,4,1972,San Jose,35,"7,000",618,Single Family Home,9,6,8,13-Jun-18,1235000,CA,95120
+"6036 Charlotte Dr,","1,635",2,1,3,2015,San Jose,29,"1,857",678,Single Family Home,8,7,5,5-Jul-18,1108000,CA,95123
+"6029 Montgomery Cor,","1,415",2,,2,1972,San Jose,26,"1,300",401,Condo/Townhome/Row Home/Co-Op,6,9,10,23-Aug-18,568000,CA,95135
+"6028 Via Madero Dr,","2,674",2,1,5,1965,San Jose,28,"8,142",585,Single Family Home,9,8,8,23-Aug-18,1565000,CA,95120
+"6023 Rocco Ct,","2,276",2,1,4,2018,San Jose,32,,692,Single Family Home,,,,12-Jul-18,1575000,CA,95120
+"6022 Countess Dr,","2,053",2,,4,1963,San Jose,75,"6,000","1,052",Single Family Home,9,9,10,6-Aug-18,2160000,CA,95129
+"602 Hermes Ct,","1,496",2,1,3,1989,San Jose,38,"3,002",498,Condo/Townhome/Row Home/Co-Op,6,9,2,30-Jun-18,745000,CA,95111
+"6006 Paxton Ct,","2,124",2,1,4,1968,San Jose,64,"6,300",579,Single Family Home,4,6,NR,7-Aug-18,1230000,CA,95123
+"6 Pala Ave,","1,112",1,,2,1948,San Jose,56,"6,000",631,Single Family Home,NR,4,5,13-Jun-18,702000,CA,95127
+"5992 Dry Oak Ct,","2,559",3,,3,1989,San Jose,14,"3,636",586,Condo/Townhome/Row Home/Co-Op,9,6,8,27-Jul-18,1500000,CA,95120
+"5977 Mohawk Dr,","1,173",2,,3,1967,San Jose,30,"6,500",878,Single Family Home,6,8,NR,15-Jun-18,1030000,CA,95123
+"5970 Lake Almanor Dr,",982,2,,2,1994,San Jose,35,435,723,Condo/Townhome/Row Home/Co-Op,4,6,8,2-Aug-18,710000,CA,95123
+"5967 Tuscarora Ct,","1,232",2,,3,1971,San Jose,64,"6,300",860,Single Family Home,7,8,2,25-Jul-18,1060000,CA,95123
+"5958 Dry Oak Dr,","2,334",2,1,3,1989,San Jose,37,"4,365",529,Condo/Townhome/Row Home/Co-Op,9,6,8,18-Jul-18,1235000,CA,95120
+"5947 Hosta Ln,","2,154",2,1,4,1976,San Jose,31,0.31,882,Single Family Home,9,8,9,17-Aug-18,1900000,CA,95124
+"594 Novak Dr,","1,147",2,,3,1963,San Jose,25,"5,200",741,Single Family Home,8,4,NR,13-Jul-18,850000,CA,95127
+"5937 Lake Hennessy Ct,",982,2,,2,1995,San Jose,,"1,178",733,Condo/Townhome/Row Home/Co-Op,4,6,NR,13-Jun-18,720000,CA,95123
+"5925 Hillview Ave,","2,362",2,1,4,1988,San Jose,44,0.24,601,Single Family Home,4,6,NR,26-Jul-18,1420000,CA,95123
+"5921 Pistoia Way,","1,664",2,,3,1996,San Jose,40,"6,870",835,Single Family Home,9,9,8,8-Aug-18,1390000,CA,95138
+"5909 Holgate Ave,","1,675",2,,3,1971,San Jose,,"7,350",597,Single Family Home,7,8,2,6-Nov-18,1000000,CA,95123
+"5900 Eastman Lake Dr,","1,224",3,,3,1994,San Jose,26,850,654,Condo/Townhome/Row Home/Co-Op,4,6,8,21-Aug-18,800000,CA,95123
+"5900 Allen Ave,","2,558",2,,4,1985,San Jose,75,0.27,586,Single Family Home,4,6,5,21-Aug-18,1500000,CA,95123
+"590 Novak Dr,","1,080",2,,3,1963,San Jose,49,"5,200",787,Single Family Home,8,4,1,7-Aug-18,850000,CA,95127
+"590 Hull Ave,","1,088",1,,2,1938,San Jose,32,"6,480",869,Single Family Home,7,6,6,10-Aug-18,945000,CA,95125
+"5873 Pistoia Way,","2,413",3,,3,1996,San Jose,68,"5,000",680,Single Family Home,9,9,8,21-Jun-18,1640000,CA,95138
+"5851 Capilano Dr,","3,293",4,1,5,1997,San Jose,58,"8,749",559,Single Family Home,9,9,10,15-Jun-18,1840000,CA,95138
+"5844 Paddon Cir,","1,846",2,,4,1968,San Jose,45,"6,300",607,Single Family Home,7,8,6,13-Aug-18,1120000,CA,95123
+"5842 Comanche Dr,","1,208",2,,3,1966,San Jose,61,"6,200",786,Single Family Home,6,8,2,19-Sep-18,950000,CA,95123
+"5838 Halleck Dr,","1,089",1,1,3,1971,San Jose,36,"6,000",992,Single Family Home,4,6,NR,19-Jun-18,1080000,CA,95123
+"5837 Embee Dr,","2,008",3,,4,1967,San Jose,,"6,000",473,Single Family Home,5,7,6,20-Jul-18,950000,CA,95123
+"5828 Recife Way,","1,858",2,,3,1971,San Jose,44,"8,050",727,Single Family Home,9,6,8,2-Aug-18,1350000,CA,95120
+"5828 Chesbro Ave,","1,516",2,,4,1963,San Jose,41,"7,020",620,Single Family Home,4,6,NR,26-Jun-18,940000,CA,95123
+"5820 Firestone Ct,","3,014",4,,4,1998,San Jose,48,"8,729",597,Single Family Home,9,9,8,30-Jul-18,1798000,CA,95138
+"582 Manzana Pl,","1,336",2,,1,2004,San Jose,,"1,080",621,Condo/Townhome/Row Home/Co-Op,3,3,3,18-Oct-18,830000,CA,95112
+"5810 Killarney Cir,","1,875",2,,3,1996,San Jose,,"5,000",760,Single Family Home,9,9,8,11-Oct-18,1425000,CA,95138
+"5808 Firestone Ct,","2,695",3,,4,1998,San Jose,43,"8,207",640,Single Family Home,9,9,8,24-Aug-18,1725000,CA,95138
+"580 Edelweiss Dr,","1,424",2,,3,1969,San Jose,25,"7,811",667,Single Family Home,7,5,5,16-Jul-18,950000,CA,95136
+"580 Crystalberry Ter,","1,408",2,1,4,1972,San Jose,41,"1,386",866,Condo/Townhome/Row Home/Co-Op,6,7,10,19-Jul-18,1220000,CA,95129
+"5792 Comanche Dr,","1,173",2,,3,1965,San Jose,34,"6,528",780,Single Family Home,6,8,2,9-Jul-18,915000,CA,95123
+"5791 Ponce Ct,","1,966",2,,4,1971,San Jose,15,"8,268",706,Single Family Home,9,6,8,30-Oct-18,1388000,CA,95120
+"579 Mill Pond Dr,","1,536",2,,2,1979,San Jose,57,,195,Mfd/Mobile Home,8,6,6,19-Jul-18,300000,CA,95125
+"5770 Winfield Blvd Spc 145,","1,650",2,,3,2017,San Jose,61,,267,Mfd/Mobile Home,4,6,8,20-Aug-18,439900,CA,95123
+"5770 Winfield Blvd Spc 12,","1,708",2,,3,2002,San Jose,54,,212,Mfd/Mobile Home,4,6,8,11-Sep-18,362500,CA,95123
+"577 Groth Dr,","1,392",2,1,4,1982,San Jose,29,732,435,Condo/Townhome/Row Home/Co-Op,2,3,6,6-Sep-18,605000,CA,95111
+"576 Giuffrida Ave Apt 16,","1,320",2,1,3,1981,San Jose,50,610,563,Condo/Townhome/Row Home/Co-Op,4,8,6,8-Aug-18,743000,CA,95123
+"575 Easton Dr,","1,298",2,,3,1985,San Jose,,"4,800",647,Single Family Home,3,4,1,10-Oct-18,840000,CA,95133
+"574 Rutland Ave,",978,1,,2,1939,San Jose,37,"5,000",973,Single Family Home,5,5,5,16-Jul-18,951568,CA,95128
+"5715 Hillbright Cir,","1,409",2,,3,1968,San Jose,51,"6,000",763,Single Family Home,7,8,NR,19-Jul-18,1075000,CA,95123
+"5711 La Seyne Pl,","6,920",5,,5,1999,San Jose,2,0.27,592,Single Family Home,9,9,9,29-Jun-18,4100000,CA,95138
+"5701 Calmor Ave Apt 2,",903,1,,2,1970,San Jose,,"8,052",559,Condo/Townhome/Row Home/Co-Op,4,6,5,17-Oct-18,505000,CA,95123
+"5698 Keymar Dr,","1,195",2,,3,1965,San Jose,45,"6,305",780,Single Family Home,NR,8,2,3-Aug-18,932000,CA,95123
+"5689 Makati Cir Apt G,",690,1,,1,1985,San Jose,39,924,696,Condo/Townhome/Row Home/Co-Op,5,7,5,30-Jul-18,480000,CA,95123
+"5673 Holland Ln,","1,252",2,,4,1960,San Jose,66,"6,000",719,Single Family Home,9,8,8,15-Jun-18,900000,CA,95118
+"5653 Judith St,","1,797",3,,3,1964,San Jose,65,"6,510",551,Single Family Home,3,8,6,10-Sep-18,990000,CA,95123
+"5629 Playa Del Rey Ct Apt 1,",810,1,,2,1970,San Jose,35,"9,900",667,Condo/Townhome/Row Home/Co-Op,4,6,NR,3-Jul-18,540000,CA,95123
+"5622 Snowdon Pl,","3,429",4,,4,1996,San Jose,,0.25,611,Single Family Home,9,9,8,29-Oct-18,2093500,CA,95138
+"5617 Playa del Rey Apt 3,",903,1,,2,1970,San Jose,,"8,925",556,Condo/Townhome/Row Home/Co-Op,4,6,5,7-Aug-18,502500,CA,95123
+"5604 Silver Leaf Rd,","2,149",3,,5,1978,San Jose,129,"7,313",442,Single Family Home,,,,26-Jun-18,950000,CA,95138
+"5592 Le Fevre Dr,","1,874",2,1,3,1994,San Jose,36,"3,037",752,Single Family Home,9,8,8,13-Jul-18,1410000,CA,95118
+"5585 Cornell Dr,","1,189",2,,3,1959,San Jose,55,"6,300","1,304",Single Family Home,8,8,8,20-Jun-18,1550000,CA,95118
+"5568 Snowdon Pl,","3,107",3,1,4,1996,San Jose,66,"8,540",644,Single Family Home,9,9,8,29-Jun-18,2000000,CA,95138
+"556 Quail Bush Ct,","1,117",2,1,2,1985,San Jose,50,600,900,Condo/Townhome/Row Home/Co-Op,6,5,5,15-Jun-18,1005000,CA,95117
+"5559 Spinnaker Dr Apt 2,",903,1,,2,1970,San Jose,56,"1,750",526,Condo/Townhome/Row Home/Co-Op,3,8,5,27-Jun-18,475000,CA,95123
+"5551 Yale Dr,","1,189",2,,3,1959,San Jose,43,"6,300",892,Single Family Home,8,8,8,22-Jun-18,1060000,CA,95118
+"5550 Spinnaker Dr Apt 2,",903,1,,2,1970,San Jose,43,"1,750",543,Condo/Townhome/Row Home/Co-Op,3,8,5,19-Jul-18,490000,CA,95123
+"555 Umbarger Rd Spc 17,","3,049",2,,3,2000,San Jose,251,,65,Mfd/Mobile Home,6,6,6,17-Jul-18,197000,CA,95111
+"5544 Morningside Dr,","3,429",4,,4,1996,San Jose,63,"6,600",6,Single Family Home,9,9,8,18-Jun-18,21500,CA,95138
+"553 Shadow Dance Dr,",871,2,,2,1987,San Jose,,"1,081",769,Condo/Townhome/Row Home/Co-Op,8,6,6,25-Sep-18,670000,CA,95110
+"552 Bradley Ave,","1,460",1,,2,1945,San Jose,1,"5,250",634,Single Family Home,4,5,6,28-Aug-18,925000,CA,95128
+"5512 Blossom Terrace Ct,","1,550",3,,4,1960,San Jose,62,"6,715","1,012",Single Family Home,10,8,9,20-Aug-18,1568000,CA,95124
+"5511 Yale Dr,","1,185",2,,3,1958,San Jose,,"5,670",975,Single Family Home,8,8,8,19-Sep-18,1155000,CA,95118
+"5510 Makati Cir # 246,",924,1,,2,1985,San Jose,34,924,601,Condo/Townhome/Row Home/Co-Op,5,7,8,17-Oct-18,555000,CA,95123
+"5507 Cribari Bnd,","1,240",2,,2,1969,San Jose,63,"1,664",393,Condo/Townhome/Row Home/Co-Op,6,9,10,27-Jul-18,487000,CA,95135
+"5505 Sunspring Cir,","1,371",2,1,3,1989,San Jose,40,"3,400",633,Single Family Home,6,7,9,12-Jul-18,868000,CA,95138
+"550 Mt Home Dr,","1,440",2,,3,1974,San Jose,43,,181,Mfd/Mobile Home,7,NR,NR,19-Sep-18,260000,CA,95136
+"550 Halsey Ave,","1,486",2,,3,1947,San Jose,57,"6,300",834,Single Family Home,4,5,6,16-Aug-18,1240000,CA,95128
+"5497 Tyhurst Walkway Apt 2,",903,1,,2,1970,San Jose,99,"1,750",526,Condo/Townhome/Row Home/Co-Op,4,8,9,19-Jul-18,475000,CA,95123
+"5497 Spinnaker Walkway Apt 2,",903,1,,2,1970,San Jose,111,"1,750",520,Condo/Townhome/Row Home/Co-Op,3,8,9,7-Aug-18,469999,CA,95123
+"5494 Chesbro Ave,","1,531",2,,3,1977,San Jose,69,"6,960",647,Single Family Home,6,8,NR,26-Jun-18,990000,CA,95123
+"5492 Judith St Apt 2,",903,1,,2,1970,San Jose,77,"1,750",526,Condo/Townhome/Row Home/Co-Op,4,8,8,14-Sep-18,475000,CA,95123
+"5491 Tyhurst Walkway Apt 1,",810,1,,2,1970,San Jose,56,,506,Condo/Townhome/Row Home/Co-Op,4,8,8,5-Sep-18,410000,CA,95123
+"5487 Judith St Apt 2,",903,1,,2,1970,San Jose,27,"1,750",576,Condo/Townhome/Row Home/Co-Op,4,8,9,13-Jun-18,520000,CA,95123
+"5480 Don Diablo Ct,",950,1,1,2,1970,San Jose,32,760,568,Condo/Townhome/Row Home/Co-Op,4,8,5,3-Oct-18,540000,CA,95123
+"5477 Leigh Ave,","1,471",1,1,3,1958,San Jose,20,"6,380",857,Single Family Home,10,8,9,23-Aug-18,1260000,CA,95124
+"5473 Tyhurst Walkway Apt 4,",798,1,,2,1970,San Jose,,"1,750",593,Condo/Townhome/Row Home/Co-Op,4,8,8,6-Aug-18,473000,CA,95123
+"5452 Colony Field Dr,",942,1,,2,1984,San Jose,40,435,669,Condo/Townhome/Row Home/Co-Op,4,8,NR,30-Jul-18,630000,CA,95123
+"5450 Monterey Rd,","1,520",2,,2,1975,San Jose,154,,135,Mfd/Mobile Home,3,4,9,15-Jun-18,205000,CA,95111
+"5450 Monterey Hwy Spc 61,","1,355",2,,3,2001,San Jose,95,,155,Mfd/Mobile Home,3,4,9,29-Jun-18,210000,CA,95111
+"545 Brooks Ave,","1,020",1,,2,1918,San Jose,49,"5,120",745,Single Family Home,7,6,6,26-Sep-18,760000,CA,95125
+"544 Troy Dr,","2,996",,,,1960,San Jose,,"6,540",567,Multi-Family Home,6,5,6,10-Aug-18,1700000,CA,95117
+"5426 Alum Rock Ave,","1,143",1,,2,1908,San Jose,64,0.66,"1,003",Single Family Home,5,4,NR,11-Sep-18,1146000,CA,95127
+"542 Altino Blvd,","1,250",1,1,1,2004,San Jose,92,"1,502",559,Condo/Townhome/Row Home/Co-Op,7,NR,NR,20-Sep-18,699000,CA,95136
+"5416 Clovercrest Dr,","1,220",2,,3,1961,San Jose,49,"7,056",947,Single Family Home,4,6,8,31-Jul-18,1155000,CA,95118
+"5397 Elrose Ave,","1,628",2,,4,1968,San Jose,38,"6,000",805,Single Family Home,8,8,9,17-Sep-18,1310000,CA,95124
+"5396 Deodara Grove Ct,","1,156",2,,3,1970,San Jose,,880,497,Condo/Townhome/Row Home/Co-Op,3,8,8,28-Aug-18,575000,CA,95123
+"539 Hoover Ave,","1,436",2,,3,1924,San Jose,35,"5,200",987,Single Family Home,4,3,7,19-Jun-18,1418000,CA,95126
+"538 Elvis Dr,","1,668",2,,3,1968,San Jose,42,"6,120",719,Single Family Home,6,8,8,20-Aug-18,1200000,CA,95123
+"5357 Larchwood Dr,","1,622",2,,4,1965,San Jose,,"6,660",632,Single Family Home,4,6,8,29-Oct-18,1025000,CA,95118
+"5356 Avenida Almendros,","2,011",3,,4,1971,San Jose,62,"6,510",497,Single Family Home,4,8,NR,18-Jun-18,1000000,CA,95123
+"5353 Cribari Dell,","1,223",2,,2,1970,San Jose,,"1,664",388,Condo/Townhome/Row Home/Co-Op,6,9,10,30-Oct-18,475000,CA,95135
+"535 Hewes Ct,","1,792",2,1,3,1998,San Jose,30,"4,500",674,Single Family Home,7,7,9,6-Jul-18,1208000,CA,95138
+"5349 Manderston Dr,","1,592",2,1,3,1999,San Jose,33,"5,616",842,Single Family Home,9,9,8,17-Sep-18,1340000,CA,95138
+"5342 Dent Ave,","1,300",2,,3,1959,San Jose,21,"6,042",981,Single Family Home,8,8,8,31-Jul-18,1275000,CA,95118
+"5340 Gerine Blossom Dr,","1,536",2,,3,1976,San Jose,33,"6,360",587,Single Family Home,5,4,8,12-Sep-18,901000,CA,95123
+"5340 Entrada Olmos,","1,920",2,,4,1971,San Jose,44,"6,588",534,Single Family Home,4,8,5,6-Sep-18,1025000,CA,95123
+"534 N 12th St,","1,894",,,,1899,San Jose,,"5,625",317,Multi-Family Home,3,5,3,11-Oct-18,600000,CA,95112
+"5333 Keene Dr,","2,916",3,1,5,1957,San Jose,35,"6,300",652,Single Family Home,10,8,9,24-Aug-18,1900000,CA,95124
+"5319 Estrade Dr,","1,568",2,,3,1959,San Jose,42,"6,042",778,Single Family Home,8,8,8,21-Sep-18,1220000,CA,95118
+"5315 Laurel Canyon Dr,","4,486",5,1,6,1999,San Jose,47,0.38,513,Single Family Home,9,9,8,2-Aug-18,2300000,CA,95138
+"531 Feldspar Dr,","1,132",2,,3,1959,San Jose,9,"5,500",632,Single Family Home,6,6,6,5-Nov-18,715000,CA,95111
+"5304 Dellwood Way,","1,304",2,,3,1960,San Jose,59,"6,136",798,Single Family Home,4,6,8,24-Aug-18,1040000,CA,95118
+"5297 Creek Est,","2,255",3,,4,1985,San Jose,,"8,531",593,Single Family Home,6,9,10,13-Nov-18,1338000,CA,95135
+"5296 Running Bear Dr,","1,358",2,,3,1977,San Jose,,"7,800",725,Single Family Home,6,4,9,12-Jun-18,985000,CA,95136
+"529 Sheridan Pl,","1,132",2,,3,1959,San Jose,29,"5,500",632,Single Family Home,6,6,5,27-Jul-18,715000,CA,95111
+"5288 Discovery Ave,","1,362",2,,4,1960,San Jose,50,"5,928",569,Single Family Home,3,4,8,23-Aug-18,775000,CA,95111
+"5286 Dellwood Way,","1,829",3,,4,1960,San Jose,22,"6,240",708,Single Family Home,4,6,8,14-Aug-18,1295000,CA,95118
+"5280 Apennines Cir,","3,112",3,,4,1996,San Jose,,0.24,588,Single Family Home,9,9,8,26-Sep-18,1830000,CA,95138
+"528 Curie Dr,","1,933",2,,4,1968,San Jose,,"7,956",654,Single Family Home,6,8,8,2-Nov-18,1265000,CA,95123
+"5265 Halifax Dr,","1,531",2,,3,1960,San Jose,33,"5,959","1,032",Single Family Home,10,7,8,18-Jul-18,1580000,CA,95130
+"5259 Meridian Ave,","1,080",2,,3,1959,San Jose,,"6,099",889,Single Family Home,8,8,8,28-Sep-18,960000,CA,95118
+"525 N 9th St,","1,380",2,1,2,2003,San Jose,42,665,714,Condo/Townhome/Row Home/Co-Op,3,3,3,16-Aug-18,985000,CA,95112
+"5248 Snow Dr,","3,416",,,8,1973,San Jose,43,0.24,492,Multi-Family Home,2,4,9,15-Jun-18,1680000,CA,95111
+"5234 Macaw Way,","1,052",3,,2,1988,San Jose,,"1,612",673,Condo/Townhome/Row Home/Co-Op,4,8,8,26-Sep-18,708000,CA,95123
+"5228 Silver Ridge Ct,","4,504",5,,4,1996,San Jose,,0.29,595,Single Family Home,9,9,8,9-Nov-18,2682000,CA,95138
+"522 N 20th St,","1,446",2,,3,1950,San Jose,,"6,250",854,Single Family Home,4,5,NR,6-Jul-18,1235000,CA,95112
+"521 Nokomis Dr,","1,220",2,,4,1973,San Jose,,"6,305",533,Single Family Home,6,6,6,10-Oct-18,650000,CA,95111
+"5209 Saint Annes Ct,","3,114",3,1,4,1993,San Jose,1,"6,120",618,Single Family Home,9,9,8,12-Jul-18,1925000,CA,95138
+"5205 Cribari Hls,","1,240",2,,2,1971,San Jose,94,"1,664",359,Condo/Townhome/Row Home/Co-Op,6,9,10,19-Jul-18,445000,CA,95135
+"52 Holmes Dr,","2,492",2,1,3,1982,San Jose,59,"2,016",311,Condo/Townhome/Row Home/Co-Op,5,4,NR,13-Jul-18,775000,CA,95127
+"518 Century Oaks Way,","1,879",2,,4,1976,San Jose,31,"6,000",559,Single Family Home,8,7,9,15-Jun-18,1050000,CA,95111
+"5177 Manxwood Pl,","1,091",2,,3,1978,San Jose,60,"6,386",779,Single Family Home,8,7,8,21-Aug-18,850000,CA,95111
+"5175 Running Bear Ct,","1,358",2,,3,1977,San Jose,42,"7,280",610,Single Family Home,6,4,9,25-Jul-18,829000,CA,95136
+"5153 Sandy Ln,","1,233",2,,3,1959,San Jose,42,"6,200","1,162",Single Family Home,10,8,9,24-Jul-18,1433000,CA,95124
+"5148 Noella Way,","1,280",2,,3,1958,San Jose,24,"6,000","1,002",Single Family Home,10,8,9,17-Aug-18,1282700,CA,95124
+"514 N 21st St,",884,1,,2,1916,San Jose,,"6,250",343,Single Family Home,3,5,NR,28-Jun-18,303000,CA,95112
+"5131 Roeder Rd,","1,080",2,,3,1961,San Jose,,"5,600",255,Single Family Home,3,4,8,15-Aug-18,275500,CA,95111
+"5121 Yucatan Way,","1,744",2,,4,1967,San Jose,48,"6,100",763,Single Family Home,9,8,8,25-Jul-18,1330000,CA,95118
+"5115 Sunny Creek Dr,","2,009",2,1,3,1986,San Jose,42,"7,150",655,Single Family Home,6,9,10,20-Jul-18,1315000,CA,95135
+"5112 Poston Dr,","1,065",1,,3,1971,San Jose,132,"5,992",676,Single Family Home,6,4,8,17-Sep-18,720000,CA,95136
+"511 Mariani Ln,","1,620",3,,2,2003,San Jose,,700,633,Condo/Townhome/Row Home/Co-Op,3,3,3,25-Oct-18,1025000,CA,95112
+"511 Los Pinos Way,","1,374",2,,3,1969,San Jose,55,"5,500",746,Single Family Home,6,7,8,6-Sep-18,1025000,CA,95123
+"5109 Yucatan Way,","2,331",2,1,4,1968,San Jose,37,"6,180",665,Single Family Home,9,8,8,22-Jun-18,1551000,CA,95118
+"510 Saddle Brook Dr,","1,499",2,,3,2015,San Jose,44,,207,Mfd/Mobile Home,6,4,9,15-Jun-18,310000,CA,95136
+"510 Saddle Brook Dr Spc 84,","1,060",2,,2,1976,San Jose,44,,150,Mfd/Mobile Home,6,4,8,10-Aug-18,159000,CA,95136
+"5075 Carm Ave,","1,280",2,,3,1957,San Jose,41,"6,000","1,035",Single Family Home,10,8,9,28-Aug-18,1325000,CA,95124
+"5067 Rebel Ct,","2,862",3,,5,1963,San Jose,,"9,350",583,Single Family Home,8,8,8,23-Oct-18,1669212,CA,95118
+"5063 Brewster Ave,","1,200",2,,3,1955,San Jose,,"6,832","1,466",Single Family Home,9,8,9,24-Oct-18,1759000,CA,95124
+"5062 Edenvale Ave,","2,726",3,,4,2017,San Jose,13,"2,048",439,Single Family Home,6,4,8,2-Aug-18,1197900,CA,95136
+"505 Mill River Ln,","1,887",2,1,3,1991,San Jose,40,"1,620",709,Condo/Townhome/Row Home/Co-Op,5,6,8,14-Aug-18,1338000,CA,95134
+"5047 Wayland Ave,","1,408",2,,4,1965,San Jose,56,"6,000",824,Single Family Home,4,5,8,17-Jul-18,1160000,CA,95118
+"5035 Bel Estos Dr,","1,902",3,,4,1957,San Jose,31,"6,678",862,Single Family Home,9,8,9,21-Sep-18,1640000,CA,95124
+"502 Los Pinos Way,","1,475",2,,4,1969,San Jose,20,"5,500",678,Single Family Home,6,7,8,5-Sep-18,1000000,CA,95123
+"502 Cheyenne Ln,","1,345",2,,4,1965,San Jose,60,"6,100",723,Single Family Home,6,8,2,29-Aug-18,972000,CA,95123
+"5017 Cribari Vale,","1,348",2,,2,1968,San Jose,82,"1,872",401,Condo/Townhome/Row Home/Co-Op,6,9,10,8-Aug-18,540000,CA,95135
+"5000 Edenview Dr,","1,704",2,1,3,1965,San Jose,55,"5,200",449,Single Family Home,2,4,8,13-Sep-18,765000,CA,95111
+"500 Golfview Dr,","1,888",2,1,2,1972,San Jose,33,"1,950",439,Condo/Townhome/Row Home/Co-Op,5,4,NR,14-Aug-18,828450,CA,95127
+"500 Fuller Ave,","1,639",2,,3,1945,San Jose,,"6,345",305,Single Family Home,7,7,7,31-Aug-18,500000,CA,95125
+"4979 Brewster Ave,","1,200",2,,3,1955,San Jose,38,"6,832","1,125",Single Family Home,9,8,9,21-Sep-18,1350000,CA,95124
+"4974 Rue Le Mans,",988,1,1,2,1985,San Jose,33,435,688,Condo/Townhome/Row Home/Co-Op,6,4,9,18-Jun-18,680000,CA,95136
+"4971 Moorpark Ave,","1,653",2,,4,1964,San Jose,66,"6,000","1,028",Single Family Home,6,7,10,13-Aug-18,1700000,CA,95129
+"4960 Minas Dr,","2,354",2,1,4,1967,San Jose,63,"6,000",489,Single Family Home,6,5,NR,7-Aug-18,1150000,CA,95136
+"495 N San Pedro St,","1,563",1,,2,1920,San Jose,22,"4,320",224,Single Family Home,3,3,7,29-Oct-18,350000,CA,95110
+"4944 Tilden Dr,","1,161",2,,3,1956,San Jose,41,"6,840","1,098",Single Family Home,9,8,9,12-Sep-18,1275000,CA,95124
+"4928 Snow Dr,","1,482",3,,4,1962,San Jose,,"5,500",513,Single Family Home,2,4,8,8-Nov-18,760000,CA,95111
+"4925 Vanderbilt Dr,","1,717",2,,4,1964,San Jose,28,"5,768","1,031",Single Family Home,8,7,7,13-Jun-18,1770000,CA,95130
+"4923 Dickinson Dr,","1,452",2,1,4,1965,San Jose,80,"5,500",534,Single Family Home,2,4,8,18-Sep-18,776000,CA,95111
+"4920 Scarlett Way,","1,524",2,,3,1980,San Jose,34,"5,995",594,Single Family Home,5,4,8,14-Aug-18,905000,CA,95111
+"4902 Anna Dr,","1,161",2,,3,1956,San Jose,39,"6,060","1,033",Single Family Home,9,8,9,18-Sep-18,1199000,CA,95124
+"4901 New Ramsey Ct,","2,533",3,,5,1974,San Jose,36,"7,000",592,Single Family Home,7,5,5,14-Aug-18,1500000,CA,95136
+"4895 Dickinson Dr,","2,256",2,1,4,1979,San Jose,69,0.26,426,Single Family Home,2,4,9,10-Jul-18,960000,CA,95111
+"4892 Mary Jane Way,","1,110",2,,3,1958,San Jose,34,"6,592",842,Single Family Home,9,8,9,17-Oct-18,935000,CA,95124
+"4875 Tilden Dr,","1,430",2,,3,1966,San Jose,41,"6,060",944,Single Family Home,9,8,9,7-Sep-18,1350000,CA,95124
+"4874 Pine Forest Pl,",997,2,,2,1986,San Jose,49,436,752,Condo/Townhome/Row Home/Co-Op,8,8,8,19-Jun-18,750000,CA,95118
+"4860 Doyle Rd,","1,750",2,,3,1958,San Jose,39,"7,875",857,Single Family Home,8,7,7,6-Jul-18,1500000,CA,95129
+"485 Safari Dr,","1,223",2,,3,1971,San Jose,38,"5,974",783,Single Family Home,7,8,8,13-Aug-18,957500,CA,95123
+"4849 Alex Dr,","1,557",2,1,4,1963,San Jose,44,"5,600","1,053",Single Family Home,8,7,7,19-Jul-18,1640000,CA,95130
+"4846 Lakebird Pl,","1,212",2,,2,1984,San Jose,,"1,980",780,Condo/Townhome/Row Home/Co-Op,9,8,9,28-Sep-18,945000,CA,95124
+"4830 Miramar Ave,","2,325",2,1,4,1980,San Jose,58,"4,720",920,Single Family Home,8,7,10,2-Aug-18,2140000,CA,95129
+"482 Ivanhoe Ct,","2,533",3,,5,1974,San Jose,61,"6,649",482,Single Family Home,7,5,NR,19-Jun-18,1220000,CA,95136
+"4806 Rue Orleans Ct,","1,313",2,,3,1973,San Jose,123,"6,450",712,Single Family Home,6,4,8,23-Jul-18,935000,CA,95136
+"4804 Bannock Cir,","1,045",2,,3,1962,San Jose,49,"5,992","1,340",Single Family Home,10,7,8,28-Aug-18,1400000,CA,95130
+"480 Savstrom Way,","1,908",3,,4,1965,San Jose,76,"6,324",439,Single Family Home,2,4,8,5-Sep-18,838000,CA,95111
+"4798 Alex Dr,","1,514",2,,3,1963,San Jose,28,"5,600","1,087",Single Family Home,8,7,7,16-Aug-18,1646000,CA,95130
+"479 War Admiral Ave,","1,120",2,,3,1961,San Jose,39,"5,500",723,Single Family Home,2,4,9,13-Jun-18,810000,CA,95111
+"4787 Hatfield Walkway Apt 1,",810,1,,2,1973,San Jose,57,"2,580",765,Condo/Townhome/Row Home/Co-Op,7,7,8,22-Jun-18,620000,CA,95124
+"4780 Elmhurst Dr,","2,716",3,1,4,1955,San Jose,37,"7,000",810,Single Family Home,8,8,7,15-Jun-18,2200000,CA,95129
+"477 Minnesota Ave,","1,486",2,,3,1940,San Jose,60,"5,772",791,Single Family Home,7,6,6,13-Jul-18,1175000,CA,95125
+"4768 Archbow Ct,",992,2,,2,1988,San Jose,40,"1,505",670,Condo/Townhome/Row Home/Co-Op,6,4,8,20-Aug-18,665000,CA,95136
+"4767 Kings River Ct,","1,496",2,1,3,1978,San Jose,36,"1,716",548,Condo/Townhome/Row Home/Co-Op,6,5,NR,21-Sep-18,820000,CA,95136
+"474 El Cajon Dr,","1,621",3,,5,1959,San Jose,41,"5,000",500,Single Family Home,3,7,6,10-Oct-18,810000,CA,95111
+"4733 Durango River Ct,","1,496",2,1,3,1977,San Jose,36,"1,716",551,Condo/Townhome/Row Home/Co-Op,6,5,NR,19-Jun-18,825000,CA,95136
+"4730 Strawberry Ln,","1,408",2,1,4,1973,San Jose,30,"1,386",915,Condo/Townhome/Row Home/Co-Op,6,7,10,1-Aug-18,1288000,CA,95129
+"472 Paiute Ln,","1,757",3,,4,1965,San Jose,40,"7,205",598,Single Family Home,6,8,2,1-Aug-18,1050000,CA,95123
+"470 Ella Dr,","1,125",2,,3,1962,San Jose,43,"5,626",578,Single Family Home,2,4,8,11-Sep-18,650000,CA,95111
+"470 Boynton Ave,","29,716",,,9,1968,San Jose,129,,478,Multi-Family Home,6,5,5,15-Jun-18,14200000,CA,95117
+"4696 Ventura Ave,","1,363",2,,3,1966,San Jose,1,"6,400",598,Single Family Home,2,4,9,15-Jun-18,815000,CA,95111
+"4683 Persimmon Pl,","1,408",2,1,4,1973,San Jose,33,"1,386",909,Condo/Townhome/Row Home/Co-Op,6,7,10,9-Jul-18,1280000,CA,95129
+"468 Tovar Dr,","1,410",2,,4,1969,San Jose,31,"6,555",887,Single Family Home,6,8,8,22-Jun-18,1250000,CA,95123
+"4669 Holycon Cir,","1,442",2,,3,1973,San Jose,48,"5,500",641,Single Family Home,6,4,NR,13-Jun-18,925000,CA,95136
+"4660 Williams Rd,","1,341",2,,3,1963,San Jose,17,"6,000","1,063",Single Family Home,8,8,7,6-Aug-18,1425000,CA,95129
+"4644 Holycon Cir,","1,663",2,,3,1973,San Jose,55,"5,500",556,Single Family Home,6,4,5,25-Sep-18,925000,CA,95136
+"4642 Columbia River Ct,","1,104",2,,3,1973,San Jose,56,"2,200",702,Condo/Townhome/Row Home/Co-Op,6,5,NR,17-Sep-18,775000,CA,95136
+"4626 Holycon Cir,","2,236",2,,3,1973,San Jose,78,"5,500",456,Single Family Home,6,4,NR,31-Jul-18,1020000,CA,95136
+"4620 Holycon Cir,","1,581",2,,4,1973,San Jose,58,"5,500",724,Single Family Home,6,4,5,17-Aug-18,1145000,CA,95136
+"4609 Sally Dr,","1,144",2,,3,1958,San Jose,45,"7,750","1,145",Single Family Home,9,8,9,15-Jun-18,1310000,CA,95124
+"4603 Pacific Rim Way,","2,361",3,,5,1995,San Jose,74,0.29,614,Single Family Home,6,4,8,31-Jul-18,1450000,CA,95121
+"460 Auburn Way Apt 20,","1,099",1,1,2,1970,San Jose,129,550,655,Condo/Townhome/Row Home/Co-Op,6,7,10,30-Jul-18,720000,CA,95129
+"46 W Julian St Unit 533,","1,596",2,,2,2004,San Jose,38,435,625,Condo/Townhome/Row Home/Co-Op,3,3,7,6-Jul-18,998000,CA,95110
+"46 W Julian St Unit 331,","1,596",2,,2,2004,San Jose,,435,605,Condo/Townhome/Row Home/Co-Op,3,NR,7,17-Jul-18,965000,CA,95110
+"46 W Julian St Unit 210,","1,606",2,,2,2004,San Jose,91,435,560,Condo/Townhome/Row Home/Co-Op,3,NR,7,15-Aug-18,900000,CA,95110
+"46 W Julian St Unit 203,","2,592",3,,3,2004,San Jose,36,435,482,Condo/Townhome/Row Home/Co-Op,3,3,7,20-Jun-18,1250000,CA,95110
+"4593 Fallstone Ct,","1,840",3,,4,1993,San Jose,32,"5,500",903,Single Family Home,9,8,NR,17-Jul-18,1662000,CA,95124
+"4591 Madoc Way,","1,127",2,,3,1959,San Jose,35,"6,386","1,295",Single Family Home,8,7,7,24-Jul-18,1460000,CA,95130
+"4590 Rhapsody Way,",907,1,,3,1958,San Jose,129,"5,353",766,Single Family Home,4,4,6,17-Jul-18,695000,CA,95111
+"4582 Powderborn Ct,","1,104",2,,3,1973,San Jose,,"2,200",628,Condo/Townhome/Row Home/Co-Op,6,5,NR,29-Oct-18,693000,CA,95136
+"4572 Rhapsody Way,","1,137",2,,3,1958,San Jose,,"5,000",629,Single Family Home,4,4,6,6-Nov-18,715000,CA,95111
+"4569 Thousand Oaks Dr,","1,710",2,,4,1977,San Jose,103,"7,980",614,Single Family Home,6,5,NR,3-Aug-18,1050000,CA,95136
+"456 N San Pedro St,","1,124",,,4,1898,San Jose,65,"6,240",747,Multi-Family Home,3,3,7,20-Jul-18,840000,CA,95110
+"4556 Samson Way,","2,239",3,,3,2009,San Jose,35,"4,800",728,Single Family Home,9,8,8,3-Jul-18,1630777,CA,95124
+"4555 Doyle Rd,","1,452",2,,3,1957,San Jose,48,"6,600",964,Single Family Home,8,8,7,31-Jul-18,1400000,CA,95129
+"4544 Royale Park Ct,","2,084",2,,4,1970,San Jose,52,"6,798",480,Single Family Home,7,5,NR,6-Jul-18,1000000,CA,95136
+"4538 Caraway Ct,","1,408",2,1,4,1972,San Jose,38,"1,386",910,Condo/Townhome/Row Home/Co-Op,6,7,10,20-Sep-18,1281000,CA,95129
+"4523 Madoc Way,","1,602",2,,4,1959,San Jose,29,"5,974",911,Single Family Home,8,7,7,22-Jun-18,1460000,CA,95130
+"4514 Blackford Ave,","1,100",1,,3,1955,San Jose,21,"6,500","1,173",Single Family Home,8,8,7,13-Jun-18,1290100,CA,95129
+"451 Roading Dr,","1,409",2,,3,1968,San Jose,,"6,018",511,Single Family Home,7,8,2,3-Aug-18,720000,CA,95123
+"4506 Bolero Dr,","1,137",2,,3,1958,San Jose,29,"5,700",721,Single Family Home,4,4,5,27-Jun-18,820000,CA,95111
+"4472 Belvedere Dr,","1,547",2,,3,1955,San Jose,30,"6,100","1,021",Single Family Home,8,8,7,15-Jun-18,1580000,CA,95129
+"4463 Piper Dr,","1,991",3,,4,1967,San Jose,36,"7,380",904,Single Family Home,8,8,7,20-Sep-18,1800000,CA,95129
+"446 Los Encinos St,","1,440",2,,3,1975,San Jose,48,,174,Mfd/Mobile Home,6,6,8,18-Jul-18,250000,CA,95134
+"4458 Camden Ave,","1,290",2,,4,1960,San Jose,45,"5,967",840,Single Family Home,9,8,8,16-Jul-18,1083500,CA,95124
+"445 Payne Ave,","2,102",3,,5,1962,San Jose,60,"6,000",695,Single Family Home,6,5,6,14-Aug-18,1460000,CA,95128
+"445 Milan Dr Unit 118,","1,240",2,1,2,1992,San Jose,36,"1,400",891,Condo/Townhome/Row Home/Co-Op,5,6,7,15-Jun-18,1105000,CA,95134
+"443 Laswell Ave,",641,1,,2,1910,San Jose,79,"4,000",888,Single Family Home,4,3,5,13-Jun-18,569000,CA,95128
+"4429-4429 George Oaks Dr,","2,124",3,,4,1983,San Jose,53,,635,Single Family Home,8,5,8,3-Oct-18,1349000,CA,95118
+"4429 George Oaks Dr,","2,124",3,,4,1983,San Jose,42,"4,644",635,Single Family Home,8,5,8,3-Oct-18,1349000,CA,95118
+"4425 Norwalk Dr Apt 3,","1,099",1,1,2,1970,San Jose,49,550,614,Condo/Townhome/Row Home/Co-Op,6,7,10,13-Jun-18,675000,CA,95129
+"4425 Norwalk Dr Apt 22,",924,1,,2,1970,San Jose,1,924,758,Condo/Townhome/Row Home/Co-Op,6,7,10,21-Jun-18,700000,CA,95129
+"442 Snyder Ave,","1,343",1,,2,1930,San Jose,33,"6,345",797,Single Family Home,7,6,6,17-Jul-18,1070000,CA,95125
+"442 Los Pinos Way,","1,203",2,,3,1968,San Jose,37,"5,800",766,Single Family Home,6,7,8,19-Jul-18,922000,CA,95123
+"4415 Kirk Rd,",925,1,,2,1971,San Jose,55,"4,120",971,Single Family Home,9,8,8,30-Jul-18,898000,CA,95124
+"4411 Pitch Pine Ct,","2,352",3,,5,1978,San Jose,115,"6,480",480,Single Family Home,6,4,8,31-Jul-18,1130000,CA,95136
+"440 Navaro Pl Unit 116,","1,637",2,1,3,1991,San Jose,64,436,782,Condo/Townhome/Row Home/Co-Op,5,6,7,6-Jul-18,1280000,CA,95134
+"440 Galleria Dr Apt 7,","1,564",2,1,2,1990,San Jose,62,"1,260",639,Condo/Townhome/Row Home/Co-Op,5,6,7,7-Aug-18,1000000,CA,95134
+"44 Park Essex Pl,","2,563",3,,5,1978,San Jose,47,"6,080",429,Single Family Home,6,4,9,1-Aug-18,1100000,CA,95136
+"4392 Pitch Pine Ct,","2,209",3,,4,1978,San Jose,64,"8,772",679,Single Family Home,6,4,6,11-Sep-18,1500000,CA,95136
+"439 Coyote Rd,","1,056",1,1,3,1976,San Jose,34,"7,000",710,Single Family Home,4,4,5,1-Aug-18,750000,CA,95111
+"4385 Dulcey Dr,","1,581",2,,4,1971,San Jose,28,"5,500",603,Single Family Home,6,4,NR,3-Jul-18,953000,CA,95136
+"4375 Ross Ave,","1,590",2,,4,1959,San Jose,34,"6,903",849,Single Family Home,9,8,8,13-Jun-18,1350000,CA,95124
+"4375 Hamilton Ave Apt A,","2,466",,,,1961,San Jose,34,"7,600",527,Multi-Family Home,6,7,7,17-Oct-18,1300000,CA,95130
+"4370 Quimby Rd,","1,927",2,,3,1950,San Jose,162,20.97,950,Single Family Home,9,8,10,18-Sep-18,1830000,CA,95148
+"435 N 2nd St Unit 225,","1,548",3,,3,1994,San Jose,21,435,548,Condo/Townhome/Row Home/Co-Op,3,3,4,31-Jul-18,848000,CA,95112
+"433 S 12th St,",950,1,,2,1905,San Jose,34,"4,800",947,Single Family Home,3,NR,3,16-Aug-18,900000,CA,95112
+"4326 Leigh Ave,","1,248",2,,3,1955,San Jose,32,"5,700",954,Single Family Home,9,8,9,11-Jun-18,1190000,CA,95124
+"4320 Monterey Rd Spc 6,",560,1,,2,2018,San Jose,38,,277,Mfd/Mobile Home,3,4,6,10-Aug-18,155000,CA,95111
+"4306 Leigh Ave,","1,202",2,,3,1955,San Jose,63,"5,700",849,Single Family Home,9,8,9,1-Aug-18,1020000,CA,95124
+"4305 Palisade Dr,","2,308",3,,5,1973,San Jose,60,"6,700",416,Single Family Home,6,6,6,14-Aug-18,960000,CA,95111
+"430 Fullerton Dr,","2,000",2,1,4,1980,San Jose,47,"6,000",508,Single Family Home,8,7,8,24-Jul-18,1015000,CA,95111
+"4292 Voltaire St,","1,601",3,,3,2005,San Jose,,"2,600",696,Condo/Townhome/Row Home/Co-Op,9,9,10,31-Oct-18,1115000,CA,95135
+"4288 Lautrec Dr,","1,601",2,1,3,2005,San Jose,48,"3,354",750,Condo/Townhome/Row Home/Co-Op,9,9,10,21-Aug-18,1200000,CA,95135
+"428 N 7th St,",880,1,,2,1901,San Jose,29,"6,302",869,Single Family Home,3,NR,3,10-Aug-18,765000,CA,95112
+"4271 N 1st St Spc 3,","1,488",2,,2,1980,San Jose,34,,168,Mfd/Mobile Home,5,6,8,6-Sep-18,250000,CA,95134
+"4258 Colombo Dr,","1,993",2,,4,1958,San Jose,42,"9,348",891,Single Family Home,6,7,7,21-Aug-18,1775000,CA,95130
+"425 Payne Ave,","1,389",2,,3,1962,San Jose,35,"6,000",918,Single Family Home,6,5,6,16-Aug-18,1275000,CA,95128
+"4244 Arpeggio Ave,","1,581",2,,4,1971,San Jose,36,"5,500",623,Single Family Home,6,4,5,6-Sep-18,985000,CA,95136
+"4232 Verdigris Cir,","1,616",2,1,3,1996,San Jose,37,"4,200",995,Single Family Home,5,6,8,15-Jun-18,1608000,CA,95134
+"423 Coyote Creek Cir,",849,2,,2,1984,San Jose,,"1,120",604,Condo/Townhome/Row Home/Co-Op,4,5,3,2-Nov-18,512500,CA,95116
+"4221 Corte De Tebaldi,","1,614",2,,3,1975,San Jose,28,"8,400",991,Single Family Home,9,8,8,29-Jun-18,1600000,CA,95118
+"422 Stroud Pl,","1,176",2,,3,1976,San Jose,43,"6,240",655,Single Family Home,3,6,6,21-Sep-18,770000,CA,95111
+"4219 Monet Cir,","2,236",3,,6,1971,San Jose,66,"5,500",474,Single Family Home,6,4,5,20-Aug-18,1059000,CA,95136
+"4217 Indigo Oak Ct,","3,197",5,,5,2002,San Jose,,"5,966",522,Single Family Home,9,9,8,10-Oct-18,1670000,CA,95121
+"421 Elizabeth St,",880,1,,2,1909,San Jose,35,"2,200",825,Single Family Home,3,5,7,15-Jun-18,726000,CA,95112
+"420 Richfield Dr,","3,827",,,9,1965,San Jose,29,"7,015",486,Multi-Family Home,6,7,10,10-Jul-18,1860000,CA,95129
+"420 Camille Cir Unit 15,","1,710",2,1,3,1991,San Jose,56,"1,320",643,Condo/Townhome/Row Home/Co-Op,5,6,8,6-Sep-18,1100000,CA,95134
+"419 N 5th St,","2,388",4,,6,1906,San Jose,39,"9,404",461,Multi-Family Home,3,3,NR,27-Jul-18,1100000,CA,95112
+"4181 Mystic Ct,","2,561",3,,5,1977,San Jose,51,"6,161",586,Single Family Home,7,7,8,13-Jul-18,1502000,CA,95124
+"4175 San Bernardino Way,",900,1,,3,1959,San Jose,31,"5,000",794,Single Family Home,3,9,6,17-Sep-18,715000,CA,95111
+"417 Coyote Creek Cir,",849,2,,2,1984,San Jose,,"1,120",565,Condo/Townhome/Row Home/Co-Op,4,5,3,2-Nov-18,480000,CA,95116
+"417 Camille Cir Unit 14,","1,812",2,1,2,1991,San Jose,54,"1,260",745,Condo/Townhome/Row Home/Co-Op,5,6,7,11-Jun-18,1350000,CA,95134
+"416 Roading Dr,","1,432",2,,3,1968,San Jose,26,"5,959",768,Single Family Home,7,8,2,24-Jul-18,1100000,CA,95123
+"4158 Voltaire St,","1,820",2,1,3,2003,San Jose,38,"2,075",673,Single Family Home,9,8,10,23-Jul-18,1225000,CA,95148
+"415 Coyote Creek Cir,",849,2,,2,1984,San Jose,67,"1,120",654,Condo/Townhome/Row Home/Co-Op,4,5,NR,3-Jul-18,555000,CA,95116
+"415 Camille Cir Unit 16,","2,061",2,1,3,1991,San Jose,91,"1,320",580,Condo/Townhome/Row Home/Co-Op,5,6,8,31-Aug-18,1195000,CA,95134
+"4143 Malvini Dr,","2,154",3,,4,1965,San Jose,73,"5,992",557,Single Family Home,8,5,8,31-Aug-18,1200000,CA,95118
+"411 Lewis Rd,","1,040",2,,2,1981,San Jose,176,,152,Mfd/Mobile Home,6,6,5,15-Jun-18,158000,CA,95111
+"411 Lewis Rd Spc 233,",684,1,,2,1970,San Jose,141,,183,Mfd/Mobile Home,6,6,5,29-Jun-18,125000,CA,95111
+"4106 Malvini Dr,","1,511",2,,3,1965,San Jose,32,"5,992",774,Single Family Home,8,5,8,23-Jul-18,1170000,CA,95118
+"410 Wainwright Ave,","1,008",1,,2,1947,San Jose,52,"5,775","1,071",Single Family Home,4,5,5,6-Aug-18,1080000,CA,95128
+"4098 Duggan Dr,","1,579",2,,3,1961,San Jose,41,"7,500",792,Single Family Home,8,5,8,10-Jul-18,1250000,CA,95118
+"4088 Louvre Ave,","3,131",4,,5,1998,San Jose,,"6,791",612,Single Family Home,9,9,10,28-Jun-18,1915000,CA,95135
+"4080 Soelro Ct,","3,693",2,1,4,1990,San Jose,173,1.24,428,Single Family Home,5,4,NR,17-Jul-18,1582000,CA,95127
+"408 N 3rd St,","1,500",2,,3,1900,San Jose,48,"4,727",843,Single Family Home,3,3,NR,11-Jun-18,1265000,CA,95112
+"408 Don Carlos Ct,","1,156",1,1,3,1970,San Jose,56,"2,082",558,Condo/Townhome/Row Home/Co-Op,4,8,NR,9-Jul-18,645000,CA,95123
+"408 Arabian St,","2,509",3,,5,1965,San Jose,71,"6,120",506,Single Family Home,7,8,NR,9-Jul-18,1270000,CA,95123
+"407 Bluefield Dr,","2,084",2,,4,1970,San Jose,21,"7,000",605,Single Family Home,7,5,NR,29-Jun-18,1260000,CA,95136
+"4063 Chieri Ct,","2,840",3,,4,2003,San Jose,51,"6,500",625,Single Family Home,9,8,10,29-Jun-18,1775000,CA,95148
+"4039 San Bernardino Way,","1,708",3,,4,1959,San Jose,56,"5,000",495,Single Family Home,3,9,6,26-Jul-18,845000,CA,95111
+"4021 Petulla Ct,","1,688",2,,3,1971,San Jose,,"6,018",785,Single Family Home,8,5,8,8-Nov-18,1325000,CA,95124
+"4015 Ribbon Dr,",988,1,,2,1958,San Jose,35,"6,348","1,230",Single Family Home,7,7,7,31-Jul-18,1215000,CA,95130
+"4015 Gold Run Way,","1,272",1,1,3,1973,San Jose,111,"1,426",535,Condo/Townhome/Row Home/Co-Op,6,4,5,10-Sep-18,680000,CA,95136
+"4013 Gold Run,",875,2,,2,1973,San Jose,,"1,470",829,Condo/Townhome/Row Home/Co-Op,6,4,5,28-Sep-18,725000,CA,95136
+"401 Colony Knoll Dr,",919,1,,2,1984,San Jose,41,435,653,Condo/Townhome/Row Home/Co-Op,4,8,NR,18-Jun-18,600000,CA,95123
+"4009 Ashbrook Cir,","2,162",3,,4,1978,San Jose,69,"6,000",717,Single Family Home,7,7,8,30-Jul-18,1550000,CA,95124
+"4004 Williams Rd,","8,209",,,3,1962,San Jose,59,0.33,451,Multi-Family Home,4,7,7,27-Jul-18,3700000,CA,95117
+"3976 Normandale Dr,","1,400",2,,3,1964,San Jose,19,"5,992",882,Single Family Home,8,5,8,30-Jul-18,1235000,CA,95118
+"3931 Mosher Dr,","1,381",2,1,3,2002,San Jose,42,"2,128",840,Condo/Townhome/Row Home/Co-Op,9,9,10,26-Jul-18,1160000,CA,95135
+"3929 Vista Roma Dr,","1,788",2,1,3,2004,San Jose,35,"3,032",534,Condo/Townhome/Row Home/Co-Op,7,3,NR,10-Jul-18,955000,CA,95136
+"3915 Jerabek Ct,","1,218",2,,3,1980,San Jose,29,"4,443",752,Single Family Home,7,5,NR,20-Jul-18,916500,CA,95136
+"3868 Kauai Dr,","1,200",2,,4,1960,San Jose,68,"5,151",100,Single Family Home,6,6,5,13-Jun-18,119500,CA,95111
+"3865 Payne Ave,","1,856",2,,3,1976,San Jose,41,"7,320",431,Single Family Home,4,7,7,4-Oct-18,800000,CA,95117
+"385 Gloria Ave,",720,1,,2,1935,San Jose,,0.27,639,Single Family Home,4,4,NR,25-Jun-18,460000,CA,95127
+"383 Avenida Arboles,","2,592",3,,4,1968,San Jose,,"6,300",424,Single Family Home,4,8,6,31-Oct-18,1100000,CA,95123
+"3825 Nash Ct,","1,890",3,,4,1980,San Jose,51,"6,439",458,Single Family Home,6,6,6,26-Jul-18,865000,CA,95111
+"382 Jai Dr,","1,623",2,,4,1970,San Jose,42,"6,000",730,Single Family Home,8,7,8,21-Sep-18,1185000,CA,95119
+"382 Casselino Dr,","2,522",2,1,3,2005,San Jose,21,"2,800",496,Condo/Townhome/Row Home/Co-Op,7,9,NR,7-Aug-18,1250000,CA,95136
+"3814 Meadowlands Ln,","3,593",3,,4,1996,San Jose,48,0.66,590,Single Family Home,9,9,10,30-Aug-18,2121000,CA,95135
+"3811 Mosher Dr,","4,065",4,1,5,2008,San Jose,48,"6,667",497,Single Family Home,9,8,10,10-Jul-18,2020000,CA,95148
+"3802 Ashton Ct,","2,282",3,,5,1998,San Jose,,"4,272",465,Single Family Home,6,6,6,19-Oct-18,1060000,CA,95111
+"380 Springpark Cir,","1,466",2,,4,1968,San Jose,38,"5,500",665,Single Family Home,6,4,5,23-Jul-18,975000,CA,95136
+"38 N Almaden Blvd Unit 906,",790,1,,1,2008,San Jose,1,164,956,Condo/Townhome/Row Home/Co-Op,3,3,7,18-Jul-18,755000,CA,95110
+"38 N Almaden Blvd Unit 719,","1,220",2,,2,2008,San Jose,38,164,869,Condo/Townhome/Row Home/Co-Op,3,NR,7,13-Aug-18,1060000,CA,95110
+"38 N Almaden Blvd Unit 2001,","1,712",2,,3,2008,San Jose,,164,"1,081",Condo/Townhome/Row Home/Co-Op,3,NR,7,24-Oct-18,1850000,CA,95110
+"378 Bay St,","2,149",3,,4,1964,San Jose,54,"6,120",503,Single Family Home,7,8,NR,25-Jul-18,1080000,CA,95123
+"3767 Almaden Rd,","2,394",3,,5,1958,San Jose,47,0.25,635,Single Family Home,8,5,8,23-Jul-18,1520000,CA,95118
+"376 Avenida Abetos,","1,440",2,,3,1968,San Jose,56,"7,800",677,Single Family Home,4,8,NR,22-Jun-18,975000,CA,95123
+"375 Reading Pl,","2,209",3,1,4,2017,San Jose,67,,462,Condo/Townhome/Row Home/Co-Op,5,7,8,18-Sep-18,1020000,CA,95123
+"375 Reading Pl # 109,","2,209",3,,3,2017,San Jose,,"2,157",462,Condo/Townhome/Row Home/Co-Op,5,7,8,18-Sep-18,1020000,CA,95123
+"375 Hans Way,","1,431",2,1,3,1981,San Jose,35,"1,300",594,Condo/Townhome/Row Home/Co-Op,3,4,NR,20-Jul-18,850000,CA,95133
+"3734 Brigadoon Way,","1,392",2,,4,1973,San Jose,68,"6,985",621,Single Family Home,3,9,8,26-Jul-18,865000,CA,95121
+"373 N 17th St,",915,1,,2,1931,San Jose,42,"5,625",883,Single Family Home,4,5,3,2-Aug-18,807500,CA,95112
+"3711 Corkerhill Way,","1,330",2,,4,1973,San Jose,32,"5,995",707,Single Family Home,3,9,8,29-Jun-18,940000,CA,95121
+"370 Meadow Ln,","1,540",2,,4,1958,San Jose,55,"7,900",484,Single Family Home,4,4,NR,7-Aug-18,745000,CA,95127
+"370 Avenida Del Roble,","1,604",2,,3,1971,San Jose,47,"7,380",588,Single Family Home,4,8,6,24-Jul-18,943000,CA,95123
+"3698 Slopeview Dr,","1,902",2,,4,1977,San Jose,24,"8,000",693,Single Family Home,7,8,10,3-Aug-18,1318000,CA,95148
+"3670 Mace Ct,","2,209",2,1,3,1970,San Jose,51,"4,000",484,Single Family Home,3,NR,5,7-Sep-18,1070000,CA,95127
+"3667 Slopeview Dr,","1,902",2,,4,1977,San Jose,50,"8,000",659,Single Family Home,7,8,10,13-Jul-18,1253000,CA,95148
+"366 Grandpark Cir,","1,153",2,,3,1972,San Jose,37,"5,500",781,Single Family Home,6,4,5,11-Oct-18,900000,CA,95136
+"3651 Wodzienski Dr,","1,864",3,,3,2000,San Jose,,"3,095",665,Single Family Home,9,8,10,8-Nov-18,1240000,CA,95148
+"3637 Snell Ave Spc 81,","1,344",2,,2,1972,San Jose,63,,179,Mfd/Mobile Home,7,3,NR,24-Jul-18,240000,CA,95136
+"3637 Snell Ave Spc 200,","1,152",2,,2,1972,San Jose,41,,161,Mfd/Mobile Home,7,3,NR,6-Aug-18,185000,CA,95136
+"3637 Snell Ave Spc 131,","1,640",2,,2,1972,San Jose,101,,165,Mfd/Mobile Home,7,3,NR,17-Aug-18,270000,CA,95136
+"3634 Norwood Ave,","1,902",2,,4,1977,San Jose,36,"8,000",605,Single Family Home,7,8,10,22-Jun-18,1150000,CA,95148
+"3634 Jasmine Cir,","1,545",2,1,3,2000,San Jose,28,"1,600",777,Condo/Townhome/Row Home/Co-Op,9,9,10,14-Jun-18,1200000,CA,95135
+"3623 Klein Ct,","2,650",3,,5,1987,San Jose,39,"6,098",517,Single Family Home,5,8,10,24-Aug-18,1370000,CA,95148
+"3621 Sweet Brook Ct,","1,786",2,1,5,1998,San Jose,30,"3,168",479,Single Family Home,6,6,5,14-Jun-18,855000,CA,95111
+"3617 Cuen Ct,","2,330",3,,4,1974,San Jose,,"7,500",429,Single Family Home,6,5,NR,8-Nov-18,1000000,CA,95136
+"360 Springpark Cir,","1,755",3,,4,1968,San Jose,33,"5,500",619,Single Family Home,6,4,NR,16-Jul-18,1087000,CA,95136
+"3598 Amber Dr,","2,199",3,,5,1962,San Jose,,"7,900",741,Single Family Home,7,7,7,25-Oct-18,1630000,CA,95117
+"3596 Payne Ave Apt 12,",910,1,,2,1963,San Jose,43,"1,050",623,Condo/Townhome/Row Home/Co-Op,7,7,7,13-Jul-18,567000,CA,95117
+"359 Aklan Ct,","2,260",3,,4,1970,San Jose,1,"6,000",531,Single Family Home,8,7,8,16-Aug-18,1200000,CA,95119
+"3585 Irlanda Way,","1,600",2,,3,1957,San Jose,64,"7,500",719,Single Family Home,6,7,8,11-Sep-18,1150000,CA,95124
+"3577 Sunnymead Ct,","2,532",2,1,4,1980,San Jose,46,"6,200",691,Single Family Home,7,7,7,21-Aug-18,1750000,CA,95117
+"3575 Margate Ave,","1,766",2,,3,1955,San Jose,23,"6,882",713,Single Family Home,6,5,5,14-Jun-18,1260000,CA,95117
+"357 Greenpark Way,","1,179",2,,3,1971,San Jose,,"5,800",721,Single Family Home,6,4,5,24-Oct-18,850000,CA,95136
+"357 Chateau La Salle Dr,","1,272",2,,3,2004,San Jose,132,,243,Mfd/Mobile Home,7,9,NR,31-Aug-18,309000,CA,95111
+"3565 Jasmine Cir,","1,545",2,1,3,2000,San Jose,58,"1,600",725,Condo/Townhome/Row Home/Co-Op,9,9,10,24-Aug-18,1120000,CA,95135
+"3555 Ivalynn Ct,",934,2,,2,1986,San Jose,42,436,769,Condo/Townhome/Row Home/Co-Op,7,6,10,18-Jun-18,718000,CA,95132
+"3550 Alden Way Apt 8,",990,1,1,2,1963,San Jose,36,520,683,Condo/Townhome/Row Home/Co-Op,6,5,6,29-Aug-18,676000,CA,95117
+"355 Doris Ave,","1,252",1,,3,1945,San Jose,28,"6,655",499,Single Family Home,5,4,NR,31-Aug-18,625000,CA,95127
+"3537 Slopeview Dr,","1,911",2,,4,1983,San Jose,69,0.24,654,Single Family Home,7,8,10,15-Aug-18,1250000,CA,95148
+"3535 Columbine Dr,","1,324",2,,3,1961,San Jose,87,"6,363",650,Single Family Home,3,3,5,29-Jun-18,860000,CA,95127
+"3531 Story Rd,","1,513",2,,4,1964,San Jose,58,"9,315",592,Single Family Home,4,4,5,15-Jun-18,895000,CA,95127
+"353 Springpark Cir,","1,260",2,,3,1968,San Jose,44,"6,200",694,Single Family Home,6,4,NR,13-Jul-18,875000,CA,95136
+"353 Crest Dr,","2,422",2,1,3,1956,San Jose,32,0.25,566,Single Family Home,5,4,NR,12-Jul-18,1370000,CA,95127
+"3526 Squirecreek Cir,","1,360",3,,3,1979,San Jose,91,"1,400",483,Condo/Townhome/Row Home/Co-Op,4,4,8,15-Aug-18,656500,CA,95121
+"3524 Blenheim Ln,","1,157",2,,3,1973,San Jose,49,"5,995",151,Single Family Home,8,4,8,2-Oct-18,175000,CA,95121
+"3522 Darknell Ct,","2,584",3,,4,1987,San Jose,40,"6,000",522,Single Family Home,5,8,10,23-Aug-18,1350000,CA,95148
+"3521 May Ln,","1,300",2,,4,1959,San Jose,127,"6,600",846,Single Family Home,7,7,8,20-Sep-18,1100000,CA,95124
+"3521 Chablis Cir,","2,082",3,,4,1964,San Jose,20,"5,520",471,Single Family Home,7,6,10,12-Jul-18,980000,CA,95132
+"3515 Flint Creek Dr,","1,473",3,,2,1981,San Jose,,"2,000",521,Condo/Townhome/Row Home/Co-Op,6,3,5,20-Jul-18,768000,CA,95148
+"351 Tower Hill Ave,","2,356",3,1,4,2002,San Jose,45,"1,161",488,Condo/Townhome/Row Home/Co-Op,7,NR,NR,29-Aug-18,1150000,CA,95136
+"350 E Mission St Unit 119,",968,1,1,1,2001,San Jose,41,968,779,Condo/Townhome/Row Home/Co-Op,3,3,1,17-Jul-18,754000,CA,95112
+"349 Swaps Dr,","1,403",2,,4,1964,San Jose,43,"6,380",570,Single Family Home,3,4,8,23-Aug-18,800000,CA,95111
+"349 Richmond Ave,","2,958",,,,1965,San Jose,,"6,067",462,Multi-Family Home,4,3,6,8-Aug-18,1368000,CA,95128
+"3467 Clover Oak Dr,","2,516",2,1,4,1978,San Jose,23,"8,040",566,Single Family Home,5,8,10,3-Aug-18,1425000,CA,95148
+"3466 Lindenoaks Dr,","1,400",2,,3,1956,San Jose,34,"6,300","1,007",Single Family Home,6,5,6,25-Sep-18,1410000,CA,95117
+"346 N 4th St,","1,342",1,,2,1935,San Jose,34,"4,658",679,Single Family Home,3,3,NR,11-Jul-18,911000,CA,95112
+"346 N 12th St,","1,428",1,,3,1915,San Jose,37,"5,750",735,Single Family Home,3,NR,3,13-Jul-18,1050000,CA,95112
+"345 N 19th St,",892,1,,1,1947,San Jose,70,"5,625",305,Single Family Home,4,5,3,5-Sep-18,272000,CA,95112
+"345 Bluefield Dr,","1,260",2,,3,1968,San Jose,,"5,500",714,Single Family Home,6,4,5,15-Aug-18,900000,CA,95136
+"3447 Marten Ave,","2,928",2,1,6,1978,San Jose,168,"5,610",325,Single Family Home,6,3,5,15-Jun-18,950518,CA,95148
+"3445 Annandale Pl,","1,157",2,,3,1973,San Jose,58,"6,000",726,Single Family Home,8,4,8,12-Sep-18,839500,CA,95121
+"3440 Pepper Tree Ln,","1,075",1,,3,1954,San Jose,,"5,000",753,Single Family Home,3,6,1,2-Nov-18,810000,CA,95127
+"3439 Wine Cork Way,",960,2,,2,1985,San Jose,32,840,743,Condo/Townhome/Row Home/Co-Op,7,7,8,13-Aug-18,712800,CA,95124
+"3435 Vittoria Pl Unit 1,","2,330",3,1,3,2003,San Jose,1,"1,216",424,Condo/Townhome/Row Home/Co-Op,7,NR,NR,19-Oct-18,988000,CA,95136
+"343 Colville Dr,","1,683",2,,4,1968,San Jose,60,"6,825",576,Single Family Home,3,8,5,12-Jun-18,970000,CA,95123
+"3429 Woodside Ct,","1,787",2,1,4,1980,San Jose,29,0.23,644,Single Family Home,8,4,8,14-Jun-18,1150000,CA,95121
+"3428 Lake Albano Cir # 3218,","1,457",2,,2,1985,San Jose,70,"1,728",522,Condo/Townhome/Row Home/Co-Op,6,9,10,5-Sep-18,760000,CA,95135
+"3412 Kirkwood Dr,","2,492",3,,5,1956,San Jose,62,"8,260",492,Single Family Home,6,5,5,16-Jul-18,1225000,CA,95117
+"341 Mustang St,","1,755",2,,4,1968,San Jose,44,"5,974",559,Single Family Home,7,8,2,13-Sep-18,981000,CA,95123
+"3409 Pinotin Ct,","2,700",3,,5,2003,San Jose,85,"6,741",611,Single Family Home,9,8,10,21-Sep-18,1650000,CA,95148
+"3404 Holly Dr,","1,187",2,,3,1954,San Jose,,"5,000",653,Single Family Home,3,6,1,24-Oct-18,775000,CA,95127
+"340 Gardenia Dr,","2,595",3,,5,1998,San Jose,15,"4,100",586,Single Family Home,7,8,2,24-Jul-18,1520000,CA,95123
+"340 Auburn Way Apt 1,",924,1,,2,1970,San Jose,,924,741,Condo/Townhome/Row Home/Co-Op,6,7,10,10-Aug-18,685000,CA,95129
+"34 Southfield Ct,","1,521",2,1,4,1983,San Jose,49,"5,000",625,Single Family Home,6,7,9,22-Jun-18,950000,CA,95138
+"3398 Burgundy Dr,","1,680",2,1,3,1977,San Jose,42,"7,885",804,Single Family Home,7,6,10,31-Jul-18,1350000,CA,95132
+"3397 Braden Ct,","1,883",2,,4,1984,San Jose,121,"8,400",648,Single Family Home,7,8,10,7-Sep-18,1220000,CA,95148
+"3395 Cadillac Dr,","1,333",2,,3,1963,San Jose,40,"6,120",878,Single Family Home,4,4,8,21-Aug-18,1170000,CA,95117
+"3393 Lynn Oaks Dr,","1,902",2,,3,1963,San Jose,63,"7,000",815,Single Family Home,6,5,5,27-Jun-18,1550000,CA,95117
+"3384 Landess Ave Apt C,",976,1,1,2,1970,San Jose,43,816,671,Condo/Townhome/Row Home/Co-Op,7,6,10,31-Jul-18,655000,CA,95132
+"3376 Kirk Rd,","2,029",4,,4,1962,San Jose,,"6,500",826,Single Family Home,8,5,8,11-Oct-18,1675000,CA,95124
+"3370 Fawn Dr,","1,955",2,1,4,1967,San Jose,36,"7,296",691,Single Family Home,6,7,8,23-Aug-18,1350000,CA,95124
+"3368 San Pablo Ave,","1,075",2,,3,1954,San Jose,47,"4,947",814,Single Family Home,3,6,1,10-Sep-18,875000,CA,95127
+"3366 Mira Vista Cir,","1,645",2,,4,1967,San Jose,,"6,500",711,Single Family Home,7,6,10,8-Nov-18,1170000,CA,95132
+"336 Avenida Arboles,","2,130",3,,4,1968,San Jose,37,"6,300",566,Single Family Home,4,8,5,6-Jul-18,1205280,CA,95123
+"3358 Napoli Pl,","1,601",3,,3,2004,San Jose,,"2,458",715,Condo/Townhome/Row Home/Co-Op,9,9,10,29-Oct-18,1145000,CA,95135
+"3358 Methilhaven Ln,",826,1,,2,1976,San Jose,49,"2,270",630,Condo/Townhome/Row Home/Co-Op,3,9,8,27-Jul-18,520000,CA,95121
+"3354 Onslow Way,","1,408",2,,4,1974,San Jose,1,"7,725",657,Single Family Home,7,6,10,20-Jul-18,925000,CA,95132
+"335 Giovanni Ct,","1,505",2,1,3,1986,San Jose,43,"1,306",545,Condo/Townhome/Row Home/Co-Op,3,4,1,25-Jul-18,820000,CA,95133
+"3348 Walton Way,","1,904",2,1,4,1957,San Jose,28,"7,956",998,Single Family Home,7,7,7,11-Jun-18,1900000,CA,95117
+"3347 Weepingcreek Way,","1,452",2,1,4,1972,San Jose,32,"1,110",517,Condo/Townhome/Row Home/Co-Op,4,4,8,3-Jul-18,750000,CA,95121
+"3343 Norwood Ave,","2,039",3,,3,1979,San Jose,,"7,085",638,Single Family Home,5,8,10,11-Sep-18,1300000,CA,95148
+"334 Santana Row Apt 301,","2,159",3,,3,2002,San Jose,11,435,968,Condo/Townhome/Row Home/Co-Op,6,5,6,21-Sep-18,2088888,CA,95128
+"3338 Shadow Leaf Dr,","1,615",2,1,3,1988,San Jose,42,"3,456",817,Single Family Home,7,6,10,18-Sep-18,1320000,CA,95132
+"3335 Jennifer Way,","1,206",2,,3,1955,San Jose,39,"6,048","1,050",Single Family Home,5,7,8,16-Jul-18,1266000,CA,95124
+"333 Santana Row Apt 311,","1,099",2,,2,2002,San Jose,,435,"1,046",Not Available,6,5,5,21-Jun-18,1150000,CA,95128
+"3326 Denton Way,","1,576",2,,4,1965,San Jose,38,"7,128",615,Single Family Home,8,4,8,18-Jun-18,970000,CA,95121
+"3325 Jericho Ln,","1,926",2,1,4,1956,San Jose,46,"8,095",914,Single Family Home,7,7,7,13-Jun-18,1760000,CA,95117
+"3312 Cannongate Ct,",826,1,,2,1972,San Jose,76,"2,160",672,Condo/Townhome/Row Home/Co-Op,3,9,8,18-Jul-18,555000,CA,95121
+"3302 Pomeroy Ct,","1,522",2,,4,1965,San Jose,13,"7,920",641,Single Family Home,8,4,8,24-Jul-18,975000,CA,95121
+"3300 Ruffino Ln,","3,953",4,,5,2004,San Jose,,"7,150",477,Single Family Home,9,8,10,28-Sep-18,1885000,CA,95148
+"3300 Narvaez Ave Spc 85,","1,100",2,,3,1967,San Jose,54,,127,Mfd/Mobile Home,7,9,NR,31-Jul-18,140000,CA,95136
+"3300 Narvaez Ave Spc 131,","1,377",2,,3,2008,San Jose,91,,159,Mfd/Mobile Home,7,9,NR,26-Jul-18,219000,CA,95136
+"3300 Mount Vista Dr,",825,1,,2,1959,San Jose,27,"5,000",828,Single Family Home,5,NR,5,31-Jul-18,683000,CA,95127
+"330 N 21st St,","1,408",2,,3,1918,San Jose,28,"7,150",852,Single Family Home,4,5,NR,19-Jul-18,1200000,CA,95112
+"329 Oakberry Way,","1,612",2,,4,1973,San Jose,41,"6,000",698,Single Family Home,6,7,8,10-Sep-18,1125000,CA,95123
+"3289 Birchwood Ln,","1,585",2,,4,1964,San Jose,69,"6,099",713,Single Family Home,7,6,10,5-Sep-18,1130000,CA,95132
+"3288 Floresta Dr,","1,495",2,,3,1966,San Jose,28,"6,000",643,Single Family Home,3,6,5,15-Jun-18,962000,CA,95148
+"3286 Payne Ave,","1,817",2,1,3,2002,San Jose,37,"3,110",754,Single Family Home,4,4,7,22-Jun-18,1370000,CA,95117
+"3284 Kimber Ct Apt 30,",886,1,,2,1977,San Jose,38,"1,148",717,Condo/Townhome/Row Home/Co-Op,6,7,8,24-Aug-18,635000,CA,95124
+"3283 Lindenoaks Dr,","1,400",2,,3,1956,San Jose,,"7,140","1,014",Single Family Home,6,5,6,8-Nov-18,1419000,CA,95117
+"3282 Moreno Ave,","1,875",2,1,4,1991,San Jose,37,"4,750",538,Single Family Home,NR,NR,5,15-Jun-18,1008000,CA,95127
+"3278 Placido Ct,","2,905",3,,5,1999,San Jose,39,"7,040",688,Single Family Home,9,9,10,25-Jun-18,1998888,CA,95135
+"3271 Shiraz Pl,","1,398",2,1,3,2001,San Jose,48,"1,000",751,Condo/Townhome/Row Home/Co-Op,9,9,10,25-Jul-18,1049950,CA,95135
+"3271 Rocky Water Ln,","1,391",3,,2,1981,San Jose,121,"2,940",564,Condo/Townhome/Row Home/Co-Op,5,4,8,25-Jul-18,785000,CA,95148
+"3270 Lago De Como Pl,","1,408",2,1,3,2007,San Jose,37,981,653,Condo/Townhome/Row Home/Co-Op,7,9,NR,19-Jul-18,919425,CA,95136
+"3268 Rocky Water Ln,","1,582",2,,3,1985,San Jose,44,"1,363",569,Condo/Townhome/Row Home/Co-Op,5,4,8,14-Jun-18,900000,CA,95148
+"3262 Whitesand Ct,",892,1,,3,1984,San Jose,36,"5,830","1,009",Single Family Home,8,8,10,19-Jul-18,900000,CA,95148
+"3262 Vintage Oaks Ct,","3,434",3,,5,1992,San Jose,107,"6,500",473,Single Family Home,8,8,10,21-Aug-18,1625000,CA,95148
+"325 N 16th St,",851,1,,2,1910,San Jose,15,"5,625","1,880",Single Family Home,4,5,3,30-Oct-18,1600000,CA,95112
+"3245 Shadow Park Pl,",888,1,,2,1988,San Jose,,435.6,479,Condo/Townhome/Row Home/Co-Op,4,4,8,17-Oct-18,425000,CA,95121
+"324 N 20th St,",948,2,,2,1906,San Jose,32,"5,750",949,Single Family Home,3,5,NR,23-Jul-18,900000,CA,95112
+"324 Ferrari Ave,","1,115",1,1,2,1948,San Jose,36,"5,100",796,Single Family Home,3,3,7,18-Jul-18,887000,CA,95110
+"3237 Heritage Estates Dr,","1,606",2,,4,1987,San Jose,33,"6,000",785,Single Family Home,8,8,10,13-Aug-18,1260000,CA,95148
+"3230 Kenhill Dr,","1,164",1,1,3,1987,San Jose,43,575,537,Condo/Townhome/Row Home/Co-Op,3,6,5,31-Jul-18,625000,CA,95111
+"3226 Kimber Ct Apt 108,",886,1,,2,1977,San Jose,29,"1,148",705,Condo/Townhome/Row Home/Co-Op,6,7,8,12-Jul-18,625000,CA,95124
+"3225 Lone Bluff Way,","1,647",,,,1969,San Jose,126,"6,319",556,Multi-Family Home,3,6,6,20-Jul-18,915000,CA,95111
+"3221 Lake Albano Cir,","1,679",2,,2,1985,San Jose,1,"2,163",512,Condo/Townhome/Row Home/Co-Op,6,9,10,18-Jun-18,860000,CA,95135
+"3205 Gleneeden Way,","1,810",3,,4,1953,San Jose,59,"8,160",873,Single Family Home,7,7,7,3-Aug-18,1580000,CA,95117
+"3200 Ravenswood Way,","2,253",3,,5,1976,San Jose,62,"7,000",577,Single Family Home,7,8,10,23-Aug-18,1300000,CA,95148
+"320 S 13th St,","2,269",2,,4,1906,San Jose,31,"6,400",661,Single Family Home,3,NR,3,21-Sep-18,1500500,CA,95112
+"319 Tradewinds Dr,","1,122",2,,2,1986,San Jose,,"1,250",517,Condo/Townhome/Row Home/Co-Op,4,8,6,25-Oct-18,580000,CA,95123
+"3183 Kawalker Ln,","2,389",3,,5,1974,San Jose,42,"6,000",509,Single Family Home,3,6,1,3-Aug-18,1215000,CA,95127
+"3180 Cropley Ave,","1,003",1,1,2,1976,San Jose,42,704,768,Condo/Townhome/Row Home/Co-Op,7,7,10,27-Jul-18,770000,CA,95132
+"3177 Julio Ave,","1,060",1,,3,1954,San Jose,32,"5,100",895,Single Family Home,6,7,8,12-Jun-18,949000,CA,95124
+"3172 Oakbridge Dr,","1,440",2,,2,1978,San Jose,72,,122,Mfd/Mobile Home,4,4,8,15-Jun-18,175000,CA,95121
+"3171 Payne Ave Apt 56,","1,070",1,1,1,1976,San Jose,25,"1,540",748,Condo/Townhome/Row Home/Co-Op,7,7,7,14-Sep-18,800000,CA,95117
+"317 Greenpark Way,","2,236",3,,6,1971,San Jose,,"5,610",548,Single Family Home,6,4,5,19-Oct-18,1225000,CA,95136
+"3167 Ravenswood Way,","1,668",2,,4,1976,San Jose,61,"7,000",647,Single Family Home,7,8,10,12-Sep-18,1080000,CA,95148
+"3166 Landess Ave Apt B,",976,1,1,2,1970,San Jose,43,816,681,Condo/Townhome/Row Home/Co-Op,7,6,NR,26-Jul-18,665000,CA,95132
+"3163 Summercreek Dr,","1,268",2,,3,1983,San Jose,29,"3,330",718,Single Family Home,5,5,NR,18-Jul-18,910000,CA,95136
+"3163 Stimson Way,","1,860",2,,4,1976,San Jose,50,"7,980",726,Single Family Home,9,9,10,20-Sep-18,1350000,CA,95135
+"3161 Payne Ave Apt 31,","1,300",2,1,2,1976,San Jose,35,"1,540",738,Condo/Townhome/Row Home/Co-Op,7,7,7,17-Aug-18,959000,CA,95117
+"316 Chynoweth Ave,","1,123",2,,3,1985,San Jose,,"8,380",882,Single Family Home,4,8,9,2-Jul-18,990000,CA,95136
+"3139 Shofner Pl,","1,392",3,,4,1982,San Jose,70,"2,023",359,Condo/Townhome/Row Home/Co-Op,2,3,6,5-Sep-18,500000,CA,95111
+"3111 Water St,","1,247",2,,2,1947,San Jose,78,0.4,481,Single Family Home,3,6,6,28-Aug-18,600000,CA,95111
+"3105 Glen Alto Ct,","1,757",2,,4,1995,San Jose,63,"6,969",129,Single Family Home,8,8,10,18-Jun-18,227000,CA,95148
+"31 Muirfield Ct,",780,1,,1,1982,San Jose,28,"2,139",519,Condo/Townhome/Row Home/Co-Op,5,2,NR,24-Aug-18,405000,CA,95116
+"3096 Oakbridge Dr,","1,650",2,,2,1978,San Jose,96,,109,Mfd/Mobile Home,4,4,8,13-Jun-18,180000,CA,95121
+"3096 Delta Rd,","1,920",2,,4,1976,San Jose,33,"7,995",776,Single Family Home,9,9,10,24-Jul-18,1490000,CA,95135
+"3092 Mattos Ave,","1,104",2,,3,1962,San Jose,36,"8,075",956,Single Family Home,7,7,10,24-Aug-18,1055000,CA,95132
+"308 Heritage View Ter,","1,690",2,1,2,2004,San Jose,39,"1,396",541,Single Family Home,7,9,NR,10-Jul-18,915000,CA,95125
+"3074 Ancrum Ct,","1,320",2,,3,1976,San Jose,38,"6,000",670,Single Family Home,5,4,8,9-Jul-18,885000,CA,95148
+"3072 Pellier Pl,","1,963",3,,4,2013,San Jose,29,"3,119",805,Single Family Home,9,9,10,5-Jul-18,1580108,CA,95135
+"307 Tradewinds Dr Apt 8,",992,2,,2,1970,San Jose,,"2,809",494,Condo/Townhome/Row Home/Co-Op,4,8,8,5-Sep-18,490000,CA,95123
+"3063 Oakbridge Dr,","1,770",2,,2,1978,San Jose,83,,141,Mfd/Mobile Home,4,4,8,2-Aug-18,250000,CA,95121
+"3063 Marston Way,","2,675",3,,4,1981,San Jose,43,"8,625",550,Single Family Home,9,8,10,31-Aug-18,1470000,CA,95148
+"3062 Summerhill Ct,","2,230",3,,4,1984,San Jose,22,0.24,635,Single Family Home,9,8,10,15-Jun-18,1415000,CA,95148
+"3062 Rosecreek Dr,","1,851",3,,4,1993,San Jose,,"4,500",554,Single Family Home,5,4,5,12-Jul-18,1025000,CA,95148
+"3054 Pavan Dr,","1,078",2,,3,1985,San Jose,43,"6,240",844,Single Family Home,8,8,10,21-Sep-18,910000,CA,95148
+"3053 Pavan Dr,","1,788",3,,6,1985,San Jose,64,"5,664",559,Single Family Home,8,8,10,21-Sep-18,1000000,CA,95148
+"3052 Peppermint Dr,","1,203",2,,3,1967,San Jose,42,"6,798",748,Single Family Home,5,8,10,29-Jun-18,900000,CA,95148
+"3046 Fairfax Ave,","1,186",2,,3,1965,San Jose,20,"6,136",767,Single Family Home,5,8,8,10-Jul-18,910000,CA,95148
+"3040 Magnum Dr,","2,663",3,,4,1996,San Jose,28,"9,960",698,Single Family Home,9,9,10,17-Jul-18,1860000,CA,95135
+"304 Tradewinds Dr Apt 1,",959,1,,2,1970,San Jose,46,"2,809",516,Condo/Townhome/Row Home/Co-Op,4,8,6,10-Sep-18,495000,CA,95123
+"3030 Oakbridge Dr,","1,440",2,,2,1979,San Jose,69,,122,Mfd/Mobile Home,4,4,8,12-Sep-18,175000,CA,95121
+"303 Tradewinds Dr Apt 2,",959,1,,2,1970,San Jose,90,"2,809",527,Condo/Townhome/Row Home/Co-Op,4,8,8,20-Sep-18,505000,CA,95123
+"3016 Kentridge Dr,","1,236",2,,3,1957,San Jose,,"6,500",676,Single Family Home,3,4,NR,18-Jul-18,835000,CA,95133
+"3014 Fruitdale Ave,","1,145",1,,2,1948,San Jose,54,0.24,"1,166",Single Family Home,6,5,6,21-Sep-18,1335000,CA,95128
+"301 Blairbeth Dr,","1,067",2,,3,1972,San Jose,35,"6,261",898,Single Family Home,5,7,8,14-Jun-18,958000,CA,95119
+"30 E Julian St Unit 314,",838,1,,1,2000,San Jose,49,838,751,Condo/Townhome/Row Home/Co-Op,3,5,NR,15-Jun-18,629500,CA,95112
+"2992 Capewood Ln,","1,465",3,,4,1963,San Jose,57,"6,600",696,Single Family Home,7,6,10,20-Jul-18,1020000,CA,95132
+"2988 Grassina St Unit 529,","1,200",2,,2,2006,San Jose,31,"2,300",646,Condo/Townhome/Row Home/Co-Op,7,NR,NR,13-Sep-18,775000,CA,95136
+"2984 Reece Way,","2,662",3,,4,1984,San Jose,70,"6,000",520,Single Family Home,3,6,NR,19-Jul-18,1385000,CA,95133
+"2975 Moss Point Dr,","1,353",2,,4,1971,San Jose,,"6,000",532,Single Family Home,5,4,5,11-Oct-18,720000,CA,95127
+"2964 Tantallon Ct,","1,577",2,,3,1973,San Jose,28,"6,300",837,Single Family Home,7,7,10,18-Jul-18,1320000,CA,95132
+"2964 Castleton Dr,","1,320",2,,3,1967,San Jose,37,"7,210",799,Single Family Home,8,8,10,27-Jul-18,1055000,CA,95148
+"2961 Van Sansul Ave,","2,620",,,6,1959,San Jose,51,"7,613",609,Multi-Family Home,6,5,5,14-Jun-18,1595000,CA,95128
+"296 Esmeralda Ct,","1,207",2,,4,1980,San Jose,75,"9,000",766,Single Family Home,4,2,NR,8-Aug-18,925000,CA,95116
+"2943 Cortina Dr,","2,002",3,,4,1969,San Jose,109,"6,014",692,Single Family Home,7,7,10,6-Aug-18,1385000,CA,95132
+"2936 Creekside Dr,","1,003",1,1,2,1976,San Jose,42,704,737,Condo/Townhome/Row Home/Co-Op,7,7,10,13-Jul-18,738888,CA,95132
+"2934 Roberta Ct,","1,703",2,,4,1969,San Jose,,"6,000",132,Single Family Home,6,6,6,6-Aug-18,224000,CA,95121
+"2934 Florence Ave,","1,080",1,,4,1920,San Jose,37,"5,980",630,Single Family Home,5,4,5,15-Jun-18,680000,CA,95127
+"2931 Stutz Way,","1,430",2,,3,1976,San Jose,33,"6,000",749,Single Family Home,8,8,10,13-Aug-18,1070999,CA,95148
+"2925 Wycliffe Ct,",952,1,1,2,1979,San Jose,38,"1,400",578,Condo/Townhome/Row Home/Co-Op,5,4,8,20-Sep-18,550000,CA,95148
+"2925 Florence Ave Apt 24,",960,1,1,3,1964,San Jose,52,960,542,Condo/Townhome/Row Home/Co-Op,5,4,5,3-Jul-18,520000,CA,95127
+"2917 Rose Ave,","1,092",1,1,2,1979,San Jose,33,"3,400",545,Condo/Townhome/Row Home/Co-Op,5,4,5,25-Jul-18,595000,CA,95127
+"290 El Portal Way,","2,312",2,,5,1968,San Jose,46,"6,100",541,Single Family Home,8,7,NR,29-Jun-18,1250000,CA,95119
+"290 E Mission St,","1,468",1,,3,1928,San Jose,35,"8,475",579,Single Family Home,3,3,1,9-Nov-18,850000,CA,95112
+"2894 Lausanne Ct,","2,150",2,1,4,1970,San Jose,40,"6,000",730,Single Family Home,7,7,10,20-Jun-18,1570000,CA,95132
+"2881 Meridian Ave Unit 217,","1,383",2,,2,2007,San Jose,84,435,620,Condo/Townhome/Row Home/Co-Op,7,6,6,12-Sep-18,858000,CA,95124
+"288 Tradewinds Dr Apt 13,",722,1,,1,1970,San Jose,20,"2,809",611,Condo/Townhome/Row Home/Co-Op,4,8,6,31-Jul-18,441000,CA,95123
+"288 Tradewinds Dr Apt 12,",722,1,,1,1970,San Jose,38,"2,809",598,Condo/Townhome/Row Home/Co-Op,4,8,5,15-Jun-18,432000,CA,95123
+"288 N Cragmont Ave,","1,252",2,,3,1950,San Jose,43,"5,304",621,Single Family Home,5,4,NR,27-Jul-18,777000,CA,95127
+"2873 Ross Ave,","2,072",,,,1963,San Jose,123,"8,220",676,Multi-Family Home,5,7,8,23-Jul-18,1400000,CA,95124
+"2871 Ruby Vw,","2,492",3,,4,1997,San Jose,,"8,712",315,Single Family Home,5,8,10,20-Jul-18,785000,CA,95148
+"2862 Westbranch Dr,","1,363",2,,3,1965,San Jose,36,"6,090",698,Single Family Home,5,8,10,15-Jun-18,952000,CA,95148
+"2858 Paseo Ln,","2,438",4,1,4,2007,San Jose,30,871,576,Condo/Townhome/Row Home/Co-Op,7,6,6,27-Jul-18,1405000,CA,95124
+"2856 Alwood Ct,","1,380",2,,4,1979,San Jose,39,"6,000",815,Single Family Home,7,8,10,12-Jun-18,1125000,CA,95148
+"2855 Senter Rd Spc 85,","1,130",2,,3,2001,San Jose,73,,193,Mfd/Mobile Home,6,6,5,16-Jul-18,218000,CA,95111
+"2855 Senter Rd Spc 26,",860,2,,2,1969,San Jose,42,,186,Mfd/Mobile Home,6,6,5,1-Aug-18,160000,CA,95111
+"2838 Creekside Dr,","1,240",1,1,3,1976,San Jose,32,"1,540",665,Condo/Townhome/Row Home/Co-Op,7,7,10,15-Jun-18,825000,CA,95132
+"2836 Autumn Est,","1,728",2,,3,1973,San Jose,29,"7,616",632,Single Family Home,6,9,10,12-Jul-18,1092500,CA,95135
+"2834 Ronco Dr,","1,376",2,,3,1970,San Jose,41,"6,018",852,Single Family Home,7,7,10,20-Sep-18,1172000,CA,95132
+"2832 Moss Hollow Dr,","1,440",2,,2,1977,San Jose,47,,136,Mfd/Mobile Home,3,4,8,22-Jun-18,196500,CA,95121
+"2831 Old Estates Ct,","1,622",2,,3,1973,San Jose,28,"7,280",758,Single Family Home,6,9,10,8-Aug-18,1230000,CA,95135
+"2830 Briarwood Dr,","1,376",2,,3,1963,San Jose,36,"6,955","1,061",Single Family Home,7,6,6,15-Jun-18,1460000,CA,95125
+"283 Tradewinds Dr Apt 4,",992,2,,2,1970,San Jose,,"2,809",499,Condo/Townhome/Row Home/Co-Op,4,8,8,19-Oct-18,495000,CA,95123
+"2829 New Jersey Ave,","2,024",3,,4,1955,San Jose,29,"6,480",852,Single Family Home,5,7,8,27-Jun-18,1725000,CA,95124
+"2829 Lucena Dr,","1,478",2,,3,1966,San Jose,35,"6,000",744,Single Family Home,5,7,10,14-Sep-18,1100000,CA,95132
+"2828 Sand Point Dr,","1,415",2,,4,1970,San Jose,35,"6,100",671,Single Family Home,5,8,8,22-Jun-18,950000,CA,95148
+"2824 Monte Cresta Way,","1,938",2,1,3,1965,San Jose,73,"7,000",588,Single Family Home,5,7,10,2-Aug-18,1140000,CA,95132
+"2822 Mossmill Ct,","1,542",2,,4,1976,San Jose,21,"8,625",634,Single Family Home,6,6,6,18-Jul-18,977000,CA,95121
+"2814 Paseo Ln,","2,438",4,1,4,2007,San Jose,42,871,558,Condo/Townhome/Row Home/Co-Op,7,6,6,31-Jul-18,1360000,CA,95124
+"2812 Old Estates Ct,","1,476",2,,4,1973,San Jose,53,"7,280",474,Single Family Home,6,9,10,28-Sep-18,700000,CA,95135
+"281 Vineyard Dr,","1,308",2,,4,1970,San Jose,57,"6,000",573,Single Family Home,5,7,8,27-Jul-18,750000,CA,95119
+"280 N 19th St,",652,1,,1,1920,San Jose,57,"3,200",752,Single Family Home,4,5,NR,12-Jul-18,490000,CA,95112
+"2797 Ferrara Cir,","1,856",3,1,3,2015,San Jose,115,"1,012",466,Condo/Townhome/Row Home/Co-Op,3,6,9,6-Nov-18,865000,CA,95111
+"2784 Monterey Hwy Spc 40,",400,1,,1,1962,San Jose,214,,163,Mfd/Mobile Home,6,9,6,17-Jul-18,65000,CA,95111
+"2778 Judkins Ct,","1,374",2,,3,1970,San Jose,37,"6,100",659,Single Family Home,5,8,10,24-Aug-18,905000,CA,95148
+"2776 Croft Dr,","1,078",2,,3,1985,San Jose,,"4,218",802,Single Family Home,8,8,10,31-Jul-18,865000,CA,95148
+"277 Racine Pl,","1,568",3,,4,1998,San Jose,17,"2,816",298,Single Family Home,3,6,5,24-Jul-18,467500,CA,95111
+"2763 Murtha Dr,",960,1,,3,1955,San Jose,34,"5,040",698,Single Family Home,5,4,NR,26-Jul-18,670000,CA,95127
+"2758 Gilham Ct,","1,991",2,1,3,2004,San Jose,44,"3,256",542,Single Family Home,7,8,4,30-Aug-18,1080000,CA,95148
+"2751 Grandview Dr,","1,590",2,,4,1969,San Jose,34,"6,000",642,Single Family Home,3,6,1,11-Oct-18,1020000,CA,95133
+"275 N Creek Dr,","2,347",3,,5,1978,San Jose,,"6,160",456,Single Family Home,6,6,8,8-Nov-18,1070000,CA,95139
+"2748 Ashley Ct,","3,150",4,,4,1999,San Jose,73,"7,808",619,Single Family Home,6,9,10,25-Jun-18,1950000,CA,95135
+"2747 Klein Rd,","2,221",2,1,4,1979,San Jose,37,"8,050",612,Single Family Home,5,8,10,21-Sep-18,1360000,CA,95148
+"2743 Custer Dr,","2,070",3,,4,1954,San Jose,104,"7,315",700,Single Family Home,5,7,8,3-Aug-18,1450000,CA,95124
+"2741 Buena View Ct,","1,216",2,,3,1988,San Jose,31,796,724,Condo/Townhome/Row Home/Co-Op,6,4,10,23-Jul-18,880000,CA,95121
+"2740 Longford Dr,","1,643",2,,5,1964,San Jose,39,"6,000",663,Single Family Home,5,7,10,20-Aug-18,1090000,CA,95132
+"2738 Norita Ct,","1,168",1,1,2,1984,San Jose,41,"2,650",470,Condo/Townhome/Row Home/Co-Op,4,4,NR,13-Jun-18,548888,CA,95127
+"2731 Viterbo Ct Unit 1,","1,452",4,,3,2016,San Jose,78,435,539,Condo/Townhome/Row Home/Co-Op,3,6,9,28-Aug-18,782000,CA,95111
+"2722 Forino Ln Unit 2,","1,303",3,,2,2016,San Jose,126,435,690,Condo/Townhome/Row Home/Co-Op,3,6,9,20-Jul-18,899000,CA,95111
+"2721 Hill Vista Ct,","2,756",3,1,5,2000,San Jose,73,"6,969",490,Single Family Home,5,8,10,20-Aug-18,1350000,CA,95148
+"272 Tradewinds Ct Apt 1,",810,1,,2,1970,San Jose,83,"1,750",580,Condo/Townhome/Row Home/Co-Op,4,8,6,2-Aug-18,470000,CA,95123
+"272 Rhodes Ct,","1,787",1,1,3,1925,San Jose,34,"5,904",783,Single Family Home,4,3,7,11-Jun-18,1400000,CA,95126
+"2710 Plaza Americas,","1,406",2,,3,1967,San Jose,27,0.23,747,Single Family Home,10,6,10,27-Jun-18,1050000,CA,95132
+"271 Kaybe Ct,","1,146",1,1,3,1975,San Jose,28,"6,050",742,Single Family Home,6,6,8,29-Aug-18,850000,CA,95139
+"271 Cresta Vista Way,","2,312",2,,3,1968,San Jose,,"6,120",458,Single Family Home,8,7,8,10-Aug-18,1060000,CA,95119
+"2707 Corde Terra Cir,","1,650",2,1,3,2007,San Jose,29,"1,456",484,Single Family Home,6,6,2,24-Aug-18,799000,CA,95111
+"270 Umbarger Rd,","1,040",2,,3,1993,San Jose,146,,188,Mfd/Mobile Home,6,6,5,15-Jun-18,195000,CA,95111
+"2693 Orinda Dr,","2,210",3,,4,1965,San Jose,,"5,000",638,Single Family Home,8,4,8,25-Sep-18,1410000,CA,95121
+"2691 Villa Cortona Way,","1,888",4,,4,2005,San Jose,,"1,145",471,Condo/Townhome/Row Home/Co-Op,5,6,6,29-Oct-18,890000,CA,95125
+"269 S 15th St,","2,632",,,,1910,San Jose,,"6,400",779,Multi-Family Home,3,NR,3,19-Sep-18,2050000,CA,95112
+"2680 Flint Ave,","2,112",2,1,4,1969,San Jose,88,"6,930",521,Single Family Home,5,8,10,23-Jul-18,1100000,CA,95148
+"2678 Villa Cortona Way,","1,963",4,,3,2005,San Jose,,"1,213",468,Condo/Townhome/Row Home/Co-Op,5,6,6,12-Nov-18,918988,CA,95125
+"2673 Paganini Ave,","1,120",1,1,3,1961,San Jose,36,"5,870",714,Single Family Home,3,4,4,14-Sep-18,800000,CA,95122
+"2668 Somerset Park Cir,",677,1,,1,1988,San Jose,19,"1,711",746,Condo/Townhome/Row Home/Co-Op,5,7,10,31-Jul-18,505000,CA,95132
+"2664 Senter Rd Apt 230,","1,026",2,,2,1989,San Jose,37,"1,026",595,Condo/Townhome/Row Home/Co-Op,6,6,5,6-Jul-18,610000,CA,95111
+"2664 Senter Rd Apt 118,","1,020",2,,2,1989,San Jose,59,"1,020",549,Condo/Townhome/Row Home/Co-Op,6,6,6,20-Sep-18,560000,CA,95111
+"2663 Turturici Way,","4,512",5,,4,2015,San Jose,62,0.47,514,Single Family Home,9,9,10,20-Jun-18,2317000,CA,95135
+"2660-2662 Sturla Dr,","2,857",,,6,1979,San Jose,44,,462,Multi-Family Home,5,8,10,21-Jun-18,1320000,CA,95148
+"2660 Sturla Dr,","2,857",,,,1979,San Jose,54,"6,832",462,Multi-Family Home,5,8,10,21-Jun-18,1320000,CA,95148
+"2646 Gerald Way,","2,147",2,,3,1958,San Jose,,"8,800",884,Single Family Home,7,6,6,5-Sep-18,1898000,CA,95125
+"2634 Meridian Ave,","1,678",2,1,4,1961,San Jose,49,"6,649",676,Single Family Home,7,6,6,15-Jun-18,1135000,CA,95124
+"2631 Yerba Vista Ct # 325,",843,2,,2,1988,San Jose,50,"1,222",765,Condo/Townhome/Row Home/Co-Op,6,4,8,25-Jun-18,645000,CA,95121
+"263 Sposito Cir,","1,442",2,,3,1971,San Jose,36,"5,600",673,Single Family Home,6,4,5,13-Sep-18,970000,CA,95136
+"263 Clearpark Cir,","1,442",2,,3,1971,San Jose,41,"5,500",596,Single Family Home,6,4,NR,20-Jul-18,860000,CA,95136
+"2628 Flagstone Dr,","1,712",2,,3,1974,San Jose,27,"6,270",818,Single Family Home,5,7,10,11-Jun-18,1400000,CA,95132
+"2623 Yerba Vista Ct,","1,216",2,,3,1988,San Jose,,766,637,Condo/Townhome/Row Home/Co-Op,6,4,8,28-Sep-18,775000,CA,95121
+"2612 Aborn Rd,","1,296",2,,3,1965,San Jose,68,"6,000",598,Single Family Home,8,4,8,10-Sep-18,775000,CA,95121
+"2610 Mabury Sq,","1,746",3,,4,1979,San Jose,60,"3,876",527,Single Family Home,7,6,1,18-Sep-18,920000,CA,95133
+"2610 Hill Park Dr,","1,860",2,,4,1963,San Jose,84,"8,400",780,Single Family Home,6,7,8,22-Aug-18,1450000,CA,95124
+"2609 Mozart Ave,","1,043",1,,3,1960,San Jose,,"5,000",753,Single Family Home,3,4,4,7-Aug-18,785000,CA,95122
+"2605 Baton Rouge Dr Unit 1,","1,809",3,1,3,2013,San Jose,33,435,608,Condo/Townhome/Row Home/Co-Op,7,6,1,17-Sep-18,1100000,CA,95133
+"2600 Senter Rd,","1,120",2,,2,1979,San Jose,109,,205,Mfd/Mobile Home,6,9,5,18-Jun-18,229400,CA,95111
+"2591 Pantalis Dr,","2,009",3,,4,1972,San Jose,58,"6,000",641,Single Family Home,5,7,10,27-Jul-18,1287000,CA,95132
+"259 Oronsay Way,","2,256",2,1,4,1974,San Jose,39,"6,909",510,Single Family Home,5,7,8,24-Jun-18,1150000,CA,95119
+"259 N Capitol Ave Unit 186,",955,2,,2,1977,San Jose,38,"1,742",555,Condo/Townhome/Row Home/Co-Op,4,4,NR,26-Jul-18,530000,CA,95127
+"259 N Capitol Ave Unit 110,",955,2,,2,1977,San Jose,28,"1,742",518,Condo/Townhome/Row Home/Co-Op,4,4,NR,13-Jul-18,495000,CA,95127
+"2580 Senter Rd Spc 591,","1,260",2,,2,1971,San Jose,54,,166,Mfd/Mobile Home,6,7,2,28-Aug-18,209000,CA,95111
+"2580 Senter Rd Spc 584,","1,340",2,,3,1991,San Jose,60,,187,Mfd/Mobile Home,6,7,2,20-Aug-18,250000,CA,95111
+"2580 Senter Rd Spc 462,",720,1,,2,1975,San Jose,1,,201,Mfd/Mobile Home,6,7,2,3-Oct-18,145000,CA,95111
+"2575 Horace Ave,","1,962",3,,4,1956,San Jose,11,"6,100",765,Single Family Home,6,7,8,30-Jul-18,1500000,CA,95124
+"2548 Amaryl Ct,","1,125",2,,4,1970,San Jose,39,"6,000",769,Single Family Home,5,7,10,6-Jul-18,865000,CA,95132
+"2544 Glenrio Dr,","2,132",4,,4,1965,San Jose,41,"5,824",535,Single Family Home,8,4,8,11-Jun-18,1140000,CA,95121
+"2538 Brahms Ave,","1,613",3,,4,1981,San Jose,,"4,050",530,Single Family Home,1,4,4,18-Oct-18,855000,CA,95122
+"252 Sunnyslope Ave,","1,392",1,,3,1959,San Jose,,"6,750",521,Single Family Home,4,4,NR,11-Oct-18,725000,CA,95127
+"252 Coffeeberry Dr,","2,387",3,,5,1999,San Jose,84,"4,988",582,Single Family Home,7,8,2,21-Aug-18,1390000,CA,95123
+"2515 Lodi Ln,","2,326",2,1,5,1961,San Jose,37,"7,020",744,Single Family Home,9,6,6,29-Jun-18,1730000,CA,95124
+"2511 Brownstone Ct,","1,000",2,,3,1977,San Jose,,"8,066",710,Single Family Home,3,4,4,5-Nov-18,710000,CA,95122
+"25 S 3rd St Unit 413,",704,1,,1,2007,San Jose,25,704,793,Condo/Townhome/Row Home/Co-Op,3,NR,7,21-Sep-18,558000,CA,95113
+"25 Park Village Pl,","2,922",2,1,4,1979,San Jose,60,0.32,342,Single Family Home,6,4,9,3-Jul-18,1000000,CA,95136
+"25 Lincoln Ave,",396,1,,1,1920,San Jose,115,"7,069","2,197",Single Family Home,NR,9,9,31-Jul-18,870000,CA,95126
+"2496 Autumnvale Ave,","1,771",3,1,3,2008,San Jose,37,"1,670",683,Condo/Townhome/Row Home/Co-Op,10,6,NR,13-Jul-18,1210000,CA,95131
+"2489 Lost Oaks Dr,","1,300",2,,3,1959,San Jose,54,"6,510",942,Single Family Home,9,8,NR,21-Sep-18,1225000,CA,95124
+"2481 Parquet Ct,","2,639",2,1,4,1965,San Jose,51,"7,800",627,Single Family Home,6,7,8,14-Sep-18,1655000,CA,95124
+"248 Montalcino Cir,","1,856",3,1,3,2016,San Jose,41,"1,069",512,Condo/Townhome/Row Home/Co-Op,3,6,NR,18-Jul-18,950000,CA,95111
+"248 Beegum Way,","1,400",2,,4,1963,San Jose,,"5,000",668,Single Family Home,5,7,6,25-Oct-18,935000,CA,95123
+"2473 Foxdale Dr,","1,289",2,,3,1968,San Jose,,"5,500",289,Single Family Home,3,4,4,15-Jun-18,372500,CA,95122
+"247 N Capitol Ave Unit 187,",777,1,,1,1977,San Jose,28,"1,742",437,Condo/Townhome/Row Home/Co-Op,4,4,NR,23-Oct-18,339888,CA,95127
+"2469 La Mirada Dr,","1,927",2,,3,1959,San Jose,37,"6,549",817,Single Family Home,9,6,6,13-Jul-18,1575000,CA,95125
+"2463 Kimpton Ct,",720,1,,1,1985,San Jose,17,992,715,Condo/Townhome/Row Home/Co-Op,7,6,1,24-Jul-18,515000,CA,95133
+"246 Kentdale Pl,","1,581",3,,4,2005,San Jose,,"1,581",706,Condo/Townhome/Row Home/Co-Op,4,NR,7,17-Jul-18,1116000,CA,95126
+"2451 Azevedo Ct,","2,621",2,1,3,2006,San Jose,26,"1,839",458,Single Family Home,7,9,NR,31-Jul-18,1200000,CA,95125
+"245 Sunnyslope Ave,","1,520",1,,3,1959,San Jose,65,"6,750",460,Single Family Home,4,4,NR,10-Sep-18,699000,CA,95127
+"244 Chalet Ave,","1,209",2,,4,1959,San Jose,27,"7,440",669,Single Family Home,4,4,NR,29-Aug-18,809000,CA,95127
+"2439 Booksin Ave,","1,783",2,,4,1965,San Jose,48,"6,180",828,Single Family Home,7,6,6,31-Jul-18,1476333,CA,95125
+"2435 Lansford Ave,","1,501",2,,3,1948,San Jose,48,"7,965",949,Single Family Home,7,6,6,3-Jul-18,1425000,CA,95125
+"2425 Whitethorne Dr,","2,008",2,1,3,1961,San Jose,42,"6,480",667,Single Family Home,6,5,5,10-Jul-18,1340000,CA,95128
+"2422 Glen Fox Ct,","2,533",3,,5,1984,San Jose,96,0.25,415,Single Family Home,5,4,4,10-Aug-18,1050000,CA,95148
+"2416 Pebble Beach Ct,","1,970",3,,4,1960,San Jose,76,"7,008",607,Single Family Home,5,6,6,7-Aug-18,1195000,CA,95125
+"2415 Cory Ave,","1,040",1,,3,1950,San Jose,36,"7,198","1,043",Single Family Home,4,6,7,27-Jul-18,1085000,CA,95128
+"2412 Homewood Dr,","1,200",1,,3,1950,San Jose,,"6,968","1,313",Single Family Home,4,6,7,18-Oct-18,1575000,CA,95128
+"2410 Sequester Ct,",979,2,,2,1983,San Jose,40,436,628,Condo/Townhome/Row Home/Co-Op,7,6,9,19-Jun-18,615000,CA,95133
+"241 Coy Dr,","1,880",3,,4,1989,San Jose,70,"4,187",548,Single Family Home,4,8,8,5-Sep-18,1030000,CA,95123
+"2409 Apsis Ave,","1,539",2,,3,1979,San Jose,1,"4,700",741,Single Family Home,7,7,8,11-Sep-18,1140000,CA,95124
+"2407 La Terrace Cir,",995,2,,2,1985,San Jose,82,435,668,Condo/Townhome/Row Home/Co-Op,4,6,8,8-Aug-18,665000,CA,95123
+"2401 Fernwood Ave,","1,134",1,,3,1950,San Jose,33,"9,180","1,111",Single Family Home,4,6,7,31-Jul-18,1260000,CA,95128
+"240 Bayview Ave,","2,315",2,1,3,1951,San Jose,29,0.24,475,Single Family Home,5,4,NR,14-Sep-18,1100000,CA,95127
+"24 Torregata Loop,",850,2,,2,1993,San Jose,59,871,824,Condo/Townhome/Row Home/Co-Op,5,6,8,10-Aug-18,700000,CA,95134
+"2380 Rupert Dr,","2,306",2,1,4,1976,San Jose,42,"6,882",633,Single Family Home,7,7,8,24-Jul-18,1460000,CA,95124
+"238 Grey Ghost Ave,","1,732",3,,4,1963,San Jose,49,"6,077",419,Single Family Home,3,4,8,26-Sep-18,725000,CA,95111
+"2375 Antelope Dr,","1,199",2,,3,1972,San Jose,,"1,540",584,Condo/Townhome/Row Home/Co-Op,7,6,9,11-Oct-18,700000,CA,95133
+"2364 Sapwood Way,","1,042",1,1,2,1972,San Jose,48,"1,540",725,Condo/Townhome/Row Home/Co-Op,7,6,9,3-Jul-18,755000,CA,95133
+"235 Copco Ln,","1,367",2,,3,1966,San Jose,64,"6,100",725,Single Family Home,5,7,5,29-Jun-18,991000,CA,95123
+"2344 Palmira Way,","1,680",2,1,4,1965,San Jose,19,"5,665",542,Single Family Home,1,4,4,18-Jun-18,910000,CA,95122
+"2335 Woodland Ave,","1,134",1,,3,1950,San Jose,16,"5,720","1,155",Single Family Home,4,6,7,13-Jun-18,1310000,CA,95128
+"2326 Saidel Dr Apt 4,",798,1,,2,1973,San Jose,34,"2,580",752,Condo/Townhome/Row Home/Co-Op,7,7,8,25-Jul-18,600000,CA,95124
+"2326 Cherry Ave,","1,091",1,,3,1951,San Jose,43,"6,250","1,013",Single Family Home,9,6,6,8-Aug-18,1105000,CA,95125
+"2324 La Terrace Cir,","1,138",2,,2,1985,San Jose,61,435,615,Condo/Townhome/Row Home/Co-Op,4,6,NR,23-Jul-18,700000,CA,95123
+"232 Bayliss Dr,","2,347",3,,5,1978,San Jose,76,"6,554",475,Single Family Home,6,6,8,12-Sep-18,1115000,CA,95139
+"2311 Sunny Vista Dr,",834,1,,2,1950,San Jose,52,"5,841","1,409",Single Family Home,4,6,7,15-Jun-18,1175000,CA,95128
+"2310 Elkhorn Ct,","2,598",3,1,5,1976,San Jose,69,"6,000",585,Single Family Home,9,6,6,23-Jul-18,1520000,CA,95125
+"2307 Amador Dr,","1,094",2,,3,1969,San Jose,29,"5,000",772,Single Family Home,3,4,4,19-Jul-18,845000,CA,95122
+"2303 Cory Ave,","1,420",2,,3,1950,San Jose,36,"6,944",965,Single Family Home,4,6,7,17-Aug-18,1370000,CA,95128
+"2295 Gundersen Dr,","3,807",3,,4,1963,San Jose,,0.38,709,Single Family Home,9,6,6,29-Oct-18,2700000,CA,95125
+"2285 Cottle Ave,","1,869",2,,3,1954,San Jose,,"7,250",765,Single Family Home,9,6,6,18-Oct-18,1430000,CA,95125
+"2284 Maywood Ave,",980,1,,2,1941,San Jose,,"7,701","1,020",Single Family Home,5,5,6,31-Jul-18,1000000,CA,95128
+"2284 Freya Dr,","1,431",3,,3,1985,San Jose,,"2,935",590,Single Family Home,8,8,10,8-Nov-18,845000,CA,95148
+"2271 Lansford Ave,","1,152",1,,3,1947,San Jose,29,"7,965","1,042",Single Family Home,9,6,6,31-Aug-18,1200000,CA,95125
+"227 S Sunset Ave,","1,606",,,,1925,San Jose,48,"7,500",202,Multi-Family Home,3,2,NR,3-Oct-18,325000,CA,95116
+"2268 Warfield Way Unit D,","1,125",1,1,3,1979,San Jose,32,"1,066",530,Condo/Townhome/Row Home/Co-Op,6,7,2,13-Aug-18,596000,CA,95122
+"2258 Lusardi Dr,","1,608",2,1,4,1985,San Jose,57,"3,165",622,Single Family Home,8,8,10,8-Aug-18,1000000,CA,95148
+"2251 Warfield Way Unit A,",885,1,,2,1979,San Jose,,"1,012",616,Condo/Townhome/Row Home/Co-Op,6,7,2,6-Nov-18,545000,CA,95122
+"224 S 19th St,","1,220",1,,2,1948,San Jose,11,"7,800",697,Single Family Home,3,NR,4,20-Jul-18,850000,CA,95116
+"224 Bellerose Dr,","1,705",3,,3,1947,San Jose,48,"9,825",827,Single Family Home,4,5,5,11-Jun-18,1409800,CA,95128
+"2234 Alexian Dr,",976,2,,2,1985,San Jose,42,"2,825",517,Condo/Townhome/Row Home/Co-Op,6,4,NR,13-Jul-18,505000,CA,95116
+"2222 Coronet Dr,","2,822",4,,4,1959,San Jose,56,0.27,638,Single Family Home,10,8,9,31-Jul-18,1800000,CA,95124
+"2222 Alexian Dr,",976,2,,2,1985,San Jose,,"2,825",512,Condo/Townhome/Row Home/Co-Op,6,4,NR,5-Nov-18,500000,CA,95116
+"222 Chateau La Salle Dr,","1,536",2,,2,1980,San Jose,63,,160,Mfd/Mobile Home,7,9,NR,21-Jun-18,245000,CA,95111
+"220 Belden Dr,","1,617",2,,3,1963,San Jose,60,"5,000",588,Single Family Home,5,7,6,12-Sep-18,950000,CA,95123
+"2186 Mendocino Ln,","1,464",2,1,2,2007,San Jose,1,"1,562",750,Condo/Townhome/Row Home/Co-Op,9,8,NR,3-Oct-18,1098000,CA,95124
+"2177 Alum Rock Ave Apt 217,",996,2,,2,2005,San Jose,,"1,749",497,Condo/Townhome/Row Home/Co-Op,6,4,NR,29-Oct-18,495000,CA,95116
+"21733 Bertram Rd,","1,331",2,1,3,1900,San Jose,79,"9,100",526,Single Family Home,10,8,10,23-Aug-18,700000,CA,95120
+"217 William Manly St,","1,668",2,,2,2018,San Jose,209,,535,Condo/Townhome/Row Home/Co-Op,7,NR,NR,16-Aug-18,892863,CA,95136
+"2168 Mendocino Ln,","1,524",2,1,3,2007,San Jose,47,"1,408",778,Condo/Townhome/Row Home/Co-Op,9,8,NR,31-Jul-18,1185000,CA,95124
+"2165 Pomme Ct,","1,144",2,,2,2005,San Jose,43,"1,566",717,Condo/Townhome/Row Home/Co-Op,7,9,NR,2-Aug-18,820000,CA,95125
+"2157 Fairmont Dr,","1,472",2,,3,1968,San Jose,47,"6,561",516,Single Family Home,3,6,5,28-Sep-18,759999,CA,95148
+"2156 Sufonet Dr,","2,519",4,,5,1959,San Jose,32,"7,742",734,Single Family Home,9,8,9,13-Aug-18,1850000,CA,95124
+"2154 Pettigrew Dr,","1,645",2,1,3,1998,San Jose,360,"4,745",419,Single Family Home,5,4,8,1-Jul-18,690000,CA,95148
+"2151 Oakland Rd Spc 583,","1,120",2,,2,1972,San Jose,78,,152,Mfd/Mobile Home,6,2,NR,3-Aug-18,169900,CA,95131
+"2151 Oakland Rd Spc 543,","1,706",2,,4,2001,San Jose,28,,164,Mfd/Mobile Home,6,2,NR,5-Jul-18,280000,CA,95131
+"2151 Oakland Rd Spc 218,","1,416",2,,3,2008,San Jose,34,,162,Mfd/Mobile Home,6,2,NR,28-Jun-18,230000,CA,95131
+"2150 Silver Vale Ct,","1,793",2,,2,1995,San Jose,29,435,573,Condo/Townhome/Row Home/Co-Op,9,9,8,20-Jul-18,1028000,CA,95138
+"2150 Monterey Rd Spc 239,","1,440",2,,3,1976,San Jose,53,,201,Mfd/Mobile Home,6,2,4,13-Jul-18,290000,CA,95112
+"2150 Monterey Rd Spc 196,",880,2,,2,1995,San Jose,68,,240,Mfd/Mobile Home,6,7,9,7-Aug-18,211000,CA,95112
+"2150 Almaden Rd Spc 20,",700,1,1,2,1990,San Jose,56,,167,Mfd/Mobile Home,8,6,6,16-Jul-18,117000,CA,95125
+"215 Brooklyn Ave,",959,2,,3,1910,San Jose,70,"4,902","1,061",Single Family Home,4,4,7,8-Aug-18,1017500,CA,95128
+"2149 Samaritan Dr,","1,524",2,1,3,2007,San Jose,46,"1,769",745,Condo/Townhome/Row Home/Co-Op,9,8,NR,23-Jul-18,1135000,CA,95124
+"2148 Leon Dr,","1,225",2,,3,1955,San Jose,55,"6,240",947,Single Family Home,5,5,6,20-Aug-18,1160000,CA,95128
+"2147 Amstel Ct,","1,180",1,1,3,1976,San Jose,36,880,508,Condo/Townhome/Row Home/Co-Op,4,2,NR,13-Jul-18,600000,CA,95116
+"2144 Parkwood Way,","1,159",1,,3,1952,San Jose,55,"6,344","1,044",Single Family Home,9,6,6,26-Jun-18,1210000,CA,95125
+"2143 Ocala Ave,","1,515",2,,3,1959,San Jose,50,"6,000",551,Single Family Home,5,3,4,13-Jun-18,835000,CA,95122
+"2143 Bayhaven Dr,","1,393",2,,4,1962,San Jose,31,"5,665",632,Single Family Home,5,4,4,27-Jul-18,880000,CA,95122
+"21420 Shillingsburg Ave,","2,155",2,1,3,1969,San Jose,71,0.98,703,Single Family Home,10,8,10,29-Aug-18,1515000,CA,95120
+"2139 Shadow Ridge Ct,","3,000",3,,5,1996,San Jose,12,0.32,650,Single Family Home,9,9,8,18-Jul-18,1950000,CA,95138
+"2137 Jonathan Ave,","1,839",2,,3,1949,San Jose,28,"6,498",851,Single Family Home,9,6,6,30-Aug-18,1565000,CA,95125
+"2126 Sarasota Ave,","1,128",2,,3,1961,San Jose,68,"5,100",443,Single Family Home,5,3,4,13-Jun-18,500000,CA,95122
+"2119 Harmil Way,","2,824",3,1,4,1952,San Jose,30,"7,475",726,Single Family Home,9,6,6,15-Jun-18,2049000,CA,95125
+"2117 Sufonet Dr,","1,395",2,,3,1959,San Jose,129,0.23,982,Single Family Home,9,8,9,17-Jul-18,1370000,CA,95124
+"2113 Winepol Loop,","1,480",3,,3,2005,San Jose,39,819,610,Condo/Townhome/Row Home/Co-Op,7,9,NR,26-Jul-18,903000,CA,95125
+"2104 Shortridge Ave Unit B,","1,652",2,,4,1920,San Jose,48,"5,800",502,Single Family Home,4,2,NR,21-Jun-18,830000,CA,95116
+"210 Giddings Ct,","2,137",3,,4,1977,San Jose,66,"6,050",360,Single Family Home,6,6,8,15-Jun-18,770000,CA,95139
+"21 Esfahan Dr,","1,680",2,1,3,2008,San Jose,91,"1,462",506,Condo/Townhome/Row Home/Co-Op,7,9,6,25-Sep-18,850000,CA,95111
+"2094 Mahuron Cir,","1,472",2,,3,2017,San Jose,54,"1,005",526,Condo/Townhome/Row Home/Co-Op,8,4,9,21-Sep-18,774500,CA,95133
+"209 S 19th St,","1,035",1,,3,1901,San Jose,44,"7,800",773,Single Family Home,3,NR,4,30-Jul-18,800000,CA,95116
+"209 Mountain Springs Dr,","1,440",2,,3,1980,San Jose,31,,153,Mfd/Mobile Home,7,9,NR,30-Jul-18,220000,CA,95136
+"2086 Park Ave,","1,392",1,,2,1915,San Jose,129,"6,000",751,Single Family Home,4,3,7,17-Jul-18,1045000,CA,95126
+"2085 Mondigo Ave,","1,040",2,,3,1960,San Jose,47,"5,253",707,Single Family Home,5,4,4,17-Sep-18,735000,CA,95122
+"2079 Fruitdale Ave,","1,562",2,,3,1953,San Jose,46,"5,600",627,Single Family Home,5,5,6,27-Jul-18,979000,CA,95128
+"2075 Purcell Pl,","2,082",2,1,4,2004,San Jose,33,"3,096",720,Single Family Home,6,6,2,11-Jun-18,1500000,CA,95131
+"2074 Mahuron Cir,","1,667",3,,3,2017,San Jose,54,"1,005",481,Condo/Townhome/Row Home/Co-Op,8,4,9,21-Sep-18,801500,CA,95133
+"2073 E San Antonio St,","1,278",2,1,3,1998,San Jose,66,"1,200",524,Single Family Home,4,2,NR,10-Aug-18,670000,CA,95116
+"2070 Mahuron Cir,","1,400",2,,3,2017,San Jose,28,"1,005",725,Condo/Townhome/Row Home/Co-Op,8,4,9,13-Jul-18,1015000,CA,95133
+"2060 Mendocino Ln,","1,535",2,1,3,2007,San Jose,63,"2,702",714,Condo/Townhome/Row Home/Co-Op,9,8,9,24-Jul-18,1096000,CA,95124
+"206 San Pedro Cir,","1,242",2,,2,1991,San Jose,18,"1,650",632,Condo/Townhome/Row Home/Co-Op,3,3,7,2-Nov-18,785000,CA,95110
+"2052 Gold St # 301,","1,606",2,,3,2013,Alviso,111,,205,Mfd/Mobile Home,5,6,8,10-Jul-18,329000,CA,95002
+"2052 Gold St # 242,","1,049",2,,3,1999,Alviso,62,,172,Mfd/Mobile Home,5,6,8,19-Sep-18,180000,CA,95002
+"2046 Mahuron Cir,","1,459",2,,3,2017,San Jose,78,"1,015",546,Condo/Townhome/Row Home/Co-Op,8,4,9,28-Aug-18,796500,CA,95133
+"2038 Mahuron Cir,","1,400",2,,3,2017,San Jose,78,"1,015",526,Condo/Townhome/Row Home/Co-Op,8,4,9,28-Aug-18,736000,CA,95133
+"2036 S King Rd,","1,040",2,,3,1960,San Jose,48,"5,150",673,Single Family Home,5,3,4,3-Jul-18,700000,CA,95122
+"2035 Olive Ave,",900,1,,2,1920,San Jose,27,"3,510","1,000",Single Family Home,4,3,5,13-Jun-18,900000,CA,95128
+"2033 Barrett Ave,","2,125",3,,4,1960,San Jose,61,"5,978",786,Single Family Home,9,8,NR,10-Jul-18,1670000,CA,95124
+"2024 Nottoway Ave,","1,499",3,,3,1978,San Jose,20,"6,000",527,Single Family Home,1,2,NR,25-Oct-18,790000,CA,95116
+"2024 Jonathan Ave,","1,375",1,1,3,1948,San Jose,137,"5,750",909,Single Family Home,9,6,6,29-Aug-18,1250000,CA,95125
+"2023 Sunset View Pl,","1,103",2,,3,1982,San Jose,43,"4,200",680,Single Family Home,4,2,3,22-Jun-18,750000,CA,95116
+"2016 Seebeck Ct,","1,372",2,,3,1970,San Jose,36,"5,200",911,Single Family Home,7,6,10,10-Jul-18,1250500,CA,95132
+"2013 Fruitdale Ave,",919,1,,2,1950,San Jose,40,"6,000","1,034",Single Family Home,5,5,5,15-Jun-18,950000,CA,95128
+"2008 Lincoln Ave,","1,420",1,,2,1940,San Jose,75,"7,080",915,Single Family Home,9,6,6,31-Aug-18,1300000,CA,95125
+"2006 Terilyn Ave,",960,2,,3,1961,San Jose,70,"5,000",130,Single Family Home,5,3,4,5-Sep-18,125000,CA,95122
+"2000 Olivegate Ln,","1,308",1,1,3,1977,San Jose,64,"1,160",550,Condo/Townhome/Row Home/Co-Op,6,4,8,17-Aug-18,720000,CA,95136
+"200 San Pedro Cir,","2,231",3,,3,1991,San Jose,44,"1,650",482,Condo/Townhome/Row Home/Co-Op,3,3,7,13-Sep-18,1075000,CA,95110
+"200 Ford Rd Spc 137,",728,1,,2,1986,San Jose,65,,130,Mfd/Mobile Home,6,7,9,29-Jun-18,95000,CA,95138
+"1998 Bel Air Ave,","1,862",2,,3,1948,San Jose,,"9,176",649,Single Family Home,4,3,7,28-Sep-18,1209000,CA,95126
+"199 Prague Dr,","2,256",3,,4,1975,San Jose,,"5,850",110,Single Family Home,5,7,8,21-Jun-18,247500,CA,95119
+"198 N 12th St,","2,336",4,,9,1920,San Jose,58,"4,905",387,Multi-Family Home,3,5,NR,28-Jun-18,905000,CA,95112
+"198 Esfahan Dr Unit 1,","1,452",3,,3,2018,San Jose,2,,661,Condo/Townhome/Row Home/Co-Op,3,6,9,20-Jun-18,960000,CA,95111
+"198 Dogaway Dr,","1,290",2,,3,1960,San Jose,35,0.23,620,Single Family Home,3,4,8,23-Aug-18,800000,CA,95111
+"1976 Adele Pl,","1,892",2,,4,1957,San Jose,37,"8,050",924,Single Family Home,9,6,6,22-Jun-18,1749000,CA,95125
+"1975 Panama Ave,","1,352",1,1,4,1965,San Jose,37,"5,814",610,Single Family Home,5,3,4,13-Jul-18,825000,CA,95122
+"1972 Foxworthy Ave,","1,938",2,1,3,1957,San Jose,37,"6,016",697,Single Family Home,5,7,8,6-Jul-18,1350000,CA,95124
+"1970 Tampa Way,","1,669",2,,4,1968,San Jose,42,"5,712",464,Single Family Home,5,3,4,15-Jun-18,775000,CA,95122
+"197 Vista Ave,","2,068",3,,3,1954,San Jose,38,"5,580",513,Single Family Home,5,4,NR,31-Aug-18,1060000,CA,95127
+"1968 Bright Willow Cir,","2,045",4,,5,2005,San Jose,40,"3,600",743,Single Family Home,6,NR,2,25-Jun-18,1520000,CA,95131
+"1967 Camden Ave,","1,206",2,,3,1955,San Jose,21,"5,700",912,Single Family Home,5,7,8,15-Jun-18,1100000,CA,95124
+"1965 Randolph Dr,","1,344",1,1,3,1951,San Jose,30,"6,400",978,Single Family Home,5,5,5,26-Jun-18,1315000,CA,95128
+"1964 Prince George Dr,",456,1,,1,1983,San Jose,70,"1,875",768,Condo/Townhome/Row Home/Co-Op,4,2,NR,20-Aug-18,350000,CA,95116
+"196 Noyo Dr,","1,757",2,,3,1966,San Jose,48,"5,320",381,Single Family Home,5,7,6,3-Oct-18,670000,CA,95123
+"195 Blossom Hill Rd Lot 210,","1,521",2,,3,2015,San Jose,39,,207,Mfd/Mobile Home,5,4,8,24-Jul-18,315000,CA,95123
+"1945 Bel Air Ave,","1,623",2,,3,1948,San Jose,46,"7,440",776,Single Family Home,4,3,7,31-Aug-18,1260000,CA,95126
+"1944 Tradan Dr,",712,1,,1,1987,San Jose,29,"1,888",663,Condo/Townhome/Row Home/Co-Op,10,6,NR,24-Jul-18,472000,CA,95132
+"1940 Foxworthy Ave,","1,206",2,,3,1955,San Jose,36,"5,734",871,Single Family Home,6,7,8,31-Jul-18,1050000,CA,95124
+"1939 El Dorado Ave,","1,367",2,,3,1964,San Jose,29,"5,208",966,Single Family Home,4,3,7,15-Jun-18,1320000,CA,95126
+"1935 Kinross Way,","1,898",3,,5,1964,San Jose,88,"6,206",493,Single Family Home,6,3,2,13-Jul-18,935000,CA,95122
+"1931 Los Gatos Almaden Rd,","1,233",2,,3,1959,San Jose,54,"6,400",827,Single Family Home,10,8,9,20-Sep-18,1020000,CA,95124
+"193 Kona Pl,","1,137",2,,3,1970,San Jose,43,"5,842",901,Single Family Home,8,7,6,8-Aug-18,1025000,CA,95119
+"1927 Panama Ave,","1,359",1,1,4,1965,San Jose,23,"6,656",644,Single Family Home,5,3,4,22-Jun-18,875000,CA,95122
+"1927 Naglee Ave,","1,207",2,,2,1939,San Jose,,"7,089","1,251",Single Family Home,4,4,7,15-Aug-18,1510000,CA,95126
+"1920 Adele Pl,","1,892",2,,4,1957,San Jose,44,"8,050",793,Single Family Home,9,6,6,15-Jun-18,1500000,CA,95125
+"1916 Camargo Dr,","1,372",2,,3,1972,San Jose,34,"9,800",875,Single Family Home,7,6,10,13-Jun-18,1200000,CA,95132
+"1908 Harris Ave,","1,933",2,,4,1963,San Jose,24,"6,501",812,Single Family Home,6,7,8,13-Jul-18,1570000,CA,95124
+"1901 Vollmer Way,",944,1,,3,1954,San Jose,35,"6,350",730,Single Family Home,3,2,3,2-Oct-18,689000,CA,95116
+"190 Stillwater Ln,","2,347",3,,5,1977,San Jose,63,"6,050",469,Single Family Home,6,6,8,29-Jun-18,1100000,CA,95139
+"1899 Crinan Dr,","1,238",2,,3,1964,San Jose,27,"8,500",654,Single Family Home,6,3,2,12-Jun-18,810000,CA,95122
+"1897 Brixton Ct,","1,579",3,,3,1986,San Jose,,"6,160",728,Single Family Home,7,7,10,26-Sep-18,1150000,CA,95132
+"18905 Graystone Ln,","3,097",3,,4,1956,San Jose,,0.97,743,Single Family Home,10,8,10,9-Nov-18,2300000,CA,95120
+"189 Silcreek Dr,","1,313",2,,2,1984,San Jose,89,"3,080",446,Condo/Townhome/Row Home/Co-Op,3,3,NR,25-Jul-18,586000,CA,95116
+"189 Kenbrook Cir,","1,008",2,,2,1987,San Jose,38,528,575,Condo/Townhome/Row Home/Co-Op,3,6,5,21-Jun-18,580000,CA,95111
+"1886 Kay Dr,","2,155",2,,3,1959,San Jose,1,"6,600",661,Single Family Home,10,8,9,1-Nov-18,1425000,CA,95124
+"1879 Laurinda Dr,","1,012",2,,3,1958,San Jose,34,"6,300","1,045",Single Family Home,10,8,9,11-Oct-18,1057600,CA,95124
+"1873 Midnight Cir,","1,391",2,,2,2016,San Jose,54,"1,999",499,Condo/Townhome/Row Home/Co-Op,8,4,9,21-Sep-18,694500,CA,95133
+"1868 Crinan Dr,","1,111",2,,3,1964,San Jose,23,"5,800",743,Single Family Home,6,3,2,28-Aug-18,825000,CA,95122
+"1865 Bright Willow Cir,","2,150",2,1,4,2005,San Jose,37,"5,400",721,Single Family Home,6,NR,NR,14-Sep-18,1550000,CA,95131
+"1860 Foxworthy Ave,","1,260",2,,3,1955,San Jose,30,"6,100",754,Single Family Home,6,7,8,30-Jul-18,950000,CA,95124
+"186 Sun Blossom Dr,","1,660",2,,4,1977,San Jose,35,"9,775",633,Single Family Home,3,8,9,25-Jul-18,1050000,CA,95123
+"1856 Emory St,","3,004",3,,5,1938,San Jose,61,"8,415",832,Single Family Home,4,3,7,31-Jul-18,2500000,CA,95126
+"1853 Junewood Ave,","1,717",2,,4,1979,San Jose,129,"6,000",641,Single Family Home,10,6,10,17-Jul-18,1100000,CA,95132
+"1853 Dobbin Dr,","1,459",2,,3,2016,San Jose,47,896,156,Condo/Townhome/Row Home/Co-Op,8,4,NR,28-Sep-18,227500,CA,95133
+"1852 Gunston Way,","1,819",2,,3,1955,San Jose,,"5,800",731,Single Family Home,9,8,9,23-Oct-18,1330000,CA,95124
+"1848 Rochelle Dr,","1,577",2,,3,1953,San Jose,38,"7,300",793,Single Family Home,6,7,8,20-Aug-18,1250000,CA,95124
+"1848 Majestic Way,","1,598",2,,4,1971,San Jose,47,"6,670",745,Single Family Home,7,7,10,8-Aug-18,1190000,CA,95132
+"184 Dale Dr,",888,1,,2,1925,San Jose,33,"4,896",760,Single Family Home,4,4,NR,1-Aug-18,674600,CA,95127
+"184 Chateau La Salle Dr,","1,440",2,,2,1979,San Jose,91,,174,Mfd/Mobile Home,7,9,NR,14-Sep-18,250000,CA,95111
+"1834 Margaret St,","1,109",1,,2,1947,San Jose,36,"6,477",564,Single Family Home,3,2,4,13-Jun-18,625000,CA,95116
+"1832 Anne Ct,","2,241",3,,4,1968,San Jose,36,"5,600",745,Single Family Home,8,8,9,27-Jun-18,1670000,CA,95124
+"183 Page Mill Dr,","1,243",2,,3,1963,San Jose,40,"5,304",628,Single Family Home,3,4,9,10-Jul-18,780000,CA,95111
+"183 Noyo Dr,","2,186",3,,4,1966,San Jose,,"5,000",416,Single Family Home,5,7,6,8-Nov-18,910000,CA,95123
+"1822 Camino Leonor,","1,422",2,,2,2007,San Jose,35,"1,226",679,Condo/Townhome/Row Home/Co-Op,6,2,NR,7-Aug-18,965000,CA,95131
+"1820 Deep Creek Ct,","1,720",2,1,3,1982,San Jose,43,"2,075",453,Condo/Townhome/Row Home/Co-Op,3,3,5,27-Jun-18,780000,CA,95148
+"1818 Camino Leonor,","1,546",2,,3,2007,San Jose,57,"1,226",731,Condo/Townhome/Row Home/Co-Op,6,2,NR,15-Jun-18,1130000,CA,95131
+"1811 Wintersong Ct,","2,422",3,,5,1975,San Jose,42,"7,200",561,Single Family Home,6,6,9,10-Jul-18,1358000,CA,95131
+"1809 McNiff Pl,","2,876",3,,5,2004,San Jose,8,"5,840",645,Single Family Home,6,7,8,7-Aug-18,1856000,CA,95124
+"1798 Oakwood Ave,","1,500",2,,3,1957,San Jose,,"9,460",750,Single Family Home,6,7,8,18-Jun-18,1125000,CA,95124
+"1796 Wyrick Ave,","1,200",2,,3,1959,San Jose,1,"7,068","1,129",Single Family Home,9,8,9,28-Aug-18,1355000,CA,95124
+"1794 Michon Ct,","2,426",2,1,5,1969,San Jose,38,0.25,721,Single Family Home,8,8,9,15-Jun-18,1750000,CA,95124
+"179 Manton Dr,","1,400",2,,4,1966,San Jose,,"5,000",632,Single Family Home,5,7,6,29-Oct-18,885000,CA,95123
+"1787 Mount Rushmore Dr,","1,455",2,1,3,1960,San Jose,34,"5,200",540,Single Family Home,6,3,5,19-Sep-18,785000,CA,95127
+"1786 The Alameda,","13,917",,,6,1958,San Jose,138,0.54,560,Multi-Family Home,4,3,7,1-Aug-18,7800000,CA,95126
+"1774 Locksley Park Dr,","1,480",2,,4,1972,San Jose,,"6,090",430,Single Family Home,7,7,10,11-Sep-18,636500,CA,95132
+"1770 Phantom Ave,","2,339",3,,4,1954,San Jose,,"9,625",898,Single Family Home,3,4,6,17-Jul-18,2100000,CA,95125
+"1770 Fumia Ct,","2,464",3,,5,1997,San Jose,33,"3,840",670,Single Family Home,6,1,NR,13-Aug-18,1650000,CA,95131
+"1770 Cleveland Ave,","1,380",1,1,3,1945,San Jose,41,"6,534","1,007",Single Family Home,4,4,7,20-Aug-18,1390000,CA,95126
+"1767 Foley Ave,","1,482",3,,5,1959,San Jose,129,"6,566",466,Single Family Home,5,3,4,17-Jul-18,690000,CA,95122
+"1763 Foxworthy Ave,","1,320",2,,4,1954,San Jose,,"5,890",902,Single Family Home,5,7,8,14-Sep-18,1190000,CA,95124
+"1758 Cross Way Unit 255,","1,533",2,1,3,2010,San Jose,21,715,701,Condo/Townhome/Row Home/Co-Op,8,6,6,22-Jun-18,1075000,CA,95125
+"175 W Saint James St Unit 1106,","1,190",2,,2,2006,San Jose,41,285,758,Condo/Townhome/Row Home/Co-Op,3,3,7,25-Jul-18,901568,CA,95110
+"175 W Saint James St Unit 1005,",904,1,,1,2006,San Jose,39,285,824,Condo/Townhome/Row Home/Co-Op,3,NR,7,21-Sep-18,745000,CA,95110
+"1732 Cooley Dr,","1,651",2,,4,1980,San Jose,225,"5,994",363,Single Family Home,3,2,4,21-Jun-18,600000,CA,95116
+"1730 Naglee Ave,","1,680",2,,3,1967,San Jose,29,"6,731",878,Single Family Home,4,3,7,18-Jul-18,1475000,CA,95126
+"1730 Lorenzen Dr,","2,185",2,1,4,1961,San Jose,70,"7,085",645,Single Family Home,9,6,6,3-Aug-18,1410000,CA,95124
+"173 Senter Rd,","1,308",2,,4,1959,San Jose,,"5,000",539,Single Family Home,3,4,5,6-Jul-18,705000,CA,95111
+"1723 Morning Glory Ln,","1,346",2,,3,1959,San Jose,22,"7,000","1,003",Single Family Home,8,8,9,29-Jun-18,1350000,CA,95124
+"1717 Winston St,","1,666",2,1,3,1989,San Jose,36,"2,880",660,Condo/Townhome/Row Home/Co-Op,6,6,9,22-Jun-18,1100000,CA,95131
+"1717 Askham Place Ct,","1,320",2,,3,1974,San Jose,40,"6,000",670,Single Family Home,4,4,8,29-Aug-18,885000,CA,95121
+"1711 Willowhurst Ave,","1,601",2,,3,1939,San Jose,,"7,000","1,109",Single Family Home,3,4,5,22-Jun-18,1775000,CA,95125
+"1711 Tustin Dr,","1,545",2,,4,1972,San Jose,48,"5,500",537,Single Family Home,3,4,8,24-Jul-18,830000,CA,95122
+"1711 Mossbrook Ave,","1,785",2,,4,1963,San Jose,38,"6,720","1,007",Single Family Home,6,7,7,15-Jun-18,1798000,CA,95130
+"1707 Hogar Dr,","1,060",1,,3,1954,San Jose,,"5,000",802,Single Family Home,6,7,8,19-Sep-18,850000,CA,95124
+"1703 Via Lugano,","2,099",2,1,4,1998,San Jose,39,"3,240",762,Single Family Home,10,9,10,19-Jun-18,1600000,CA,95120
+"1703 Alder Creek Ct,","1,622",2,1,3,1974,San Jose,42,"2,075",475,Condo/Townhome/Row Home/Co-Op,3,3,5,7-Aug-18,770000,CA,95148
+"1701 Brooklyn Ave,","1,204",1,,3,1951,San Jose,99,"5,814",814,Single Family Home,4,3,7,7-Aug-18,980000,CA,95128
+"1701 Blossom Hill Rd,","1,396",2,,4,1959,San Jose,73,"6,540",985,Single Family Home,8,8,9,29-Oct-18,1375000,CA,95124
+"1700 Fan St,","2,009",3,,4,1989,San Jose,30,"2,880",612,Condo/Townhome/Row Home/Co-Op,6,6,9,13-Jul-18,1230000,CA,95131
+"1699 Clovis Ave,","1,396",2,,4,1959,San Jose,26,"7,320",949,Single Family Home,8,8,9,16-Jul-18,1325000,CA,95124
+"1698 Whitton Ave,","1,328",2,,3,1940,San Jose,29,"3,354",633,Single Family Home,3,NR,4,13-Jun-18,840000,CA,95116
+"1695 Cherry Ave,","2,315",3,1,4,1956,San Jose,84,"5,475",728,Single Family Home,7,6,6,6-Sep-18,1685000,CA,95125
+"169 Millar Ave,","1,328",2,,3,1945,San Jose,46,"6,790",546,Single Family Home,4,4,NR,9-Jul-18,725000,CA,95127
+"1683 Sandyrock Ct,","1,954",2,1,3,1977,San Jose,40,"2,128",632,Condo/Townhome/Row Home/Co-Op,9,6,6,23-Jul-18,1235000,CA,95125
+"1681 Mabury Rd,","1,778",3,,3,2007,San Jose,,"1,778",579,Condo/Townhome/Row Home/Co-Op,6,6,9,28-Sep-18,1030000,CA,95133
+"168 Quail Hollow Dr,","1,440",2,,2,1974,San Jose,60,,125,Mfd/Mobile Home,3,5,5,3-Jul-18,180000,CA,95128
+"1679 Dry Creek Rd,","2,278",3,,4,1967,San Jose,,"7,980",821,Single Family Home,9,6,6,5-Nov-18,1870000,CA,95125
+"1677 Salamoni Ct,","2,083",2,1,3,2005,San Jose,42,"3,215",586,Single Family Home,6,6,9,13-Jul-18,1220000,CA,95133
+"1676 Honeysuckle Dr,","1,650",3,,5,1968,San Jose,,"6,250",545,Single Family Home,1,4,4,18-Jul-18,900000,CA,95122
+"1672 Lorient Ter,","1,369",2,,2,2007,San Jose,49,"1,369",687,Condo/Townhome/Row Home/Co-Op,6,6,9,27-Jul-18,940000,CA,95133
+"1670 Whitton Ave,","1,143",1,,2,1940,San Jose,,"5,360",643,Single Family Home,3,2,3,23-Oct-18,735000,CA,95116
+"1670 Husted Ave,","1,582",2,,3,1961,San Jose,36,"6,405",857,Single Family Home,7,6,6,27-Jul-18,1356300,CA,95125
+"1669 Danromas Way,","1,894",2,1,4,1969,San Jose,22,"6,000","1,015",Single Family Home,9,9,10,10-Aug-18,1922000,CA,95129
+"1668 Tupolo Dr,","1,438",3,,3,1992,San Jose,,"3,840",930,Single Family Home,9,8,8,28-Sep-18,1337000,CA,95124
+"1666 Pinetree Ct,","1,740",2,,4,1974,San Jose,44,"7,700",667,Single Family Home,6,6,2,1-Aug-18,1160000,CA,95131
+"1660 Duvall Dr,","1,716",3,,4,1958,San Jose,67,"6,324",241,Single Family Home,6,7,7,14-Jun-18,414000,CA,95130
+"1656 Via Fortuna,","2,053",2,1,3,1997,San Jose,36,"3,240",682,Single Family Home,10,9,10,6-Jul-18,1400000,CA,95120
+"1653 Hillsdale Ave Unit 5,","2,053",3,1,4,2013,San Jose,67,"1,452",535,Condo/Townhome/Row Home/Co-Op,7,6,6,21-Aug-18,1098000,CA,95124
+"1650 Hanchett Ave,","2,022",2,,3,1939,San Jose,39,"7,952",781,Single Family Home,4,4,7,13-Jul-18,1580000,CA,95128
+"165 Blossom Hill Rd,","1,560",2,,3,1997,San Jose,107,,183,Mfd/Mobile Home,5,4,9,15-Jun-18,286000,CA,95123
+"1648 Fairwood Ave,","1,966",2,,4,1959,San Jose,80,"6,180",763,Single Family Home,9,6,6,15-Jun-18,1500000,CA,95125
+"1644 Fallbrook Ave,","2,323",3,,4,1962,San Jose,35,"9,800",775,Single Family Home,6,7,7,10-Jul-18,1800000,CA,95130
+"1644 Creek Dr,","1,754",3,1,4,1958,San Jose,99,"8,840",820,Single Family Home,8,6,6,21-Sep-18,1439000,CA,95125
+"1643 Valley Crest Dr,","1,828",2,1,4,1987,San Jose,26,"3,430",763,Single Family Home,6,6,1,27-Jun-18,1395000,CA,95131
+"1638 Peachwood Dr,","2,360",3,,4,1972,San Jose,,"4,000",593,Single Family Home,5,7,10,18-Jul-18,1400000,CA,95132
+"1636 Town Club Dr,","1,280",2,,3,1962,San Jose,93,"5,340",938,Single Family Home,8,5,8,12-Jul-18,1200000,CA,95124
+"1634 Virginia Pl,",864,1,,2,1947,San Jose,48,"7,500",781,Single Family Home,3,2,3,3-Oct-18,675000,CA,95116
+"163 El Bosque Dr,","1,392",2,,3,1976,San Jose,18,,136,Mfd/Mobile Home,6,NR,8,3-Aug-18,189000,CA,95134
+"1628 Hallbrook Dr,","1,628",2,,3,1961,San Jose,1,"6,200",565,Single Family Home,8,5,8,4-Oct-18,920000,CA,95124
+"1628 Bowling Ln,","2,133",3,,3,1962,San Jose,64,"6,600",656,Single Family Home,8,8,8,15-Jun-18,1400000,CA,95118
+"1626 Marsh St,","1,200",2,,3,1958,San Jose,35,"5,300",708,Single Family Home,5,3,4,15-Jun-18,850000,CA,95122
+"1623 Melody Ln,","1,092",2,,3,1956,San Jose,52,"5,459",760,Single Family Home,3,NR,NR,13-Aug-18,830000,CA,95133
+"162 Venado Way,","1,120",1,1,3,1966,San Jose,41,"5,141",835,Single Family Home,5,7,9,19-Jun-18,935000,CA,95123
+"1618 Fairlawn Ave,","1,408",2,,4,1958,San Jose,13,"6,386",980,Single Family Home,9,6,6,25-Sep-18,1380000,CA,95125
+"1616 Trona Way,","1,523",2,,3,1964,San Jose,31,"6,732",909,Single Family Home,7,6,6,14-Sep-18,1385000,CA,95125
+"1611 Thorncrest Dr,",913,2,,2,1987,San Jose,49,"1,200",865,Condo/Townhome/Row Home/Co-Op,6,6,1,27-Jul-18,789888,CA,95131
+"1611 Hillsdale Ave,","1,140",1,,4,1953,San Jose,48,"5,985",753,Single Family Home,7,6,6,19-Jun-18,858000,CA,95118
+"161 Herlong Ave,","1,400",2,,4,1966,San Jose,78,"5,000",586,Single Family Home,5,7,6,28-Aug-18,820000,CA,95123
+"1609 Clovis Ave,","1,220",2,,3,1957,San Jose,32,"7,020",853,Single Family Home,8,8,9,15-Jun-18,1040500,CA,95124
+"1608 Lincoln Ave,","2,072",3,,5,1909,San Jose,50,"6,552",724,Multi-Family Home,7,6,6,15-Jun-18,1500000,CA,95125
+"1605 Fairway Green Cir,","1,672",2,1,3,1988,San Jose,37,"1,764",685,Condo/Townhome/Row Home/Co-Op,6,6,1,7-Sep-18,1145000,CA,95131
+"1599 Mercado Way,","1,693",2,1,3,2014,San Jose,43,"1,700",721,Single Family Home,6,6,1,7-Sep-18,1220000,CA,95131
+"1599 Farringdon Dr,","2,150",3,,6,1971,San Jose,72,"5,664",451,Single Family Home,5,4,5,31-Aug-18,970000,CA,95127
+"1597 Turriff Way,","2,828",3,,6,1973,San Jose,100,"6,300",535,Single Family Home,7,7,10,20-Jul-18,1513000,CA,95132
+"1595 Camden Village Way,","1,539",2,1,3,1982,San Jose,56,"2,077",669,Condo/Townhome/Row Home/Co-Op,9,8,8,15-Jun-18,1030000,CA,95124
+"1594 Brookvale Dr,",985,1,1,2,1973,San Jose,40,800,"1,168",Condo/Townhome/Row Home/Co-Op,9,9,10,7-Aug-18,1150000,CA,95129
+"1590 Willowmont Ave,","1,426",2,1,3,1958,San Jose,32,"6,324",968,Single Family Home,8,5,8,6-Aug-18,1381000,CA,95118
+"15888 Alta Vista Way,","1,380",2,,3,1958,San Jose,35,0.39,588,Single Family Home,5,4,NR,27-Jul-18,812000,CA,95127
+"1588 Hillsdale Ave,","1,890",2,1,4,1962,San Jose,42,"6,890",622,Single Family Home,8,5,8,12-Sep-18,1175000,CA,95118
+"1581 Laurelwood Crossing Ter,","3,289",4,,5,2005,San Jose,101,"6,119",593,Single Family Home,9,9,8,19-Jul-18,1950000,CA,95138
+"1580 Wharton Rd,","2,504",3,,5,1997,San Jose,50,"5,662",603,Single Family Home,7,7,10,29-Aug-18,1510000,CA,95132
+"15798 Alta Vista Way,","2,648",3,1,4,1965,San Jose,55,0.27,531,Single Family Home,5,4,NR,13-Jun-18,1405000,CA,95127
+"1576 Calco Creek Dr,","2,659",3,,4,1999,San Jose,51,0.43,553,Single Family Home,5,NR,5,30-Jun-18,1470000,CA,95127
+"1575 Four Oaks Cir,",676,1,,1,1986,San Jose,42,"1,307",688,Condo/Townhome/Row Home/Co-Op,5,7,10,12-Jul-18,465000,CA,95131
+"1573 Jacob Ave,","1,836",3,,4,1959,San Jose,,"6,200",708,Single Family Home,8,5,8,28-Sep-18,1300000,CA,95118
+"1568 Marietta Dr,","1,585",2,,3,1960,San Jose,35,"6,441",826,Single Family Home,8,8,8,17-Aug-18,1310000,CA,95118
+"1568 Ilikai Ave,","1,956",2,,4,1975,San Jose,38,"6,260",845,Single Family Home,9,8,8,27-Jul-18,1653000,CA,95118
+"1562 Clayton Rd,","1,424",2,,4,1976,San Jose,33,"8,040",583,Single Family Home,3,3,5,21-Jul-18,830000,CA,95127
+"1561 Santa Inez Dr,","2,173",2,,5,1956,San Jose,,"8,814",690,Single Family Home,3,4,6,14-Sep-18,1500000,CA,95125
+"1558 Thornbriar Dr,",913,2,,2,1987,San Jose,,950,849,Condo/Townhome/Row Home/Co-Op,6,6,1,11-Oct-18,775000,CA,95131
+"1558 Shasta Ave,","2,011",2,1,3,1930,San Jose,42,"5,640",693,Single Family Home,4,4,7,23-Aug-18,1393000,CA,95126
+"1558 Kooser Rd,","1,211",2,,3,1961,San Jose,54,"6,000",846,Single Family Home,8,8,8,17-Oct-18,1025000,CA,95118
+"1552 Shore Dr,","1,693",2,1,3,2014,San Jose,38,"1,700",789,Single Family Home,6,6,1,10-Jul-18,1336500,CA,95131
+"1550 Technology Dr Unit 1108,","1,264",2,,2,2005,San Jose,93,"1,264",672,Condo/Townhome/Row Home/Co-Op,6,4,1,6-Jul-18,850000,CA,95110
+"1550 Technology Dr Unit 1070,","1,133",2,,2,2005,San Jose,41,"1,133",752,Condo/Townhome/Row Home/Co-Op,6,4,1,13-Jun-18,852000,CA,95110
+"1548 Saint Francis Dr,","1,542",2,,3,1955,San Jose,48,"7,455",934,Single Family Home,3,4,5,3-Jul-18,1440000,CA,95125
+"1544 Willow St,","1,983",2,,3,1910,San Jose,85,"6,280",696,Single Family Home,7,6,6,1-Aug-18,1380000,CA,95125
+"1542 Meadow Ridge Cir,",896,1,,2,2018,San Jose,58,435.6,765,Condo/Townhome/Row Home/Co-Op,6,6,1,21-Sep-18,685000,CA,95131
+"1542 Grace Ave,","2,055",2,,3,2012,San Jose,36,"8,375",905,Single Family Home,3,4,5,5-Jul-18,1860000,CA,95125
+"1541 San Gabriel Way,","2,335",3,,4,1955,San Jose,57,"7,810",621,Single Family Home,3,4,5,5-Jul-18,1450000,CA,95125
+"1539 San Andreas Ave,","1,634",2,,4,1954,San Jose,50,"6,664",673,Single Family Home,7,6,6,7-Sep-18,1100000,CA,95118
+"1537 Glenpine Dr,","1,090",2,,2,1971,San Jose,23,"2,016",229,Condo/Townhome/Row Home/Co-Op,7,6,6,18-Jul-18,250000,CA,95125
+"1536 Alma Ter,",784,1,,1,1984,San Jose,,435.6,733,Condo/Townhome/Row Home/Co-Op,8,6,6,2-Oct-18,575000,CA,95125
+"1533 Georgetta Dr,","1,214",2,,3,1952,San Jose,,"6,195","1,110",Single Family Home,9,6,6,6-Jul-18,1348000,CA,95125
+"1530 Maxine Ave,","1,336",1,,3,1951,San Jose,35,"6,100",850,Single Family Home,9,6,6,29-Aug-18,1135000,CA,95125
+"1530 Cross Way,","1,080",1,1,3,1953,San Jose,114,"6,600",852,Single Family Home,8,6,6,19-Sep-18,920000,CA,95125
+"1529 Sanborn Ave,","2,365",3,,5,1900,San Jose,40,"5,805",486,Multi-Family Home,8,6,6,18-Jun-18,1150000,CA,95110
+"1529 Puerto Vallarta Dr,","1,670",2,,4,1965,San Jose,,"8,774",874,Single Family Home,9,8,8,23-Oct-18,1458888,CA,95120
+"1529 Kooser Rd,","1,272",2,,3,1958,San Jose,28,"6,480",989,Single Family Home,8,8,8,20-Aug-18,1258000,CA,95118
+"1528 San Andreas Ave,","1,136",1,,3,1954,San Jose,35,"6,000",876,Single Family Home,7,6,6,18-Sep-18,995000,CA,95118
+"1525 Shumaker Way,",849,2,,2,1987,San Jose,17,"3,500",565,Single Family Home,6,6,2,24-Jul-18,480000,CA,95131
+"1524 Marlene Ct,","1,308",2,,2,1985,San Jose,,435,578,Condo/Townhome/Row Home/Co-Op,4,5,8,5-Nov-18,756000,CA,95118
+"1524 Hallbrook Dr,","1,293",2,,3,1961,San Jose,41,"6,000",909,Single Family Home,8,5,8,30-Jul-18,1175000,CA,95118
+"1522 Arata Ct,","1,887",2,1,4,1964,San Jose,35,"6,240",893,Single Family Home,8,6,6,18-Sep-18,1685000,CA,95125
+"1520 E Capitol Expy Spc 52C,","1,440",3,,3,2017,San Jose,59,,233,Mfd/Mobile Home,4,4,8,10-Aug-18,335000,CA,95121
+"152 Sunnyslope Ave,","1,190",2,,3,1945,San Jose,26,"6,750",685,Single Family Home,4,4,NR,19-Jun-18,815000,CA,95127
+"1517 Glencrest Dr,","1,910",2,,4,1962,San Jose,55,"6,000",628,Single Family Home,8,5,8,12-Sep-18,1200000,CA,95118
+"15158 Charmeran Ave,","2,173",2,,3,1947,San Jose,,"7,965",644,Single Family Home,9,8,NR,26-Sep-18,1400000,CA,95124
+"1510 Santa Monica Ave,","1,144",2,,3,1954,San Jose,28,"6,510","1,038",Single Family Home,7,6,6,31-Aug-18,1188000,CA,95118
+"1508 Rhodesia Way,","1,441",2,1,3,1975,San Jose,63,"1,575",677,Condo/Townhome/Row Home/Co-Op,3,4,5,16-Jul-18,975000,CA,95126
+"1508 Briartree Dr,",922,2,,2,1987,San Jose,34,"1,200",841,Condo/Townhome/Row Home/Co-Op,6,6,1,26-Jul-18,775000,CA,95131
+"1505 Hillsdale Ave,","1,612",2,,3,1954,San Jose,,"7,956",689,Single Family Home,7,6,6,25-Oct-18,1110000,CA,95118
+"1498 Karl St,","1,609",2,,3,1963,San Jose,41,"6,800",466,Single Family Home,5,3,4,10-Oct-18,750000,CA,95122
+"1497 Portobelo Dr,","1,579",2,,3,1967,San Jose,51,"7,035",782,Single Family Home,9,8,8,2-Aug-18,1235000,CA,95118
+"1495 Norman Ave,","2,024",3,,3,1952,San Jose,,"5,880",786,Single Family Home,3,4,6,9-Nov-18,1590000,CA,95125
+"1493 Gerhardt Ave,","1,650",2,,3,1959,San Jose,37,"8,330",835,Single Family Home,7,6,6,5-Sep-18,1378000,CA,95125
+"14906 Sutton Dr,","2,599",3,,5,1950,San Jose,20,0.27,731,Single Family Home,9,8,9,11-Jun-18,1900000,CA,95124
+"1490 San Marcos Dr,","1,938",2,1,3,1964,San Jose,35,"6,000",645,Single Family Home,5,7,10,27-Jul-18,1250000,CA,95132
+"1490 Maxine Ave,","1,130",2,,3,1951,San Jose,44,"6,100","1,106",Single Family Home,9,6,6,31-Aug-18,1250000,CA,95125
+"1490 Calaveras Ave,","2,580",2,1,4,1937,San Jose,35,"7,850",570,Single Family Home,4,3,7,14-Aug-18,1470000,CA,95126
+"1489 Mount Hamilton View Dr,","1,136",1,,2,1930,San Jose,46,"5,843",660,Single Family Home,3,NR,NR,20-Jul-18,750000,CA,95116
+"1485 Meadow Glen Way,","1,478",2,,4,1974,San Jose,72,"6,000",568,Single Family Home,4,4,8,10-Aug-18,840000,CA,95121
+"1485 Gerhardt Ave,","1,903",3,,4,1958,San Jose,,"8,925",797,Single Family Home,7,6,6,29-Oct-18,1517000,CA,95125
+"1485 De Palma Dr,","2,013",2,1,4,1968,San Jose,40,"7,904",706,Single Family Home,9,8,8,17-Jul-18,1422000,CA,95120
+"14842 Nelson Way,","1,454",2,,2,1950,San Jose,60,"9,375","1,049",Single Family Home,9,8,NR,21-Aug-18,1525000,CA,95124
+"1482 Luning Dr,","2,264",3,1,5,1967,San Jose,43,"6,370",698,Single Family Home,9,8,8,3-Aug-18,1580000,CA,95118
+"14784 Charmeran Ave,","2,643",3,,4,1950,San Jose,42,"9,375",747,Single Family Home,9,8,NR,27-Jul-18,1975000,CA,95124
+"14780 Ronda Dr,","1,905",3,,5,1950,San Jose,30,"9,125",785,Single Family Home,9,8,9,21-Sep-18,1495000,CA,95124
+"1477 Hartley Ct,","2,283",3,,6,1959,San Jose,50,"6,300",641,Single Family Home,7,7,7,29-Aug-18,1462500,CA,95130
+"1472 Cliffwood Dr,",910,1,,3,1959,San Jose,56,"5,000",648,Single Family Home,5,3,4,19-Sep-18,590000,CA,95122
+"1470 Palmview Way,","1,250",2,,4,1959,San Jose,87,"5,000",568,Single Family Home,5,3,4,23-Jul-18,710000,CA,95122
+"1470 Calaveras Ave,","2,560",3,,4,1937,San Jose,1,"7,850",816,Single Family Home,4,3,7,31-Jul-18,2090000,CA,95126
+"14685 Bronson Ave,",884,1,,2,1950,San Jose,38,"9,125","1,499",Single Family Home,9,8,9,22-Jun-18,1325000,CA,95124
+"1467 Nesbit Ct,","2,008",2,1,4,1973,San Jose,28,"8,050",852,Single Family Home,9,8,8,13-Jun-18,1710000,CA,95120
+"1466 Neleigh Pl,","1,171",2,,2,2014,San Jose,,435,773,Condo/Townhome/Row Home/Co-Op,6,6,1,8-Nov-18,905000,CA,95131
+"1461 Sanborn Ave,",720,1,,2,1920,San Jose,,"2,720",694,Single Family Home,8,6,6,1-Nov-18,500000,CA,95110
+"1458 Kimberly Dr,","1,282",2,,3,1961,San Jose,27,"5,814",987,Single Family Home,8,5,8,17-Aug-18,1265000,CA,95118
+"1456 Quartz Way,","1,713",3,,4,1961,San Jose,27,"7,210",919,Single Family Home,8,5,8,14-Jun-18,1575000,CA,95118
+"1456 Branham Ln,","1,232",2,,3,1965,San Jose,84,"6,100",779,Single Family Home,4,5,8,10-Aug-18,960000,CA,95118
+"1455 Sunbeam Cir,","1,740",3,,4,1978,San Jose,104,,158,Mfd/Mobile Home,3,2,5,29-Jun-18,275000,CA,95122
+"1451 Revere Ave,","1,363",2,,4,1955,San Jose,,"5,247",706,Single Family Home,7,6,6,12-Nov-18,962000,CA,95118
+"1445 Koch Ln,","1,250",2,,3,1954,San Jose,85,"6,804","1,008",Single Family Home,7,6,6,6-Sep-18,1260000,CA,95125
+"1445 Fruitdale Ave Unit 405,","1,193",2,,2,2009,San Jose,37,894,738,Condo/Townhome/Row Home/Co-Op,3,4,6,16-Aug-18,880800,CA,95128
+"1441 Montelegre Dr,","2,054",2,1,5,1972,San Jose,25,"7,475",745,Single Family Home,9,6,8,3-Jul-18,1530000,CA,95120
+"144 S 3rd St Unit 520,",858,1,,1,1996,San Jose,43,871,815,Condo/Townhome/Row Home/Co-Op,3,5,7,10-Jul-18,699000,CA,95112
+"144 S 3rd St Unit 315,","1,421",2,,2,1996,San Jose,,"1,536",602,Condo/Townhome/Row Home/Co-Op,3,5,7,27-Jul-18,855000,CA,95112
+"144 S 3rd St Unit 134,","1,542",2,1,2,1996,San Jose,41,435,558,Condo/Townhome/Row Home/Co-Op,3,5,7,26-Jul-18,860000,CA,95112
+"144 Basch Ave,","1,032",1,,2,1951,San Jose,29,"5,350",640,Single Family Home,3,3,NR,14-Jun-18,660000,CA,95116
+"1439 Merrywood Dr,","1,775",3,,4,1960,San Jose,44,"6,042",789,Single Family Home,8,8,8,2-Aug-18,1400000,CA,95118
+"1438 Yilufa Ct,","2,416",3,1,4,2009,San Jose,50,"4,221",869,Single Family Home,9,9,10,8-Aug-18,2100000,CA,95129
+"14370 Highgrove Ct,",960,2,,3,1954,San Jose,34,"6,816",729,Single Family Home,NR,NR,5,1-Aug-18,700000,CA,95127
+"14369 New Jersey Ave,","4,342",5,,5,2018,San Jose,49,0.39,645,Single Family Home,6,7,NR,25-Sep-18,2800000,CA,95124
+"1435 Golden Meadow Sq,","1,152",2,,2,1974,San Jose,20,"1,440",956,Condo/Townhome/Row Home/Co-Op,7,7,7,19-Sep-18,1101000,CA,95117
+"1433 Hester Ave,","1,916",2,,3,1951,San Jose,31,"6,900",861,Single Family Home,4,3,7,16-Jul-18,1650000,CA,95126
+"1431 Dentwood Dr,","1,220",2,,3,1960,San Jose,35,"6,120",861,Single Family Home,8,8,8,30-Jul-18,1050000,CA,95118
+"14305 Holden Ct,","2,150",3,,3,1952,San Jose,67,0.27,779,Single Family Home,9,8,9,6-Aug-18,1675000,CA,95124
+"143 Sprucemont Pl,","2,347",3,,4,1977,San Jose,95,"6,050",511,Single Family Home,6,6,8,7-Aug-18,1200000,CA,95139
+"1429 Sunshade Ln,","1,440",2,,3,1981,San Jose,41,,138,Mfd/Mobile Home,3,2,5,30-Jul-18,198482,CA,95122
+"1429 Sprucewood Dr,","1,300",2,,3,1960,San Jose,32,"6,148",962,Single Family Home,8,8,8,18-Jun-18,1250000,CA,95118
+"1425 Bouret Dr,","1,888",3,,4,1963,San Jose,111,"6,000",604,Single Family Home,4,5,8,21-Sep-18,1140000,CA,95118
+"1423 Hanchett Ave,","1,536",3,,3,1925,San Jose,30,"5,670",703,Single Family Home,4,NR,7,14-Sep-18,1080000,CA,95126
+"1422 Ridgewood Dr,","1,080",2,,3,1960,San Jose,61,"6,264","1,046",Single Family Home,8,8,8,19-Sep-18,1130000,CA,95118
+"1421 N 1st St Unit 259,",901,1,,1,2006,San Jose,129,"1,100",705,Condo/Townhome/Row Home/Co-Op,3,3,7,17-Jul-18,635000,CA,95112
+"1421 N 1st St Unit 205,",731,1,,1,2006,San Jose,39,"1,100",793,Condo/Townhome/Row Home/Co-Op,3,4,7,18-Jun-18,580000,CA,95112
+"1420 Dahlia Loop,","1,977",2,2,3,2006,San Jose,36,"2,119",687,Single Family Home,4,6,7,24-Aug-18,1358000,CA,95126
+"1418 Rocklin Ct,",896,1,,2,1984,San Jose,35,436,905,Condo/Townhome/Row Home/Co-Op,6,6,2,13-Jun-18,811000,CA,95131
+"1416 Ridgewood Dr,","1,556",2,,3,1960,San Jose,52,"6,300",816,Single Family Home,8,8,8,22-Jun-18,1270000,CA,95118
+"1411 Meridian Ave,","2,120",,,,1968,San Jose,56,"9,000",187,Multi-Family Home,3,4,6,19-Sep-18,396000,CA,95125
+"1410 Flora Ave,","2,629",2,2,4,1949,San Jose,47,0.24,837,Single Family Home,7,7,7,19-Jun-18,2200000,CA,95130
+"1400 Searcy Dr,","1,180",2,,3,1962,San Jose,47,"6,060",966,Single Family Home,8,5,8,24-Jul-18,1140000,CA,95118
+"140 El Campo Dr,","1,127",1,,3,1952,San Jose,27,"7,680",714,Single Family Home,5,4,5,13-Jun-18,805000,CA,95127
+"1395 Courtyard Dr,","1,522",2,,3,1973,San Jose,37,"5,040",821,Single Family Home,8,5,8,29-Jun-18,1250000,CA,95118
+"13941 Observatory Dr,","3,498",4,,5,1990,San Jose,,1.52,452,Single Family Home,5,4,NR,12-Jul-18,1580000,CA,95127
+"1392 Searcy Dr,","1,792",2,,3,1962,San Jose,78,"6,060",606,Single Family Home,8,5,8,6-Sep-18,1086000,CA,95118
+"1391 Melwood Dr,","1,080",2,,3,1960,San Jose,51,"6,148",926,Single Family Home,4,6,8,21-Jun-18,1000000,CA,95118
+"1390 Saddle Rack St Apt 207,","1,108",2,,2,2004,San Jose,42,"1,108",754,Condo/Townhome/Row Home/Co-Op,2,4,7,5-Jul-18,835000,CA,95126
+"1387 Marcello Dr,","1,307",2,,2,2007,San Jose,69,"1,226",689,Condo/Townhome/Row Home/Co-Op,6,NR,2,31-Jul-18,900000,CA,95131
+"1387 De Altura Cmn,","1,682",2,1,2,2006,San Jose,38,"1,112",588,Condo/Townhome/Row Home/Co-Op,4,6,7,14-Jun-18,988888,CA,95126
+"1383 Santa Fe Dr,","1,408",2,,4,1963,San Jose,66,"6,000",639,Single Family Home,4,5,8,15-Jun-18,900000,CA,95118
+"1376 Branham Ln Unit 4,",798,1,,2,1970,San Jose,18,"7,080",667,Condo/Townhome/Row Home/Co-Op,4,5,8,26-Jun-18,532000,CA,95118
+"1372 Branham Ln Unit 4,",798,1,,2,1970,San Jose,9,"7,080",667,Condo/Townhome/Row Home/Co-Op,4,5,8,5-Oct-18,532000,CA,95118
+"1371 Marcello Dr,","1,519",2,1,2,2007,San Jose,48,"1,226",691,Condo/Townhome/Row Home/Co-Op,6,1,NR,20-Sep-18,1050000,CA,95131
+"1370 Carterwood Pl,","1,321",2,,3,1975,San Jose,42,"8,200",666,Single Family Home,6,6,4,21-Sep-18,880000,CA,95121
+"1368 Poe Ln,","1,502",2,,4,1959,San Jose,115,"6,090","1,065",Single Family Home,7,7,7,31-Jul-18,1600000,CA,95130
+"1366 Legend Ln,","2,410",3,,5,1998,San Jose,,"4,240",664,Single Family Home,6,6,1,9-Nov-18,1600000,CA,95131
+"1366 Dahlia Loop,","1,367",3,,3,2006,San Jose,,"1,761",827,Single Family Home,4,6,7,13-Nov-18,1131000,CA,95126
+"1364 Randol Ave,","2,154",2,,3,1915,San Jose,,"6,987",673,Single Family Home,4,3,7,24-Oct-18,1450000,CA,95126
+"13621 Emilie Dr,","1,224",2,,3,1951,San Jose,27,"5,555",723,Single Family Home,5,4,4,12-Sep-18,885000,CA,95127
+"1361 Marcello Dr,","1,519",2,1,2,2010,San Jose,39,"1,226",678,Condo/Townhome/Row Home/Co-Op,6,NR,2,10-Jul-18,1030000,CA,95131
+"1361 E San Fernando St,","1,620",,,3,1950,San Jose,69,"5,480",664,Multi-Family Home,3,NR,4,12-Jun-18,1075000,CA,95116
+"1360 Neleigh Pl,","1,171",2,,2,2014,San Jose,35,435,769,Condo/Townhome/Row Home/Co-Op,6,6,1,6-Sep-18,900000,CA,95131
+"136 Sunnyslope Ave,",360,1,,1,1945,San Jose,13,"6,750","1,514",Single Family Home,4,4,NR,15-Jun-18,545000,CA,95127
+"1358 Oakland Rd Spc 38,","1,527",2,,3,1994,San Jose,81,,170,Mfd/Mobile Home,6,1,1,12-Sep-18,260000,CA,95112
+"1350 Magnolia Ave,","1,779",2,,4,1900,San Jose,51,"5,125",801,Single Family Home,4,3,7,29-Oct-18,1425000,CA,95126
+"1348 Essex Way,","3,928",,,9,1967,San Jose,179,"6,120",415,Multi-Family Home,4,4,7,7-Aug-18,1630000,CA,95117
+"1347 Lexington Dr,","3,928",,,9,1967,San Jose,50,"6,848",404,Multi-Family Home,4,4,7,14-Jun-18,1585000,CA,95117
+"1346 Trailside Ln,","2,538",3,1,4,2004,San Jose,84,"3,661",508,Condo/Townhome/Row Home/Co-Op,9,9,8,13-Jul-18,1290000,CA,95138
+"1345 Palm St,","1,118",2,,2,1986,San Jose,17,"1,500",581,Condo/Townhome/Row Home/Co-Op,8,6,6,15-Jun-18,650000,CA,95110
+"1345 Michigan Ave,","2,024",3,,4,2015,Alviso,,"4,498",260,Single Family Home,5,6,8,20-Jul-18,527000,CA,95002
+"1345 Kotenberg Ave,","3,289",4,,4,2007,San Jose,43,"7,473",715,Single Family Home,7,6,6,19-Jul-18,2350000,CA,95125
+"1344 Iris Ct,","1,882",2,1,3,1940,San Jose,44,"6,264",850,Single Family Home,7,6,6,13-Jul-18,1599000,CA,95125
+"1343 University Ave,","1,887",3,,3,1993,San Jose,,"3,772",768,Single Family Home,4,3,7,10-Aug-18,1450000,CA,95126
+"1343 Petal Way,","1,176",2,,3,1959,San Jose,,"7,521","1,556",Single Family Home,9,9,10,8-Nov-18,1830000,CA,95129
+"1341 Vernal Dr,","1,264",2,,3,1958,San Jose,41,"6,100","1,226",Single Family Home,7,7,7,23-Jul-18,1550000,CA,95130
+"134 Azucar Ave,","1,675",3,,4,1960,San Jose,77,"5,600",439,Single Family Home,3,4,9,27-Jul-18,735000,CA,95111
+"1338 Quail Creek Cir,","1,827",2,,3,1991,San Jose,29,"5,940",832,Single Family Home,9,8,10,22-Jun-18,1520000,CA,95120
+"1326 Piland Dr,","1,502",2,,4,1959,San Jose,77,"6,510",959,Single Family Home,7,7,7,6-Aug-18,1440000,CA,95130
+"1325 Coniston Ct,","3,141",,,6,1979,San Jose,37,"7,920",462,Multi-Family Home,4,6,8,22-Jun-18,1450000,CA,95118
+"1323 Fruitdale Ave,","1,244",2,1,2,1980,San Jose,31,594,707,Condo/Townhome/Row Home/Co-Op,7,6,6,29-Jun-18,880000,CA,95126
+"1320 Lightland Rd,","1,861",3,,4,1977,San Jose,,"6,000",457,Single Family Home,6,6,8,23-Jul-18,850000,CA,95121
+"1318 N Capitol Ave Unit 1,","1,605",2,1,3,2014,San Jose,29,"1,300",670,Condo/Townhome/Row Home/Co-Op,5,7,10,10-Aug-18,1075000,CA,95132
+"1316 Keoncrest Ave,","1,241",1,,3,1947,San Jose,31,"5,610",846,Single Family Home,3,4,7,19-Jul-18,1050000,CA,95110
+"1315 Kane Ct,","1,494",2,,4,1969,San Jose,42,"6,090",579,Single Family Home,6,6,8,29-Aug-18,865000,CA,95121
+"13112 Water St,","2,378",4,,4,1951,San Jose,15,"9,375",320,Single Family Home,3,6,6,30-Oct-18,760000,CA,95111
+"1311 Starglo Pl,","1,684",2,1,3,1993,San Jose,30,"4,356",739,Condo/Townhome/Row Home/Co-Op,6,NR,2,6-Jul-18,1245000,CA,95131
+"1311 Lindahl Ct,","2,265",2,,4,1970,San Jose,36,"8,800",596,Single Family Home,9,6,8,24-Jul-18,1350000,CA,95120
+"1309 Mountain Quail Cir,","2,372",3,,3,1988,San Jose,39,"5,358",738,Single Family Home,9,8,10,17-Jul-18,1750000,CA,95120
+"1306 Shawn Dr Unit 2,",903,1,,2,1970,San Jose,23,"8,250",609,Condo/Townhome/Row Home/Co-Op,4,5,8,21-Jun-18,550000,CA,95118
+"1301 Salvatore Ct,","2,356",3,,5,1976,San Jose,39,"9,017",700,Single Family Home,9,6,8,16-Jul-18,1650000,CA,95120
+"130 El Bosque Dr,","2,376",2,,3,2000,San Jose,132,"2,376",138,Mfd/Mobile Home,6,6,8,9-Nov-18,329000,CA,95134
+"130 E San Fernando St Apt 306,","1,622",2,,2,1998,San Jose,54,550,509,Condo/Townhome/Row Home/Co-Op,3,NR,7,21-Sep-18,825000,CA,95112
+"1296 Bird Ave,","2,244",3,,4,2014,San Jose,42,"5,000",762,Single Family Home,7,6,6,13-Jul-18,1710000,CA,95125
+"1289 McAbee Estates Pl,","3,485",4,,5,1990,San Jose,12,"7,980",531,Single Family Home,9,6,8,8-Nov-18,1850000,CA,95120
+"1288 Martin Ave,","2,034",2,,4,1922,San Jose,39,"5,929",698,Single Family Home,4,NR,7,10-Sep-18,1420000,CA,95126
+"1287 Marcello Dr,","1,415",1,1,1,2006,San Jose,39,"1,498",502,Condo/Townhome/Row Home/Co-Op,6,1,NR,17-Sep-18,710000,CA,95131
+"1287 Forrestal Ave,","1,279",2,,2,1949,San Jose,,"5,000",625,Single Family Home,3,3,7,29-Oct-18,800000,CA,95110
+"1284 Tofts Dr,","1,380",3,,4,1971,San Jose,77,"6,000",819,Single Family Home,6,6,9,6-Sep-18,1130000,CA,95131
+"128 Ash Grove Ct,","1,362",2,,4,1977,San Jose,13,"5,280",698,Single Family Home,3,8,8,7-Nov-18,950000,CA,95123
+"1279 Curtiss Ave,","4,070",3,1,4,1947,San Jose,40,0.24,596,Single Family Home,7,6,6,6-Aug-18,2425000,CA,95125
+"1275 Mildred Ave,","1,101",1,1,2,1935,San Jose,8,"4,806","1,190",Single Family Home,7,6,6,20-Sep-18,1310000,CA,95125
+"1271 Hopkins Dr,","1,126",2,,3,1959,San Jose,29,"6,000",691,Single Family Home,5,3,4,20-Jul-18,778000,CA,95122
+"1268 Butterfly Dr,","1,534",2,,3,1972,San Jose,38,"8,582",926,Single Family Home,9,6,8,29-Jun-18,1420000,CA,95120
+"1265 Bird Ave,",848,1,,2,1922,San Jose,99,"5,000","3,361",Single Family Home,7,6,6,7-Aug-18,2850000,CA,95125
+"1253 Settle Ave,","1,246",1,,2,1900,San Jose,14,0.26,"1,324",Single Family Home,7,6,6,26-Jun-18,1650000,CA,95125
+"1253 Park Ave,","1,842",2,,4,1926,San Jose,43,"5,332",760,Single Family Home,4,NR,7,29-Aug-18,1400000,CA,95126
+"1253 Collins Ln,","1,929",3,,4,1963,San Jose,50,"8,100","1,089",Single Family Home,8,7,7,18-Jul-18,2100000,CA,95129
+"1253 Avenida Las Brisas,","1,307",2,,2,2006,San Jose,40,"1,307",765,Condo/Townhome/Row Home/Co-Op,6,1,NR,12-Sep-18,1000000,CA,95131
+"125 Patterson St Unit 303,","1,045",1,1,1,2006,San Jose,73,728,569,Condo/Townhome/Row Home/Co-Op,4,7,7,24-Jul-18,595000,CA,95112
+"125 Patterson St Unit 221,",710,1,,1,2006,San Jose,37,728,810,Condo/Townhome/Row Home/Co-Op,4,2,7,17-Aug-18,575000,CA,95112
+"125 Patterson St Unit 213,","1,061",2,,2,2006,San Jose,,728,679,Condo/Townhome/Row Home/Co-Op,4,7,7,26-Jun-18,720000,CA,95112
+"1249 Martin Ave,","1,948",2,,3,1911,San Jose,36,"7,000",821,Single Family Home,4,3,7,1-Aug-18,1600000,CA,95126
+"1248 S 2nd St,","1,284",3,,5,1920,San Jose,43,"5,452",706,Single Family Home,8,9,7,29-Jun-18,907000,CA,95112
+"1247 Madrona Ave,","1,723",2,1,3,1952,San Jose,51,"7,000",905,Single Family Home,9,6,6,27-Jul-18,1560000,CA,95125
+"1245 Coyote Creek Pl,",849,2,,2,1984,San Jose,41,"1,120",642,Condo/Townhome/Row Home/Co-Op,4,5,3,4-Oct-18,545000,CA,95116
+"1242 Oregold Pl,","1,157",2,,2,1993,San Jose,22,435,792,Condo/Townhome/Row Home/Co-Op,6,1,NR,23-Aug-18,916000,CA,95131
+"1242 Coyote Creek Pl,",633,1,,1,1984,San Jose,,"1,120",695,Condo/Townhome/Row Home/Co-Op,4,5,3,2-Nov-18,440000,CA,95116
+"12340 Clayton Rd,","4,000",3,1,4,1989,San Jose,112,,625,Single Family Home,3,3,5,30-Aug-18,2500000,CA,95127
+"1230 Michigan Ave,","2,071",2,,4,2015,Alviso,86,"5,241",596,Single Family Home,5,6,8,14-Sep-18,1235000,CA,95002
+"1230 Fritzen St,","1,391",2,,3,1961,San Jose,33,"5,445",550,Single Family Home,5,3,4,17-Jul-18,765000,CA,95122
+"123 Austin Ct,","1,525",2,,4,2002,San Jose,49,"4,800",580,Single Family Home,8,6,6,7-Aug-18,885000,CA,95110
+"1223 Woodlawn Ave,","1,372",2,,3,1956,San Jose,31,"5,700",991,Single Family Home,6,5,6,13-Jul-18,1360000,CA,95128
+"122 N 18th St,","1,806",3,,3,1923,San Jose,62,"6,250",581,Single Family Home,4,5,NR,3-Jul-18,1050000,CA,95112
+"1219 Polk Spring Ct,","1,155",2,,3,1986,San Jose,58,"3,990",955,Condo/Townhome/Row Home/Co-Op,9,8,10,16-Aug-18,1103000,CA,95120
+"1214 Rodney Dr,","1,685",2,,4,1957,San Jose,41,"9,100",801,Single Family Home,8,5,8,30-Aug-18,1350000,CA,95118
+"121 Schott St,",933,2,,2,1986,San Jose,148,"2,640",697,Single Family Home,6,4,NR,3-Jul-18,650000,CA,95116
+"1206 Sandra Dr,","1,837",2,,3,1947,San Jose,36,"7,616",784,Single Family Home,9,6,6,27-Jul-18,1440000,CA,95125
+"1205 Fairview Ave,","1,678",2,,3,1935,San Jose,41,"5,880","1,043",Single Family Home,9,6,6,18-Sep-18,1750000,CA,95125
+"1201 Shoreland Dr,","1,068",2,,3,1978,San Jose,,"6,099",810,Single Family Home,6,4,2,6-Aug-18,865000,CA,95122
+"12 Boston Ave,","2,080",,,,1928,San Jose,123,"5,600",581,Multi-Family Home,4,3,6,23-Jul-18,1208000,CA,95128
+"1192 Doralee Way,","2,914",3,,4,1953,San Jose,9,"9,794",635,Single Family Home,7,6,6,31-Jul-18,1849000,CA,95125
+"1190 Raposa Dr,","1,799",3,,4,1978,San Jose,39,"6,500",567,Single Family Home,6,6,8,23-Jul-18,1020000,CA,95121
+"119 Hayes Ave,","1,676",2,,4,1976,San Jose,,"6,000",510,Single Family Home,5,4,8,28-Sep-18,855000,CA,95123
+"118 Damsen Dr,","1,069",2,,3,1988,San Jose,142,"1,300",599,Condo/Townhome/Row Home/Co-Op,6,4,NR,26-Jul-18,640000,CA,95116
+"1179 Nikette Way,","2,700",3,,5,1978,San Jose,26,0.23,814,Single Family Home,9,8,10,19-Oct-18,2199000,CA,95120
+"1178 Oakview Rd,","1,074",1,1,2,1972,San Jose,31,"3,486",661,Single Family Home,6,6,8,15-Jun-18,710000,CA,95121
+"1176 Culligan Blvd,","1,919",2,,4,1962,San Jose,48,0.24,845,Single Family Home,9,6,10,10-Sep-18,1622000,CA,95120
+"1174 Leeward Dr,","1,062",1,1,3,1977,San Jose,39,"6,710",720,Single Family Home,3,4,4,22-Jun-18,765000,CA,95122
+"1173 Nevada Ave,","3,533",5,1,5,2014,San Jose,39,"7,904",927,Single Family Home,7,6,6,20-Aug-18,3275000,CA,95125
+"1169 Sherman St,","1,028",1,,2,1920,San Jose,,"6,800",764,Single Family Home,4,6,6,9-Nov-18,785000,CA,95110
+"1167 Brace Ave,","2,006",2,1,3,1992,San Jose,37,435,591,Single Family Home,7,6,6,20-Jul-18,1185000,CA,95125
+"1165 Raposa Dr,","1,654",3,,3,1980,San Jose,65,"8,448",399,Single Family Home,6,6,6,10-Sep-18,660000,CA,95121
+"1163 Spiro Dr,","1,681",2,1,4,1979,San Jose,64,"4,305",547,Single Family Home,3,2,3,17-Aug-18,920000,CA,95116
+"116 Quail Hollow Dr,","1,712",2,,3,2015,San Jose,55,,242,Mfd/Mobile Home,NR,5,6,29-Aug-18,415000,CA,95128
+"1153 El Prado Dr,","2,015",3,,4,1966,San Jose,,"8,424",907,Single Family Home,9,6,10,21-Sep-18,1828000,CA,95120
+"1152 Brace Ave Apt 6,",954,1,1,2,1976,San Jose,52,"1,225",881,Condo/Townhome/Row Home/Co-Op,7,6,6,2-Aug-18,840000,CA,95125
+"1150 S 11th St,","1,120",1,,3,1920,San Jose,,"6,165",702,Single Family Home,3,2,7,2-Nov-18,786000,CA,95112
+"1146 Colonial Ln,","1,793",2,,3,1961,San Jose,126,0.29,572,Single Family Home,7,6,10,20-Jul-18,1025000,CA,95132
+"1146 Arbor Vista Way,","1,150",2,,2,1977,San Jose,118,"1,150",957,Single Family Home,3,4,6,23-Jul-18,1100000,CA,95126
+"1145 Hopkins Dr,","1,979",3,,5,1964,San Jose,,"4,791.60",427,Single Family Home,5,3,4,2-Nov-18,845000,CA,95122
+"1145 Delmas Ave,","3,249",5,,4,2018,San Jose,18,"8,950",705,Single Family Home,7,6,6,2-Nov-18,2290000,CA,95125
+"1140 Glenmeadow Ct,","1,260",2,1,3,1971,San Jose,38,"1,020",825,Condo/Townhome/Row Home/Co-Op,7,6,6,15-Jun-18,1040000,CA,95125
+"1138 Zinfandel Way,","1,911",2,1,4,1970,San Jose,43,"8,000",680,Single Family Home,9,6,8,30-Aug-18,1300000,CA,95120
+"1138 Garfield Ave,","3,010",3,1,4,2016,San Jose,41,"6,700",797,Single Family Home,7,6,6,30-Jul-18,2400000,CA,95125
+"1137 Brace Ave Apt 4,","1,092",1,1,2,1981,San Jose,75,"2,161",888,Condo/Townhome/Row Home/Co-Op,7,6,6,23-Aug-18,970000,CA,95125
+"1137 Brace Ave Apt 2,","1,356",2,1,3,1981,San Jose,58,"2,161",819,Condo/Townhome/Row Home/Co-Op,7,6,6,6-Sep-18,1111000,CA,95125
+"1134 Olive Branch Ln,","2,732",3,,4,1969,San Jose,,0.3,695,Single Family Home,9,8,10,2-Nov-18,1900000,CA,95120
+"1130 Martin Ave,","1,548",2,,3,1924,San Jose,,"4,300",969,Single Family Home,4,NR,7,19-Oct-18,1500000,CA,95126
+"113 Ballatore Ct,",850,2,,2,1993,San Jose,22,871,924,Condo/Townhome/Row Home/Co-Op,5,6,8,13-Aug-18,785000,CA,95134
+"1128 Quail Run Ct,","1,420",2,,3,1981,San Jose,,"1,224",539,Condo/Townhome/Row Home/Co-Op,4,5,8,1-Nov-18,765000,CA,95118
+"1127 Laurie Ave,","1,316",2,,3,1930,San Jose,14,"6,000","1,052",Single Family Home,9,6,6,26-Jul-18,1385000,CA,95125
+"1124 Macias Ln,","3,780",4,,4,2006,San Jose,127,"7,378",611,Single Family Home,9,8,10,25-Jul-18,2310000,CA,95120
+"1121 Homer Cmn,","1,651",2,1,3,1996,San Jose,37,"2,613",721,Condo/Townhome/Row Home/Co-Op,6,NR,2,22-Jun-18,1190000,CA,95131
+"1120 Olive Branch Ln,","2,584",3,,4,1973,San Jose,,0.27,739,Single Family Home,9,8,10,11-Oct-18,1910000,CA,95120
+"1120 Kayellen Ct,","1,780",3,,3,1985,San Jose,,"1,610",567,Condo/Townhome/Row Home/Co-Op,7,6,6,6-Nov-18,1010000,CA,95125
+"1120 Calle Almaden,","2,390",3,,4,1988,San Jose,126,"4,802",446,Single Family Home,9,6,8,20-Jul-18,1066000,CA,95120
+"112 Mosswell Ct,","1,987",2,1,4,1978,San Jose,43,"5,974",501,Single Family Home,6,7,9,12-Jul-18,995000,CA,95138
+"1119 Odyssey Ct,","1,693",2,1,3,1983,San Jose,62,"1,440",502,Condo/Townhome/Row Home/Co-Op,4,5,8,20-Jul-18,850000,CA,95118
+"1117 Nevada Ave,","4,233",3,1,4,1927,San Jose,29,0.3,945,Single Family Home,7,6,6,15-Jun-18,4000000,CA,95125
+"1115 Lennon Way,","2,459",2,1,4,1998,San Jose,41,"6,500",834,Single Family Home,9,6,6,10-Jul-18,2050000,CA,95125
+"1108 S Winchester Blvd,",669,1,,1,1992,San Jose,38,"1,306",852,Condo/Townhome/Row Home/Co-Op,6,5,6,16-Aug-18,570000,CA,95128
+"1094 Summerplace Dr,",730,1,,1,1992,San Jose,17,436,555,Not Available,6,9,2,24-Jul-18,405000,CA,95122
+"1090 Walnut Woods Ct,","1,344",2,,4,1985,San Jose,37,0.26,685,Single Family Home,5,2,5,15-Jun-18,920000,CA,95122
+"109 Birch Ln,","1,620",2,,3,1946,San Jose,9,"8,100",679,Single Family Home,4,4,NR,5-Nov-18,1099888,CA,95127
+"1088 Foxglove Pl,","1,718",3,1,3,2015,San Jose,41,"1,216",769,Condo/Townhome/Row Home/Co-Op,6,2,NR,12-Jun-18,1321000,CA,95131
+"1087 Carolyn Ave,","3,928",4,,5,2018,San Jose,194,"8,200",891,Single Family Home,7,6,6,5-Sep-18,3500000,CA,95125
+"1085 Eugene Ave Apt 6,","4,020",,,,1951,San Jose,35,"9,000",249,Multi-Family Home,4,3,7,10-Jul-18,1000000,CA,95126
+"1084 S Daniel Way,","1,950",3,,3,1960,San Jose,,"6,600",618,Single Family Home,6,5,6,29-Oct-18,1205000,CA,95128
+"10812 Crothers Rd,","2,253",3,,4,1958,San Jose,35,2.86,399,Single Family Home,5,4,NR,2-Aug-18,900000,CA,95127
+"1075 Noble Ln,","1,821",2,1,4,1970,San Jose,50,0.53,789,Single Family Home,7,6,10,8-Aug-18,1436000,CA,95132
+"1072 Wilsham Dr,","1,519",2,,3,1970,San Jose,41,"6,200",671,Single Family Home,7,6,1,30-Aug-18,1020000,CA,95132
+"1069 Kitchener Cir,","1,861",2,1,4,1976,San Jose,56,"6,466",521,Single Family Home,6,6,6,19-Sep-18,970000,CA,95121
+"10681 Porter Ln,","1,916",2,,3,1960,San Jose,67,"6,900",496,Single Family Home,4,4,NR,13-Aug-18,950000,CA,95127
+"1063 Summershore Ct,","1,094",3,,2,1992,San Jose,,578,503,Condo/Townhome/Row Home/Co-Op,6,9,2,30-Oct-18,550000,CA,95122
+"1063 Rymar Pl,","1,042",2,1,2,1987,San Jose,38,"1,612",865,Condo/Townhome/Row Home/Co-Op,7,6,9,27-Jul-18,901000,CA,95133
+"1060 S 3rd St Apt 307,","1,100",2,,2,2005,San Jose,84,750,591,Condo/Townhome/Row Home/Co-Op,4,2,7,5-Sep-18,650000,CA,95112
+"1060 Marilla Ave,","1,645",2,,4,1962,San Jose,,"6,000",948,Single Family Home,8,8,7,8-Nov-18,1560000,CA,95129
+"1058 Rymar Pl,","1,042",3,,2,1987,San Jose,,"1,612",195,Condo/Townhome/Row Home/Co-Op,7,6,9,17-Jul-18,203500,CA,95133
+"1051 Tekman Dr,",912,2,,2,1984,San Jose,,912,612,Condo/Townhome/Row Home/Co-Op,6,9,2,20-Jun-18,558000,CA,95122
+"1050 Whitebick Dr,","1,532",3,,3,1972,San Jose,,"1,920","1,004",Condo/Townhome/Row Home/Co-Op,9,9,10,9-Nov-18,1537700,CA,95129
+"1042 Rock Ave,","2,150",3,,4,2007,San Jose,75,"3,150",698,Single Family Home,6,NR,NR,31-Aug-18,1500000,CA,95131
+"1042 Oakmont Pl,","2,020",2,1,3,1990,San Jose,33,"3,520",643,Single Family Home,4,7,7,16-Jul-18,1298000,CA,95117
+"1041 Johnson Ave,","2,426",4,,4,1967,San Jose,48,"6,528",948,Single Family Home,9,9,10,13-Jun-18,2300000,CA,95129
+"1037 S 9th St,","1,056",2,,2,1901,San Jose,50,"6,348",829,Single Family Home,3,2,7,12-Jul-18,875000,CA,95112
+"1036 Obrien Ct,","1,273",1,1,3,1939,San Jose,42,"3,520",776,Single Family Home,4,6,7,15-Jun-18,988000,CA,95126
+"1031 Westwood Dr,","1,202",1,,2,1948,San Jose,25,"7,140","1,123",Single Family Home,7,6,6,18-Jun-18,1350000,CA,95125
+"1030 Vine St,","1,511",2,,3,1998,San Jose,17,"5,880",534,Single Family Home,4,6,6,15-Jun-18,806688,CA,95110
+"1030 Nightfall Ct,","2,167",2,,4,1969,San Jose,30,"7,700",765,Single Family Home,10,8,10,26-Jul-18,1658000,CA,95120
+"1030 Laurie Ave,","3,046",3,,4,1940,San Jose,49,"5,763",656,Single Family Home,9,6,6,6-Sep-18,1998000,CA,95125
+"10296 Chrisland Ct,","1,242",1,,3,1951,San Jose,73,"4,560",552,Single Family Home,4,4,NR,19-Oct-18,685000,CA,95127
+"10290 Serrano Ave,","1,319",1,,2,1951,San Jose,,"7,800",493,Single Family Home,4,4,5,28-Sep-18,650000,CA,95127
+"1029 Cumberland Pl,","1,319",2,,3,1974,San Jose,55,"3,060",713,Condo/Townhome/Row Home/Co-Op,9,6,6,13-Aug-18,940000,CA,95125
+"10288 Lochner Dr,","1,154",2,,4,1954,San Jose,,"7,350",663,Single Family Home,6,NR,5,9-Nov-18,765000,CA,95127
+"1026 Abruzzo Ln Unit 6,","1,171",2,,2,2017,San Jose,200,,764,Condo/Townhome/Row Home/Co-Op,,,,29-Jun-18,895050,CA,95131
+"1025 Bellante Ln Unit 7,","1,847",3,,3,2017,San Jose,75,"1,551",718,Condo/Townhome/Row Home/Co-Op,,,,31-Aug-18,1325500,CA,95131
+"1025 Bellante Ln Unit 5,","1,371",2,,2,2017,San Jose,78,"1,552",759,Condo/Townhome/Row Home/Co-Op,,,,28-Aug-18,1040000,CA,95131
+"1025 Bellante Ln Unit 1,","1,847",3,,3,2017,San Jose,78,"1,552",711,Condo/Townhome/Row Home/Co-Op,,,,28-Aug-18,1313500,CA,95131
+"1022 Thyme Walkway,","1,697",3,1,3,2012,San Jose,29,435,663,Condo/Townhome/Row Home/Co-Op,6,6,9,27-Jun-18,1125000,CA,95133
+"1022 Locust St,","1,980",3,,4,1928,San Jose,45,"5,000",530,Single Family Home,4,6,6,27-Jul-18,1050000,CA,95110
+"1020 Summermist Ct # 92,","1,056",2,,2,1985,San Jose,61,435,511,Condo/Townhome/Row Home/Co-Op,6,9,2,14-Sep-18,540000,CA,95122
+"1020 Happy Valley Ave,","1,607",2,,4,1964,San Jose,35,"6,077","1,105",Single Family Home,8,8,7,20-Sep-18,1775000,CA,95129
+"1015 Esparanza Way,","1,291",2,1,2,1999,San Jose,34,"1,291",634,Condo/Townhome/Row Home/Co-Op,7,7,9,19-Jun-18,818000,CA,95138
+"1015 Delmas Ave,","1,078",2,,3,1950,San Jose,28,"4,280",872,Single Family Home,7,6,6,13-Jun-18,940000,CA,95125
+"10121 Griffith St,","1,206",1,,3,1952,San Jose,27,"5,510",568,Single Family Home,NR,NR,5,14-Jun-18,685000,CA,95127
+"1012 Glenridge Dr,","1,512",2,,3,1968,San Jose,75,"6,664",771,Single Family Home,6,5,NR,31-Aug-18,1165000,CA,95136
+"1010 Rawlings Dr,","1,514",2,,4,1963,San Jose,29,"6,077",760,Single Family Home,6,5,NR,13-Jun-18,1150000,CA,95136
+"1010 Laura Ville Ln,","4,133",4,,5,1999,San Jose,59,"9,382",569,Single Family Home,7,6,6,27-Jul-18,2350000,CA,95125
+"1010 Branham Ln,","1,302",2,,3,1964,San Jose,46,"6,405",730,Single Family Home,6,5,NR,16-Jul-18,950000,CA,95136
+"101 Yasui Ct,","1,697",2,1,3,1992,San Jose,42,"5,384",651,Single Family Home,6,6,8,26-Jun-18,1105000,CA,95138
+"1008 Summerplace Dr,","1,004",2,,1,1991,San Jose,,578,478,Condo/Townhome/Row Home/Co-Op,6,9,2,29-Oct-18,480000,CA,95122
+"1007 Twin Brook Dr,","1,571",2,,3,1964,San Jose,34,"6,820",904,Single Family Home,7,6,6,15-Jun-18,1420000,CA,95126
+"1007 Foxchase Dr,",964,1,,1,1983,San Jose,49,436,628,Condo/Townhome/Row Home/Co-Op,6,6,8,26-Jun-18,605000,CA,95123
+"1006 Bellhurst Ave,","1,162",1,1,3,1970,San Jose,45,784,521,Condo/Townhome/Row Home/Co-Op,5,2,5,15-Jun-18,605000,CA,95122
+"1004 Franquette Ave,","1,117",1,,3,1939,San Jose,40,0.24,"1,141",Single Family Home,9,6,6,5-Oct-18,1275000,CA,95125
+"1 E Julian St Unit 217,",742,1,,1,2008,San Jose,,742,876,Condo/Townhome/Row Home/Co-Op,3,NR,3,2-Nov-18,650000,CA,95112
